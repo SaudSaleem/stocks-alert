@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psx-data-reader
+apscheduler
+pydantic 
+requests
+python-dotenv
+pandas
+passlib
+python-multipart
+bcrypt
+pyjwt
+pytz
+schedule

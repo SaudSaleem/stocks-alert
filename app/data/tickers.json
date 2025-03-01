@@ -1,0 +1,3526 @@
+[
+    {
+        "symbol": "AKBLTFC6",
+        "name": "Askari Bank(TFC6)"
+    },
+    {
+        "symbol": "AKBLTFC7",
+        "name": "Askari Bank(TFC7)"
+    },
+    {
+        "symbol": "BAFLTFC6",
+        "name": "Bank Al-Falah(TFC6"
+    },
+    {
+        "symbol": "BAFLTFC8",
+        "name": "Bank Alfalah(TFC8)"
+    },
+    {
+        "symbol": "BAHLTFC10",
+        "name": "BANK AL HABIB LTD. (10TH ISSUE)"
+    },
+    {
+        "symbol": "BAHLTFC9",
+        "name": "Bank Al-Habib(TFC9"
+    },
+    {
+        "symbol": "BIPLSC",
+        "name": "Bank IslamiSC"
+    },
+    {
+        "symbol": "BIPLSC2",
+        "name": "BankIslami Pakistan Ltd"
+    },
+    {
+        "symbol": "BOPTFC2",
+        "name": "Bank Of Punjab(TFC"
+    },
+    {
+        "symbol": "HBLTFC2",
+        "name": "Habib Bank(TFC2)"
+    },
+    {
+        "symbol": "HBLTFC3",
+        "name": "Habib Bank (TFC3)"
+    },
+    {
+        "symbol": "HUBPHLSC",
+        "name": "Hub Power Holding"
+    },
+    {
+        "symbol": "JSBLTFC2",
+        "name": "JS Bank Ltd(TFC2)"
+    },
+    {
+        "symbol": "JSBLTFC3",
+        "name": "JS Bank(TFC)"
+    },
+    {
+        "symbol": "JSBLTFC4",
+        "name": "JS BANK (TFC)"
+    },
+    {
+        "symbol": "KELSC5",
+        "name": "K-Electric(Sukuk5)"
+    },
+    {
+        "symbol": "KELSC6",
+        "name": "K-Electric LtdSC6"
+    },
+    {
+        "symbol": "KFGB1",
+        "name": "Kashf Foundation Gender Bond"
+    },
+    {
+        "symbol": "MUGHALSC",
+        "name": "Mughal Steel Sukuk"
+    },
+    {
+        "symbol": "P01GIS031225",
+        "name": "1 Year GIS Discounted Mat.03-12-25"
+    },
+    {
+        "symbol": "P01GIS040226",
+        "name": "1 Year GIS Discounted Mat.04-02-26"
+    },
+    {
+        "symbol": "P01GIS061125",
+        "name": "1 Year GIS Disounted Mat.06-11-25"
+    },
+    {
+        "symbol": "P01GIS080126",
+        "name": "1 Year GIS Discounted Mat. 08-01-26"
+    },
+    {
+        "symbol": "P01GIS080425",
+        "name": "1 Year GIS Discounted Mat.08-04-25"
+    },
+    {
+        "symbol": "P01GIS090525",
+        "name": "1 Year GIS Discounted Mat.09-05-25"
+    },
+    {
+        "symbol": "P01GIS140325",
+        "name": "1 Year GIS Discounted Mat. 14-03-25"
+    },
+    {
+        "symbol": "P01GIS150825",
+        "name": "1 Year GIS- Discounted-Mat 15-08-25"
+    },
+    {
+        "symbol": "P01GIS170925",
+        "name": "1 Year GIS Discounted - Mat. 17-09-25"
+    },
+    {
+        "symbol": "P01GIS201025",
+        "name": "1 Year GIS Discounted Mat.20-10-25"
+    },
+    {
+        "symbol": "P01GIS230525",
+        "name": "1 Year GIS Discounted Mat.23-05-25"
+    },
+    {
+        "symbol": "P01GIS250425",
+        "name": "1 Year GIS Discounted Mat.25-04-25"
+    },
+    {
+        "symbol": "P01GIS250725",
+        "name": "1 Year GIS Discounted Mat.25-07-25"
+    },
+    {
+        "symbol": "P01GIS270625",
+        "name": "1 Year GIS Discounted Mat.27-06-25"
+    },
+    {
+        "symbol": "P01GIS280325",
+        "name": "1 Year GIS Discounted Mat. 28-03-25"
+    },
+    {
+        "symbol": "P02PFL060425",
+        "name": "P02PFL060425"
+    },
+    {
+        "symbol": "P02PFL090225",
+        "name": "P02PFL090225"
+    },
+    {
+        "symbol": "P02PFL210925",
+        "name": "P02PFL210925"
+    },
+    {
+        "symbol": "P03FRR090128",
+        "name": "3 Year Fixed Rental Rate Mat.09-01-28"
+    },
+    {
+        "symbol": "P03FRR100527",
+        "name": "3 Year Fixed Rental Rate - Mat.10-May-27"
+    },
+    {
+        "symbol": "P03FRR180927",
+        "name": "3 Year Fixed Rental Rate Mat. 18-09-27"
+    },
+    {
+        "symbol": "P03FRR211027",
+        "name": "3 Year Fixed Rental Rate Mat.21-10-27"
+    },
+    {
+        "symbol": "P03FRR240127",
+        "name": "3 Year Fixed Rental Rate-Mat. 24-Jan-27"
+    },
+    {
+        "symbol": "P03FRR280627",
+        "name": "3 Year Fixed Rental Rate - Mat.28-Jun-27"
+    },
+    {
+        "symbol": "P03PFL090226",
+        "name": "P03PFL090226"
+    },
+    {
+        "symbol": "P03PFL191026",
+        "name": "P03PFL191026"
+    },
+    {
+        "symbol": "P03PFL210926",
+        "name": "P03PFL210926"
+    },
+    {
+        "symbol": "P03PIB040825",
+        "name": "P03PIB040825"
+    },
+    {
+        "symbol": "P03PIB050824",
+        "name": "P03PIB050824"
+    },
+    {
+        "symbol": "P03VRR090128",
+        "name": "3 Yr Variable Rental Rate -Mat.09-01-28"
+    },
+    {
+        "symbol": "P03VRR100527",
+        "name": "3 Yr Variable Rental Rate -Mat.10-May-27"
+    },
+    {
+        "symbol": "P03VRR180927",
+        "name": "3 Yr Variable Rental Rate Mat 18-09-27"
+    },
+    {
+        "symbol": "P03VRR211027",
+        "name": "3 Yr Variable Rental Rate -Mat.21-Oct-27"
+    },
+    {
+        "symbol": "P03VRR240127",
+        "name": "3 Yr Variable Rental Rate -Mat.24-Jan-27"
+    },
+    {
+        "symbol": "P03VRR280627",
+        "name": "3 Yr Variable Rental Rate -Mat.28-Jun-27"
+    },
+    {
+        "symbol": "P05FRR090130",
+        "name": "5 Yr Fixed Rental Rate - Mat. 09-Jan-30"
+    },
+    {
+        "symbol": "P05FRR100529",
+        "name": "5 Yr Fixed Rental Rate -Mat. 10-May-29"
+    },
+    {
+        "symbol": "P05FRR180929",
+        "name": "5 Yr Fixed Rental Rate Mat. 18-09-29"
+    },
+    {
+        "symbol": "P05FRR211029",
+        "name": "5 Yr Fixed Rental Rate - Mat. 21-Oct-29"
+    },
+    {
+        "symbol": "P05FRR240129",
+        "name": "5 Yr Fixed Rental Rate -Mat. 24-Jan-29"
+    },
+    {
+        "symbol": "P05FRR280629",
+        "name": "5 Yr Fixed Rental Rate - Mat.28-Jun-29"
+    },
+    {
+        "symbol": "P05GIS091225",
+        "name": "P05GIS091225"
+    },
+    {
+        "symbol": "P05GIS290725",
+        "name": "P05GIS290725"
+    },
+    {
+        "symbol": "P05GIS300425",
+        "name": "P05GIS300425"
+    },
+    {
+        "symbol": "P05PFL060428",
+        "name": "P05PFL060428"
+    },
+    {
+        "symbol": "P05PFL161127",
+        "name": "P05PFL161127"
+    },
+    {
+        "symbol": "P05PFL180625",
+        "name": "P05PFL180625"
+    },
+    {
+        "symbol": "P05PFL191028",
+        "name": "P05PFL191028"
+    },
+    {
+        "symbol": "P05PFL210928",
+        "name": "P05PFL210928"
+    },
+    {
+        "symbol": "P05PIB131027",
+        "name": "P05PIB131027"
+    },
+    {
+        "symbol": "P05PIB151025",
+        "name": "P05PIB151025"
+    },
+    {
+        "symbol": "P05PIB190924",
+        "name": "P05PIB190924"
+    },
+    {
+        "symbol": "P05PIB290427",
+        "name": "P05PIB290427"
+    },
+    {
+        "symbol": "P05VRR090130",
+        "name": "5 Yr Variable Rental Rate -Mat.09-01-30"
+    },
+    {
+        "symbol": "P05VRR100529",
+        "name": "5 Yr Variable Rental Rate -Mat.10-May-29"
+    },
+    {
+        "symbol": "P05VRR180929",
+        "name": "5 Yr Variable Rental Rate - Mat.18-09-29"
+    },
+    {
+        "symbol": "P05VRR211029",
+        "name": "5 Yr Variable Rental Rate -Mat.21-Oct-29"
+    },
+    {
+        "symbol": "P05VRR240129",
+        "name": "5 Yr Variable Rental Rate -Mat.24-Jan-29"
+    },
+    {
+        "symbol": "P05VRR280629",
+        "name": "5 Yr Variable Rental Rate -Mat.28-06-29"
+    },
+    {
+        "symbol": "P10FRR090135",
+        "name": "10 Year Fixed Rental Rate Mat. 09-01-35"
+    },
+    {
+        "symbol": "P10FRR180934",
+        "name": "10 Year Fixed Rental Rate Mat. 18-09-34"
+    },
+    {
+        "symbol": "P10FRR211034",
+        "name": "10 Year Fixed Rental Rate Mat. 21-10-34"
+    },
+    {
+        "symbol": "P10PFL220829",
+        "name": "P10PFL220829"
+    },
+    {
+        "symbol": "P10PIB101230",
+        "name": "P10PIB101230"
+    },
+    {
+        "symbol": "P10PIB120728",
+        "name": "P10PIB120728"
+    },
+    {
+        "symbol": "P10PIB190929",
+        "name": "P10PIB190929"
+    },
+    {
+        "symbol": "P10VRR090135",
+        "name": "10 Yr Variable Rental Rate -Mat.09-01-35"
+    },
+    {
+        "symbol": "P10VRR180934",
+        "name": "10 Yr Variable Rental Rate -Mat.18-09-34"
+    },
+    {
+        "symbol": "P10VRR211034",
+        "name": "10 Yr Variable Rental Rate -Mat.21-10-34"
+    },
+    {
+        "symbol": "PESC1",
+        "name": "Pak Energy(Sukuk)"
+    },
+    {
+        "symbol": "PESC2",
+        "name": "Pak Energy(SukukII"
+    },
+    {
+        "symbol": "PK03TB020525",
+        "name": "PK03TB020525"
+    },
+    {
+        "symbol": "PK03TB030425",
+        "name": "PK03TB030425"
+    },
+    {
+        "symbol": "PK03TB060225",
+        "name": "PK03TB060225"
+    },
+    {
+        "symbol": "PK03TB060325",
+        "name": "PK03TB060325"
+    },
+    {
+        "symbol": "PK03TB090125",
+        "name": "PK03TB090125"
+    },
+    {
+        "symbol": "PK03TB150525",
+        "name": "PK03TB150525"
+    },
+    {
+        "symbol": "PK03TB170425",
+        "name": "PK03TB170425"
+    },
+    {
+        "symbol": "PK03TB200225",
+        "name": "PK03TB200225"
+    },
+    {
+        "symbol": "PK03TB200325",
+        "name": "PK03TB200325"
+    },
+    {
+        "symbol": "PK03TB230125",
+        "name": "PK03TB230125"
+    },
+    {
+        "symbol": "PK03TB281124",
+        "name": "PK03TB281124"
+    },
+    {
+        "symbol": "PK06TB020525",
+        "name": "PK06TB020525"
+    },
+    {
+        "symbol": "PK06TB030425",
+        "name": "PK06TB030425"
+    },
+    {
+        "symbol": "PK06TB060225",
+        "name": "PK06TB060225"
+    },
+    {
+        "symbol": "PK06TB060325",
+        "name": "PK06TB060325"
+    },
+    {
+        "symbol": "PK06TB070825",
+        "name": "PK06TB070825"
+    },
+    {
+        "symbol": "PK06TB090125",
+        "name": "PK06TB090125"
+    },
+    {
+        "symbol": "PK06TB100725",
+        "name": "PK06TB100725"
+    },
+    {
+        "symbol": "PK06TB120625",
+        "name": "PK06TB120625"
+    },
+    {
+        "symbol": "PK06TB121224",
+        "name": "PK06TB121224"
+    },
+    {
+        "symbol": "PK06TB150525",
+        "name": "PK06TB150525"
+    },
+    {
+        "symbol": "PK06TB170425",
+        "name": "PK06TB170425"
+    },
+    {
+        "symbol": "PK06TB200225",
+        "name": "PK06TB200225"
+    },
+    {
+        "symbol": "PK06TB210825",
+        "name": "PK06TB210825"
+    },
+    {
+        "symbol": "PK06TB230125",
+        "name": "PK06TB230125"
+    },
+    {
+        "symbol": "PK06TB240725",
+        "name": "PK06TB240725"
+    },
+    {
+        "symbol": "PK06TB260625",
+        "name": "PK06TB260625"
+    },
+    {
+        "symbol": "PK06TB261224",
+        "name": "PK06TB261224"
+    },
+    {
+        "symbol": "PK06TB281124",
+        "name": "PK06TB281124"
+    },
+    {
+        "symbol": "PK06TB290525",
+        "name": "PK06TB290525"
+    },
+    {
+        "symbol": "PK12TB020525",
+        "name": "PK12TB020525"
+    },
+    {
+        "symbol": "PK12TB021025",
+        "name": "PK12TB021025"
+    },
+    {
+        "symbol": "PK12TB040925",
+        "name": "PK12TB040925"
+    },
+    {
+        "symbol": "PK12TB060225",
+        "name": "PK12TB060225"
+    },
+    {
+        "symbol": "PK12TB060226",
+        "name": "PK12TB060226"
+    },
+    {
+        "symbol": "PK12TB060325",
+        "name": "PK12TB060325"
+    },
+    {
+        "symbol": "PK12TB070825",
+        "name": "PK12TB070825"
+    },
+    {
+        "symbol": "PK12TB080126",
+        "name": "PK12TB080126"
+    },
+    {
+        "symbol": "PK12TB090125",
+        "name": "PK12TB090125"
+    },
+    {
+        "symbol": "PK12TB100725",
+        "name": "PK12TB100725"
+    },
+    {
+        "symbol": "PK12TB111225",
+        "name": "PK12TB111225"
+    },
+    {
+        "symbol": "PK12TB120625",
+        "name": "PK12TB120625"
+    },
+    {
+        "symbol": "PK12TB121224",
+        "name": "PK12TB121224"
+    },
+    {
+        "symbol": "PK12TB131125",
+        "name": "PK12TB131125"
+    },
+    {
+        "symbol": "PK12TB150525",
+        "name": "PK12TB150525"
+    },
+    {
+        "symbol": "PK12TB161025",
+        "name": "PK12TB161025"
+    },
+    {
+        "symbol": "PK12TB170425",
+        "name": "PK12TB170425"
+    },
+    {
+        "symbol": "PK12TB190226",
+        "name": "PK12TB190226"
+    },
+    {
+        "symbol": "PK12TB200225",
+        "name": "PK12TB200225"
+    },
+    {
+        "symbol": "PK12TB200325",
+        "name": "PK12TB200325"
+    },
+    {
+        "symbol": "PK12TB210825",
+        "name": "PK12TB210825"
+    },
+    {
+        "symbol": "PK12TB220126",
+        "name": "PK12TB220126"
+    },
+    {
+        "symbol": "PK12TB230125",
+        "name": "PK12TB230125"
+    },
+    {
+        "symbol": "PK12TB240725",
+        "name": "PK12TB240725"
+    },
+    {
+        "symbol": "PK12TB260625",
+        "name": "PK12TB260625"
+    },
+    {
+        "symbol": "PK12TB261224",
+        "name": "PK12TB261224"
+    },
+    {
+        "symbol": "PK12TB261225",
+        "name": "PK12TB261225"
+    },
+    {
+        "symbol": "PK12TB271125",
+        "name": "PK12TB271125"
+    },
+    {
+        "symbol": "PK12TB281124",
+        "name": "PK12TB281124"
+    },
+    {
+        "symbol": "PK12TB290525",
+        "name": "PK12TB290525"
+    },
+    {
+        "symbol": "PK12TB301025",
+        "name": "PK12TB301025"
+    },
+    {
+        "symbol": "SBLTFC",
+        "name": "Samba Bank Ltd.(TF"
+    },
+    {
+        "symbol": "SNBLTFC3",
+        "name": "Soneri Bank(TFC3)"
+    },
+    {
+        "symbol": "SNBLTFC4",
+        "name": "SONERI BANK LIMITED (4TH ISSUE)"
+    },
+    {
+        "symbol": "TPLPTFC2",
+        "name": "TPL Properties Limited"
+    },
+    {
+        "symbol": "TPLSC",
+        "name": "TPL Corp Ltd.(SC)"
+    },
+    {
+        "symbol": "TPLTFC3",
+        "name": "TPLCorp(TFC3)"
+    },
+    {
+        "symbol": "UBLTFC5",
+        "name": "United Bank(TFC5)"
+    },
+    {
+        "symbol": "UMBLTFC1",
+        "name": "U Microfinance Bank Limited(TFC1)"
+    },
+    {
+        "symbol": "786",
+        "name": "786 Investments Limited"
+    },
+    {
+        "symbol": "AABS",
+        "name": "Al-Abbas Sugar Mills Limited"
+    },
+    {
+        "symbol": "AAL",
+        "name": "Agro Allianz Limited"
+    },
+    {
+        "symbol": "AASM",
+        "name": "Al-Abid Silk Mills Limited"
+    },
+    {
+        "symbol": "AATM",
+        "name": "Ali Asghar Textile Mills Limited"
+    },
+    {
+        "symbol": "ABL",
+        "name": "Allied Bank Limited"
+    },
+    {
+        "symbol": "ABOT",
+        "name": "Abbott Laboratories (Pakistan) Limited"
+    },
+    {
+        "symbol": "ABSON",
+        "name": "Abson Industries Limited"
+    },
+    {
+        "symbol": "ACIETF",
+        "name": "Alfalah Consumer Index (ETF)"
+    },
+    {
+        "symbol": "ACPL",
+        "name": "Attock Cement Pakistan Limited"
+    },
+    {
+        "symbol": "ADAMS",
+        "name": "Adam Sugar Mills Limited"
+    },
+    {
+        "symbol": "ADMM",
+        "name": "Artistic Denim Mills Limited"
+    },
+    {
+        "symbol": "ADOS",
+        "name": "Ados Pakistan Limited"
+    },
+    {
+        "symbol": "ADTM",
+        "name": "Adil Textile Mills Limited"
+    },
+    {
+        "symbol": "AEL",
+        "name": "AEL Textile Limited"
+    },
+    {
+        "symbol": "AGHA",
+        "name": "Agha Steel Ind.Ltd"
+    },
+    {
+        "symbol": "AGIC",
+        "name": "Askari General Insurance Company Limited"
+    },
+    {
+        "symbol": "AGIL",
+        "name": "Agriauto Industries Limited"
+    },
+    {
+        "symbol": "AGL",
+        "name": "Agritech Limited"
+    },
+    {
+        "symbol": "AGLNCPS",
+        "name": "Agritech Non-Voting (Pref) Class A"
+    },
+    {
+        "symbol": "AGP",
+        "name": "AGP Limited"
+    },
+    {
+        "symbol": "AGSML",
+        "name": "Abdullah Shah Ghazi Sugar Mills Limited"
+    },
+    {
+        "symbol": "AGTL",
+        "name": "Al-Ghazi Tractors Limited"
+    },
+    {
+        "symbol": "AHCL",
+        "name": "Arif Habib Corporation Limited"
+    },
+    {
+        "symbol": "AHL",
+        "name": "Arif Habib Limited"
+    },
+    {
+        "symbol": "AHTM",
+        "name": "Ahmad Hassan Textile Mills Limited"
+    },
+    {
+        "symbol": "AICL",
+        "name": "Adamjee Insurance Company Limited"
+    },
+    {
+        "symbol": "AIRLINK",
+        "name": "Air Link Communication Limited"
+    },
+    {
+        "symbol": "AKBL",
+        "name": "Askari Bank Limited"
+    },
+    {
+        "symbol": "AKDCL",
+        "name": "AKD Capital Limited"
+    },
+    {
+        "symbol": "AKDHL",
+        "name": "AKD Hospitality Limited"
+    },
+    {
+        "symbol": "AKDSL",
+        "name": "AKD Securities Limited"
+    },
+    {
+        "symbol": "AKGL",
+        "name": "Al-Khair Gadoon Limited"
+    },
+    {
+        "symbol": "AKZO",
+        "name": "Akzo Nobel Pakistan Limited"
+    },
+    {
+        "symbol": "ALAC",
+        "name": "Askari Life Assurance Company Limited"
+    },
+    {
+        "symbol": "ALIFE",
+        "name": "Adamjee Life Assurance Company Limited"
+    },
+    {
+        "symbol": "ALNRS",
+        "name": "Al-Noor Sugar Mills Limited"
+    },
+    {
+        "symbol": "ALQT",
+        "name": "Al-Qadir Textile Mills Limited"
+    },
+    {
+        "symbol": "ALTN",
+        "name": "Altern Energy Limited"
+    },
+    {
+        "symbol": "AMBL",
+        "name": "Apna Microfinance Bank Limited"
+    },
+    {
+        "symbol": "AMSL",
+        "name": "Al-Mal Securities & Services Limited"
+    },
+    {
+        "symbol": "AMTEX",
+        "name": "Amtex Limited"
+    },
+    {
+        "symbol": "ANL",
+        "name": "Azgard Nine Limited"
+    },
+    {
+        "symbol": "ANLPS",
+        "name": "Azgard Nine 8.95%(Pref)"
+    },
+    {
+        "symbol": "ANNT",
+        "name": "Annoor Textile Mills Limited"
+    },
+    {
+        "symbol": "ANSM",
+        "name": "Ansari Sugar Mills Limited"
+    },
+    {
+        "symbol": "ANTM",
+        "name": "AN Textile Mills Limited"
+    },
+    {
+        "symbol": "APL",
+        "name": "Attock Petroleum Limited"
+    },
+    {
+        "symbol": "APOT",
+        "name": "Apollo Textile Mills Limited"
+    },
+    {
+        "symbol": "AQTM",
+        "name": "Al-Qaim Textile Mills Limited"
+    },
+    {
+        "symbol": "ARCTM",
+        "name": "Arctic Textile Mills Limited"
+    },
+    {
+        "symbol": "ARM",
+        "name": "Allied Rental Modaraba"
+    },
+    {
+        "symbol": "ARPAK",
+        "name": "Arpak International Investments Ltd."
+    },
+    {
+        "symbol": "ARPL",
+        "name": "Archroma Pakistan Limited"
+    },
+    {
+        "symbol": "ARUJ",
+        "name": "Aruj Industries Limited"
+    },
+    {
+        "symbol": "ASC",
+        "name": "Al Shaheer Corporation Limited"
+    },
+    {
+        "symbol": "ASCR1",
+        "name": "AL-Shaheer (R)"
+    },
+    {
+        "symbol": "ASHT",
+        "name": "Ashfaq Textile Mills Limited"
+    },
+    {
+        "symbol": "ASIC",
+        "name": "Asia Insurance Company Limited"
+    },
+    {
+        "symbol": "ASL",
+        "name": "Aisha Steel Mills Limited"
+    },
+    {
+        "symbol": "ASLCPS",
+        "name": "Aisha Steel Convt (Pref) Right"
+    },
+    {
+        "symbol": "ASLPS",
+        "name": "Aisha Steel Convertible (Pref)"
+    },
+    {
+        "symbol": "ASRL",
+        "name": "Associated Services Limited"
+    },
+    {
+        "symbol": "ASTL",
+        "name": "Amreli Steels Limited"
+    },
+    {
+        "symbol": "ASTM",
+        "name": "Asim Textile Mills Limited"
+    },
+    {
+        "symbol": "ATBA",
+        "name": "Atlas Battery Limited"
+    },
+    {
+        "symbol": "ATIL",
+        "name": "Atlas Insurance Limited"
+    },
+    {
+        "symbol": "ATLH",
+        "name": "Atlas Honda Limited"
+    },
+    {
+        "symbol": "ATRL",
+        "name": "Attock Refinery Limited"
+    },
+    {
+        "symbol": "AVN",
+        "name": "Avanceon Limited"
+    },
+    {
+        "symbol": "AWTX",
+        "name": "Allawasaya Tex. & Finishing Mills Ltd"
+    },
+    {
+        "symbol": "AWWAL",
+        "name": "Awwal Modaraba"
+    },
+    {
+        "symbol": "AYTM",
+        "name": "Ayesha Textile Mills Limited"
+    },
+    {
+        "symbol": "AYZT",
+        "name": "Ayaz Textile Mills Limited"
+    },
+    {
+        "symbol": "AZMT",
+        "name": "Azmat Textile Mills Limited"
+    },
+    {
+        "symbol": "AZTM",
+        "name": "Al-Azhar Textile Mills Limited"
+    },
+    {
+        "symbol": "BAFL",
+        "name": "Bank Alfalah Limited"
+    },
+    {
+        "symbol": "BAFS",
+        "name": "Baba Farid Sugar Mills Limited"
+    },
+    {
+        "symbol": "BAHL",
+        "name": "Bank AL Habib Limited"
+    },
+    {
+        "symbol": "BAPL",
+        "name": "Bawany Air Products Limited"
+    },
+    {
+        "symbol": "BATA",
+        "name": "Bata Pakistan Limited"
+    },
+    {
+        "symbol": "BBFL",
+        "name": "Big Bird Foods Limited"
+    },
+    {
+        "symbol": "BCL",
+        "name": "Bolan Castings Limited"
+    },
+    {
+        "symbol": "BCML",
+        "name": "Babri Cotton Mills Limited"
+    },
+    {
+        "symbol": "BECO",
+        "name": "Beco Steel Limited"
+    },
+    {
+        "symbol": "BEEM",
+        "name": "Beema-Pakistan Company Limited"
+    },
+    {
+        "symbol": "BELA",
+        "name": "Bela Automotives Limited"
+    },
+    {
+        "symbol": "BERG",
+        "name": "Berger Paints Pakistan Limited"
+    },
+    {
+        "symbol": "BFBIO",
+        "name": "BF Biosciences Limited"
+    },
+    {
+        "symbol": "BFMOD",
+        "name": "B.F. Modaraba"
+    },
+    {
+        "symbol": "BGL",
+        "name": "Baluchistan Glass Limited"
+    },
+    {
+        "symbol": "BHAT",
+        "name": "Bhanero Textile Mills Limited"
+    },
+    {
+        "symbol": "BIFO",
+        "name": "Biafo Industries Limited"
+    },
+    {
+        "symbol": "BIIC",
+        "name": "Business & Industrial Insurance Company"
+    },
+    {
+        "symbol": "BILF",
+        "name": "Bilal Fibres Limited"
+    },
+    {
+        "symbol": "BIPL",
+        "name": "BankIslami Pakistan Limited"
+    },
+    {
+        "symbol": "BIPLS",
+        "name": "BIPL Securities Limited"
+    },
+    {
+        "symbol": "BML",
+        "name": "Bank Makramah Limited"
+    },
+    {
+        "symbol": "BNL",
+        "name": "Bunnys Limited"
+    },
+    {
+        "symbol": "BNWM",
+        "name": "Bannu Woollen Mills Limited"
+    },
+    {
+        "symbol": "BOK",
+        "name": "The Bank of Khyber"
+    },
+    {
+        "symbol": "BOP",
+        "name": "The Bank of Punjab"
+    },
+    {
+        "symbol": "BPBL",
+        "name": "Balochistan Particle Board Limited"
+    },
+    {
+        "symbol": "BPL",
+        "name": "Burshane LPG (Pakistan) Limited"
+    },
+    {
+        "symbol": "BROT",
+        "name": "Brothers Textile Mills Limited"
+    },
+    {
+        "symbol": "BRR",
+        "name": "B.R.R. Guardian Modaraba"
+    },
+    {
+        "symbol": "BRRG",
+        "name": "B.R.R Guardian Limited"
+    },
+    {
+        "symbol": "BTL",
+        "name": "Blessed Textiles Limited"
+    },
+    {
+        "symbol": "BUXL",
+        "name": "Buxly Paints Limited"
+    },
+    {
+        "symbol": "BWCL",
+        "name": "Bestway Cement Limited"
+    },
+    {
+        "symbol": "BWHL",
+        "name": "Baluchistan Wheels Limited"
+    },
+    {
+        "symbol": "BYCO",
+        "name": "Byco Petroleum Pakistan Limited"
+    },
+    {
+        "symbol": "CASH",
+        "name": "Calcorp Limited"
+    },
+    {
+        "symbol": "CCM",
+        "name": "Crescent Cotton Mills Limited"
+    },
+    {
+        "symbol": "CECL",
+        "name": "Climax Engineering Company Limited"
+    },
+    {
+        "symbol": "CENI",
+        "name": "Century Insurance Company Limited"
+    },
+    {
+        "symbol": "CEPB",
+        "name": "Century Paper & Board Mills Limited"
+    },
+    {
+        "symbol": "CFL",
+        "name": "Crescent Fibres Limited"
+    },
+    {
+        "symbol": "CHAS",
+        "name": "Chashma Sugar Mills Limited"
+    },
+    {
+        "symbol": "CHBL",
+        "name": "Chenab Limited"
+    },
+    {
+        "symbol": "CHCC",
+        "name": "Cherat Cement Company Limited"
+    },
+    {
+        "symbol": "CJPL",
+        "name": "Crescent Jute Products Limited"
+    },
+    {
+        "symbol": "CLCPS",
+        "name": "Chenab Limited (Pref)"
+    },
+    {
+        "symbol": "CLOUD",
+        "name": "Chakwal Spinning Mills Limited"
+    },
+    {
+        "symbol": "CLOV",
+        "name": "Clover Pakistan Limited"
+    },
+    {
+        "symbol": "CLVL",
+        "name": "Cordoba Logistics & Ventures Limited"
+    },
+    {
+        "symbol": "CNERGY",
+        "name": "Cnergyico PK  Limited"
+    },
+    {
+        "symbol": "COLG",
+        "name": "Colgate-Palmolive (Pakistan) Limited"
+    },
+    {
+        "symbol": "COST",
+        "name": "(Colony) Sarhad Textile Mills Limited"
+    },
+    {
+        "symbol": "COTT",
+        "name": ""
+    },
+    {
+        "symbol": "CPAL",
+        "name": "Capital Assets Leasing Corporation"
+    },
+    {
+        "symbol": "CPHL",
+        "name": "Citi Pharma Ltd."
+    },
+    {
+        "symbol": "CPPL",
+        "name": "Cherat Packaging Limited"
+    },
+    {
+        "symbol": "CRTM",
+        "name": "The Crescent Textile Mills Limited"
+    },
+    {
+        "symbol": "CSAP",
+        "name": "Crescent Steel & Allied Products Limited"
+    },
+    {
+        "symbol": "CSIL",
+        "name": "Crescent Star Insurance Limited"
+    },
+    {
+        "symbol": "CSM",
+        "name": "Cresent Standard Modaraba"
+    },
+    {
+        "symbol": "CTM",
+        "name": "Colony Textile Mills Limited"
+    },
+    {
+        "symbol": "CWSM",
+        "name": "Chakwal Spinning Mills Limited"
+    },
+    {
+        "symbol": "CYAN",
+        "name": "Cyan Limited"
+    },
+    {
+        "symbol": "DAAG",
+        "name": "Data Agro Limited"
+    },
+    {
+        "symbol": "DADX",
+        "name": "Dadex Eternit Limited"
+    },
+    {
+        "symbol": "DATM",
+        "name": "Data Textiles Limited"
+    },
+    {
+        "symbol": "DAWH",
+        "name": "Dawood Hercules Corporation Limited"
+    },
+    {
+        "symbol": "DBCI",
+        "name": "Dadabhoy Cement Industries Limited"
+    },
+    {
+        "symbol": "DBSL",
+        "name": "Dadabhoy Sack Limited"
+    },
+    {
+        "symbol": "DCL",
+        "name": "Dewan Cement Limited"
+    },
+    {
+        "symbol": "DCM",
+        "name": "Dawood Capital Management Limited"
+    },
+    {
+        "symbol": "DCR",
+        "name": "Dolmen City REIT"
+    },
+    {
+        "symbol": "DCTL",
+        "name": "Dadabhoy Construction Technology Limited"
+    },
+    {
+        "symbol": "DEL",
+        "name": "Dawood Equities Limited"
+    },
+    {
+        "symbol": "DFML",
+        "name": "Dewan Farooque Motors Limited"
+    },
+    {
+        "symbol": "DFSM",
+        "name": "Dewan Farooque Spinning Mills Limited"
+    },
+    {
+        "symbol": "DGKC",
+        "name": "D.G. Khan Cement Company Limited"
+    },
+    {
+        "symbol": "DHPL",
+        "name": "DH Partners Limited"
+    },
+    {
+        "symbol": "DIIL",
+        "name": "Diamond Industries Limited"
+    },
+    {
+        "symbol": "DINT",
+        "name": "Din Textile Mills Limited"
+    },
+    {
+        "symbol": "DKL",
+        "name": "Drekkar Kingsway Limited"
+    },
+    {
+        "symbol": "DKTM",
+        "name": "Dewan Khalid Textile Mills Limited"
+    },
+    {
+        "symbol": "DLL",
+        "name": "Dawood Lawrencepur Limited"
+    },
+    {
+        "symbol": "DMIL",
+        "name": "D.M. Industries Limited"
+    },
+    {
+        "symbol": "DMTM",
+        "name": "Dewan Mushtaq Textile Mills Limited"
+    },
+    {
+        "symbol": "DMTX",
+        "name": "D.M. Textile Mills Limited"
+    },
+    {
+        "symbol": "DNCC",
+        "name": "Dandot Cement Company Limited"
+    },
+    {
+        "symbol": "DOL",
+        "name": "Descon Oxychem Limited"
+    },
+    {
+        "symbol": "DOLCPS",
+        "name": "Descon Oxychem Limited (12%Non-Voting Pref)"
+    },
+    {
+        "symbol": "DOMF",
+        "name": "Dominion Stock Fund Limited"
+    },
+    {
+        "symbol": "DSFL",
+        "name": "Dewan Salman Fibre Limited"
+    },
+    {
+        "symbol": "DSIL",
+        "name": "D.S. Industries Limited"
+    },
+    {
+        "symbol": "DSL",
+        "name": "Dost Steels Limited"
+    },
+    {
+        "symbol": "DSML",
+        "name": "Dar-es-Salaam Textile Mills Limited"
+    },
+    {
+        "symbol": "DWAE",
+        "name": "Dewan Automotive Engineering Limited"
+    },
+    {
+        "symbol": "DWSM",
+        "name": "Dewan Sugar Mills Limited"
+    },
+    {
+        "symbol": "DWTM",
+        "name": "Dewan Textile Mills Limited"
+    },
+    {
+        "symbol": "DYNO",
+        "name": "Dynea Pakistan Limited"
+    },
+    {
+        "symbol": "ECOP",
+        "name": "Ecopack Limited"
+    },
+    {
+        "symbol": "EFERT",
+        "name": "Engro Fertilizers Limited"
+    },
+    {
+        "symbol": "EFGH",
+        "name": "EFG Hermes Pakistan Limited"
+    },
+    {
+        "symbol": "EFOODS",
+        "name": "Engro Foods Limited"
+    },
+    {
+        "symbol": "EFUG",
+        "name": "EFU General Insurance Limited"
+    },
+    {
+        "symbol": "EFUL",
+        "name": "EFU Life Assurance Limited"
+    },
+    {
+        "symbol": "ELCM",
+        "name": "Elahi Cotton Mills Limited"
+    },
+    {
+        "symbol": "ELSM",
+        "name": "Ellcot Spinning Mills Limited"
+    },
+    {
+        "symbol": "EMCO",
+        "name": "Emco Industries Limited"
+    },
+    {
+        "symbol": "ENGL",
+        "name": "English Leasing Limited"
+    },
+    {
+        "symbol": "ENGRO",
+        "name": "Engro Corporation Limited"
+    },
+    {
+        "symbol": "ENGROH",
+        "name": "Engro Holdings Limited"
+    },
+    {
+        "symbol": "EPCL",
+        "name": "Engro Polymer & Chemicals Limited"
+    },
+    {
+        "symbol": "EPCLPS",
+        "name": "Engro Poly(Pref)"
+    },
+    {
+        "symbol": "EPCLR1",
+        "name": ""
+    },
+    {
+        "symbol": "EPQL",
+        "name": "Engro Powergen Qadirpur Limited"
+    },
+    {
+        "symbol": "ESBL",
+        "name": "Escorts Investment Bank Limited"
+    },
+    {
+        "symbol": "EWIC",
+        "name": "East West Insurance Company Limited"
+    },
+    {
+        "symbol": "EWICR1",
+        "name": "East West (R)"
+    },
+    {
+        "symbol": "EWLA",
+        "name": "East West Life Assurance Company Limited"
+    },
+    {
+        "symbol": "EXIDE",
+        "name": "Exide Pakistan Limited"
+    },
+    {
+        "symbol": "EXTR",
+        "name": "Extraction (Pakistan) Limited"
+    },
+    {
+        "symbol": "FABL",
+        "name": "Faysal Bank Limited"
+    },
+    {
+        "symbol": "FAEL",
+        "name": "Fatima Enterprises Limited"
+    },
+    {
+        "symbol": "FANM",
+        "name": "First Al-Noor Modaraba"
+    },
+    {
+        "symbol": "FASM",
+        "name": "Faisal Spinning Mills Limited"
+    },
+    {
+        "symbol": "FATIMA",
+        "name": "Fatima Fertilizer Company Limited"
+    },
+    {
+        "symbol": "FCCL",
+        "name": "Fauji Cement Company Limited"
+    },
+    {
+        "symbol": "FCEL",
+        "name": "First Capital Equities Limited"
+    },
+    {
+        "symbol": "FCEPL",
+        "name": "Frieslandcampina Engro Pakistan Limited"
+    },
+    {
+        "symbol": "FCIBL",
+        "name": "First Credit and Investment Bank Limited"
+    },
+    {
+        "symbol": "FCL",
+        "name": "Fast Cables Limited"
+    },
+    {
+        "symbol": "FCONM",
+        "name": "First Constellation Modaraba"
+    },
+    {
+        "symbol": "FCSC",
+        "name": "First Capital Securities Corporation"
+    },
+    {
+        "symbol": "FDIBL",
+        "name": "First Dawood Investment Bank Limited"
+    },
+    {
+        "symbol": "FDMF",
+        "name": "First Dawood Mutual Fund"
+    },
+    {
+        "symbol": "FDPL",
+        "name": "First Dawood Properties Limited"
+    },
+    {
+        "symbol": "FECM",
+        "name": "First Elite Capital Modaraba"
+    },
+    {
+        "symbol": "FECTC",
+        "name": "Fecto Cement Limited"
+    },
+    {
+        "symbol": "FEM",
+        "name": "First Equity Modaraba"
+    },
+    {
+        "symbol": "FEROZ",
+        "name": "Ferozsons Laboratories Limited"
+    },
+    {
+        "symbol": "FFBL",
+        "name": "Fauji Fertilizer Bin Qasim Limited"
+    },
+    {
+        "symbol": "FFC",
+        "name": "Fauji Fertilizer Company Limited"
+    },
+    {
+        "symbol": "FFL",
+        "name": "Fauji Foods Limited"
+    },
+    {
+        "symbol": "FFLM",
+        "name": "First Fidelity Leasing Modaraba"
+    },
+    {
+        "symbol": "FFLNV",
+        "name": ""
+    },
+    {
+        "symbol": "FFLR1",
+        "name": "Fauji Foods Ltd(R)"
+    },
+    {
+        "symbol": "FHAM",
+        "name": "First Habib Modaraba"
+    },
+    {
+        "symbol": "FIBLM",
+        "name": "First IBL Modaraba"
+    },
+    {
+        "symbol": "FIL",
+        "name": "Fateh Industries Limited"
+    },
+    {
+        "symbol": "FIM",
+        "name": "First Investec Modaraba"
+    },
+    {
+        "symbol": "FIMM",
+        "name": "First Imrooz Modaraba"
+    },
+    {
+        "symbol": "FLYNG",
+        "name": "Flying Cement Company Limited"
+    },
+    {
+        "symbol": "FLYNGR1",
+        "name": "Flying Cement(R)"
+    },
+    {
+        "symbol": "FML",
+        "name": "Feroze1888 Mills Limited"
+    },
+    {
+        "symbol": "FNBM",
+        "name": "First National Bank Modaraba"
+    },
+    {
+        "symbol": "FNEL",
+        "name": "First National Equities Limited"
+    },
+    {
+        "symbol": "FPJM",
+        "name": "First Punjab Modaraba"
+    },
+    {
+        "symbol": "FPRM",
+        "name": "First Paramount Modaraba"
+    },
+    {
+        "symbol": "FRCL",
+        "name": "Frontier Ceramics Limited"
+    },
+    {
+        "symbol": "FRSM",
+        "name": "Faran Sugar Mills Limited"
+    },
+    {
+        "symbol": "FSWL",
+        "name": "Fateh Sports Wear Limited"
+    },
+    {
+        "symbol": "FTHM",
+        "name": "Fateh Textile Mills Limited"
+    },
+    {
+        "symbol": "FTMM",
+        "name": "First Treet Manufacturing Modaraba"
+    },
+    {
+        "symbol": "FTSM",
+        "name": "First Tri-Star Modaraba"
+    },
+    {
+        "symbol": "FUDLM",
+        "name": "First UDL Modaraba"
+    },
+    {
+        "symbol": "FZCM",
+        "name": "Fazal Cloth Mills Limited"
+    },
+    {
+        "symbol": "GADT",
+        "name": "Gadoon Textile Mills Limited"
+    },
+    {
+        "symbol": "GAIL",
+        "name": "Ghani Automobile Industries Limited"
+    },
+    {
+        "symbol": "GAILR1",
+        "name": ""
+    },
+    {
+        "symbol": "GAL",
+        "name": "Ghandhara Automobiles Limited"
+    },
+    {
+        "symbol": "GAMON",
+        "name": "Gammon Pakistan Limited"
+    },
+    {
+        "symbol": "GASF",
+        "name": "Golden Arrow Selected Stocks"
+    },
+    {
+        "symbol": "GATI",
+        "name": "Gatron (Industries) Limited"
+    },
+    {
+        "symbol": "GATM",
+        "name": "Gul Ahmed Textile Mills Limited"
+    },
+    {
+        "symbol": "GCIL",
+        "name": "Ghani Chemical Industries Limited"
+    },
+    {
+        "symbol": "GCILB",
+        "name": "Ghani Chemical Industries Limited (B)"
+    },
+    {
+        "symbol": "GEMBCEM",
+        "name": "Burj Clean Energy Modaraba(GEM)"
+    },
+    {
+        "symbol": "GEMBLUEX",
+        "name": "Blue-Ex Limited (GEM)"
+    },
+    {
+        "symbol": "GEMMEL",
+        "name": "Mughal Energy Limited(GEM)"
+    },
+    {
+        "symbol": "GEMPAPL",
+        "name": "Pak Agro Packaging Limited(GEM)"
+    },
+    {
+        "symbol": "GEMSPNL",
+        "name": "Supernet Limited"
+    },
+    {
+        "symbol": "GEMUNSL",
+        "name": "Universal Network Systems Limited(GEM)"
+    },
+    {
+        "symbol": "GENP",
+        "name": "Genertech Pakistan Limited"
+    },
+    {
+        "symbol": "GFIL",
+        "name": "Ghazi Fabrics International Limited"
+    },
+    {
+        "symbol": "GGGL",
+        "name": "Ghani Global Glass Limited"
+    },
+    {
+        "symbol": "GGGLR1",
+        "name": "Ghani Global(R)"
+    },
+    {
+        "symbol": "GGL",
+        "name": "Ghani Global Holdings Limited"
+    },
+    {
+        "symbol": "GGLR1",
+        "name": "Ghani Global(R)"
+    },
+    {
+        "symbol": "GHGL",
+        "name": "Ghani Glass Limited"
+    },
+    {
+        "symbol": "GHGLR1",
+        "name": ""
+    },
+    {
+        "symbol": "GHNI",
+        "name": "Ghandhara Industries Limited"
+    },
+    {
+        "symbol": "GHNL",
+        "name": "Ghandhara Nissan Limited"
+    },
+    {
+        "symbol": "GIL",
+        "name": "Good Luck Industries Ltd."
+    },
+    {
+        "symbol": "GLAT",
+        "name": "Glamour Textile Mills Limited"
+    },
+    {
+        "symbol": "GLAXO",
+        "name": "GlaxoSmithKline Pakistan Limited"
+    },
+    {
+        "symbol": "GLOT",
+        "name": "Globe Textile Mills Limited"
+    },
+    {
+        "symbol": "GLPL",
+        "name": "Gillette Pakistan Limited"
+    },
+    {
+        "symbol": "GOC",
+        "name": "GOC (Pak) Limited."
+    },
+    {
+        "symbol": "GOEM",
+        "name": "Globe Textile Mills (OE) Limited"
+    },
+    {
+        "symbol": "GRR",
+        "name": "Globe Residency REIT"
+    },
+    {
+        "symbol": "GRYL",
+        "name": "Grays Leasing Limited"
+    },
+    {
+        "symbol": "GSKCH",
+        "name": "GlaxoSmithKline Consumer Healthcare"
+    },
+    {
+        "symbol": "GSPM",
+        "name": "Gulshan Spinning Mills Limited"
+    },
+    {
+        "symbol": "GTECH",
+        "name": "G3 Technologies Limited"
+    },
+    {
+        "symbol": "GTECHBR",
+        "name": "G3 Technologies Ltd.CLASS B"
+    },
+    {
+        "symbol": "GTYR",
+        "name": "Ghandhara Tyre & Rubber Company Limited"
+    },
+    {
+        "symbol": "GUSM",
+        "name": "Gulistan Spinning Mills Limited"
+    },
+    {
+        "symbol": "GUTM",
+        "name": "Gulistan Textile Mills Limited"
+    },
+    {
+        "symbol": "GVGL",
+        "name": "Ghani Value Glass Limited"
+    },
+    {
+        "symbol": "GWLC",
+        "name": "Gharibwal Cement Limited"
+    },
+    {
+        "symbol": "HABSM",
+        "name": "Habib Sugar Mills Limited"
+    },
+    {
+        "symbol": "HACC",
+        "name": "Hashimi Can Company Limited"
+    },
+    {
+        "symbol": "HADC",
+        "name": "Haydari Construction Company Limited"
+    },
+    {
+        "symbol": "HAEL",
+        "name": "Hala Enterprises Limited"
+    },
+    {
+        "symbol": "HAFL",
+        "name": "Hafiz Limited"
+    },
+    {
+        "symbol": "HAJT",
+        "name": "Hajra Textile Mills Limited"
+    },
+    {
+        "symbol": "HAL",
+        "name": "Habib-ADM Limited"
+    },
+    {
+        "symbol": "HALEON",
+        "name": "Haleon Pakistan Limited"
+    },
+    {
+        "symbol": "HASCOL",
+        "name": "Hascol Petroleum Limited"
+    },
+    {
+        "symbol": "HASCOLR1",
+        "name": "Hascol Petre(R)"
+    },
+    {
+        "symbol": "HATM",
+        "name": "Hamid Textile Mills Limited"
+    },
+    {
+        "symbol": "HBL",
+        "name": "Habib Bank Limited"
+    },
+    {
+        "symbol": "HBLTETF",
+        "name": "HBL Total Treasury (ETF)"
+    },
+    {
+        "symbol": "HCAR",
+        "name": "Honda Atlas Cars (Pakistan) Limited"
+    },
+    {
+        "symbol": "HCL",
+        "name": "Hallmark Company Limited"
+    },
+    {
+        "symbol": "HGFA",
+        "name": "HBL Growth Fund"
+    },
+    {
+        "symbol": "HICL",
+        "name": "Habib Insurance Company Limited"
+    },
+    {
+        "symbol": "HIFA",
+        "name": "HBL Investment Fund"
+    },
+    {
+        "symbol": "HINO",
+        "name": "Hinopak Motors Limited"
+    },
+    {
+        "symbol": "HINOON",
+        "name": "Highnoon Laboratories Limited"
+    },
+    {
+        "symbol": "HIRAT",
+        "name": "Hira Textile Mills Limited"
+    },
+    {
+        "symbol": "HKKT",
+        "name": "Hakkim Textile Mills Limited"
+    },
+    {
+        "symbol": "HMB",
+        "name": "Habib Metropolitan Bank Limited"
+    },
+    {
+        "symbol": "HMICL",
+        "name": "Hallmark Insurance Company Limited"
+    },
+    {
+        "symbol": "HMIM",
+        "name": "Haji Mohammad Ismail Mills Limited"
+    },
+    {
+        "symbol": "HMM",
+        "name": "Habib Metro Mod"
+    },
+    {
+        "symbol": "HPL",
+        "name": "Hoechst Pakistan Limited"
+    },
+    {
+        "symbol": "HRPL",
+        "name": "Habib Rice Product Limited."
+    },
+    {
+        "symbol": "HSM",
+        "name": "Husein Sugar Mills Limited"
+    },
+    {
+        "symbol": "HSMCPS",
+        "name": "Husein Sugar(Pref)"
+    },
+    {
+        "symbol": "HSMPSR",
+        "name": "Husein Sugar(R)"
+    },
+    {
+        "symbol": "HSMR1",
+        "name": ""
+    },
+    {
+        "symbol": "HSPI",
+        "name": "Huffaz Seamless Pipe Industries Limited"
+    },
+    {
+        "symbol": "HTL",
+        "name": "Hi-Tech Lubricants Limited"
+    },
+    {
+        "symbol": "HUBC",
+        "name": "The Hub Power Company Limited"
+    },
+    {
+        "symbol": "HUMNL",
+        "name": "Hum Network Limited"
+    },
+    {
+        "symbol": "HUSI",
+        "name": "Husein Industries Limited"
+    },
+    {
+        "symbol": "HWQS",
+        "name": "Haseeb Waqas Sugar Mills Limited"
+    },
+    {
+        "symbol": "IBFL",
+        "name": "Ibrahim Fibres Limited"
+    },
+    {
+        "symbol": "IBLHL",
+        "name": "IBL HealthCare Limited"
+    },
+    {
+        "symbol": "ICCI",
+        "name": "ICC Industries Limited"
+    },
+    {
+        "symbol": "ICCT",
+        "name": "ICC Textiles Limited"
+    },
+    {
+        "symbol": "ICI",
+        "name": "ICI Pakistan Limited"
+    },
+    {
+        "symbol": "ICIBL",
+        "name": "Invest Capital Investment Bank Limited"
+    },
+    {
+        "symbol": "ICL",
+        "name": "Ittehad Chemicals Limted"
+    },
+    {
+        "symbol": "ICLR1",
+        "name": ""
+    },
+    {
+        "symbol": "IDRT",
+        "name": "Idrees Textile Mills Limited"
+    },
+    {
+        "symbol": "IDSM",
+        "name": "Ideal Spinning Mills Limited"
+    },
+    {
+        "symbol": "IDYM",
+        "name": "Indus Dyeing & Manufacturing Co. Limited"
+    },
+    {
+        "symbol": "IFSL",
+        "name": "Invest & Finance Securities Limited"
+    },
+    {
+        "symbol": "IGIBL",
+        "name": "IGI Investment Bank Limited"
+    },
+    {
+        "symbol": "IGIHL",
+        "name": "IGI Holdings Limited"
+    },
+    {
+        "symbol": "IGIIL",
+        "name": "IGI Insurance Limited"
+    },
+    {
+        "symbol": "IGIL",
+        "name": "IGI Life Insurance Limited"
+    },
+    {
+        "symbol": "ILP",
+        "name": "Interloop Limited"
+    },
+    {
+        "symbol": "ILTM",
+        "name": "Island Textile Mills Limited"
+    },
+    {
+        "symbol": "IMAGE",
+        "name": "Image Pakistan Limited"
+    },
+    {
+        "symbol": "IMAGER1",
+        "name": "Image Pak Ltd(R)"
+    },
+    {
+        "symbol": "IML",
+        "name": "Imperial  Limited"
+    },
+    {
+        "symbol": "IMS",
+        "name": "Intermarket Securities Limited"
+    },
+    {
+        "symbol": "IMSL",
+        "name": "Imperial Sugar Limited"
+    },
+    {
+        "symbol": "INDU",
+        "name": "Indus Motor Company Limited"
+    },
+    {
+        "symbol": "INIL",
+        "name": "International Industries Limited"
+    },
+    {
+        "symbol": "INKL",
+        "name": "International Knitwear Limited"
+    },
+    {
+        "symbol": "INL",
+        "name": ""
+    },
+    {
+        "symbol": "INMF",
+        "name": "Investec Mutual Fund Limited"
+    },
+    {
+        "symbol": "IPAK",
+        "name": "International Packaging Films Limited"
+    },
+    {
+        "symbol": "ISHT",
+        "name": "Ishtiaq Textile Mills Limited"
+    },
+    {
+        "symbol": "ISIL",
+        "name": "Ismail Industries Limited"
+    },
+    {
+        "symbol": "ISL",
+        "name": "International Steels Limited"
+    },
+    {
+        "symbol": "ISTM",
+        "name": "Ishaq Textile Mills Limited"
+    },
+    {
+        "symbol": "ITSL",
+        "name": "Investec Securities Limited"
+    },
+    {
+        "symbol": "ITTEFAQ",
+        "name": "Ittefaq Iron Industries Limited"
+    },
+    {
+        "symbol": "JATM",
+        "name": "J.A. Textile Mills Limited"
+    },
+    {
+        "symbol": "JDMT",
+        "name": "Janana De Malucho Textile Mills Limited"
+    },
+    {
+        "symbol": "JDWS",
+        "name": "JDW Sugar Mills Limited"
+    },
+    {
+        "symbol": "JGICL",
+        "name": "Jubilee General Insurance Limited"
+    },
+    {
+        "symbol": "JKSM",
+        "name": "J.K. Spinning Mills Limited"
+    },
+    {
+        "symbol": "JLICL",
+        "name": "Jubilee Life Insurance Company Limited"
+    },
+    {
+        "symbol": "JOPP",
+        "name": "Johnson & Phillips (Pakistan) Limited"
+    },
+    {
+        "symbol": "JOVC",
+        "name": "Javed Omer Vohra & Company Limited"
+    },
+    {
+        "symbol": "JPGL",
+        "name": "Japan Power Generation Limited"
+    },
+    {
+        "symbol": "JSBL",
+        "name": "JS Bank Limited"
+    },
+    {
+        "symbol": "JSBLR1",
+        "name": "JS Bank Limited Right (R)"
+    },
+    {
+        "symbol": "JSCL",
+        "name": "Jahangir Siddiqui & Co. Ltd."
+    },
+    {
+        "symbol": "JSCLPSA",
+        "name": "Jahangir Sidd(Pref)"
+    },
+    {
+        "symbol": "JSCLR1",
+        "name": "Jahangi Sidd(R)"
+    },
+    {
+        "symbol": "JSGBETF",
+        "name": "JS Global Banking Sector(ETF)"
+    },
+    {
+        "symbol": "JSGCL",
+        "name": "JS Global Capital Limited"
+    },
+    {
+        "symbol": "JSIL",
+        "name": "JS Investments Limited"
+    },
+    {
+        "symbol": "JSMFETF",
+        "name": "JS Momentum Factor Exchange Traded Fund"
+    },
+    {
+        "symbol": "JSML",
+        "name": "Jauharabad Sugar Mills Limited"
+    },
+    {
+        "symbol": "JUBS",
+        "name": "Jubilee Spinning & Weaving Mills Ltd."
+    },
+    {
+        "symbol": "JVDC",
+        "name": "Javedan Corporation Limited"
+    },
+    {
+        "symbol": "JVDCPS",
+        "name": "Javedan Corporation (Pref)"
+    },
+    {
+        "symbol": "JVDCR1",
+        "name": ""
+    },
+    {
+        "symbol": "KACM",
+        "name": "Karim Cotton Mills Limited"
+    },
+    {
+        "symbol": "KAKL",
+        "name": "Kaiser Arts & Krafts Limited"
+    },
+    {
+        "symbol": "KAPCO",
+        "name": "Kot Addu Power Company Limited"
+    },
+    {
+        "symbol": "KASBM",
+        "name": "KASB Modaraba"
+    },
+    {
+        "symbol": "KCL",
+        "name": "Karam Ceramics Limited"
+    },
+    {
+        "symbol": "KEL",
+        "name": "K-Electric Limited"
+    },
+    {
+        "symbol": "KHSM",
+        "name": "Khurshid Spinning Mills Limited"
+    },
+    {
+        "symbol": "KHTC",
+        "name": "Khyber Tobacco Company Limited"
+    },
+    {
+        "symbol": "KHYT",
+        "name": "Khyber Textile Mills Limited"
+    },
+    {
+        "symbol": "KML",
+        "name": "Kohinoor Mills Limited"
+    },
+    {
+        "symbol": "KOHC",
+        "name": "Kohat Cement Company Limited"
+    },
+    {
+        "symbol": "KOHE",
+        "name": "Kohinoor Energy Limited"
+    },
+    {
+        "symbol": "KOHP",
+        "name": "Kohinoor Power Company Limited"
+    },
+    {
+        "symbol": "KOHTM",
+        "name": "Kohat Textile Mills Limited"
+    },
+    {
+        "symbol": "KOIL",
+        "name": "Kohinoor Industries Limited"
+    },
+    {
+        "symbol": "KOSM",
+        "name": "Kohinoor Spinning Mills Limited"
+    },
+    {
+        "symbol": "KPUS",
+        "name": "Khairpur Sugar Mills Limited"
+    },
+    {
+        "symbol": "KSBP",
+        "name": "KSB Pumps Company Limited"
+    },
+    {
+        "symbol": "KSTM",
+        "name": "Khalid Siraj Textile Mills Limited"
+    },
+    {
+        "symbol": "KTML",
+        "name": "Kohinoor Textile Mills Limited"
+    },
+    {
+        "symbol": "LCI",
+        "name": "Lucky Core Industries Limited"
+    },
+    {
+        "symbol": "LEUL",
+        "name": "Leather Up Limited"
+    },
+    {
+        "symbol": "LINDE",
+        "name": "Linde Pakistan Limited"
+    },
+    {
+        "symbol": "LIVEN",
+        "name": "Liven Pharma Limited"
+    },
+    {
+        "symbol": "LMSM",
+        "name": "Landmark Spinning Industries Limited"
+    },
+    {
+        "symbol": "LOADS",
+        "name": "Loads Limited"
+    },
+    {
+        "symbol": "LOTCHEM",
+        "name": "Lotte Chemical Pakistan Limited"
+    },
+    {
+        "symbol": "LPCL",
+        "name": "Lafarge Pakistan Cement Limited"
+    },
+    {
+        "symbol": "LPGL",
+        "name": "Leiner Pak Gelatine Limited"
+    },
+    {
+        "symbol": "LPL",
+        "name": "Lalpir Power Limited"
+    },
+    {
+        "symbol": "LSECL",
+        "name": "LSE Capital Limited."
+    },
+    {
+        "symbol": "LSEFSL",
+        "name": "LSE Financial Services Limited."
+    },
+    {
+        "symbol": "LSEPL",
+        "name": "LSE Proptech Limited"
+    },
+    {
+        "symbol": "LSEVL",
+        "name": "LSE Ventures Limited"
+    },
+    {
+        "symbol": "LUCK",
+        "name": "Lucky Cement Limited"
+    },
+    {
+        "symbol": "MACFL",
+        "name": "MACPAC Films Limited"
+    },
+    {
+        "symbol": "MACTER",
+        "name": "Macter International Limited"
+    },
+    {
+        "symbol": "MARI",
+        "name": "Mari Energies Limited"
+    },
+    {
+        "symbol": "MCB",
+        "name": "MCB Bank Limited"
+    },
+    {
+        "symbol": "MCBAH",
+        "name": "MCB-Arif Habib Savings and Invest"
+    },
+    {
+        "symbol": "MCBIM",
+        "name": "MCB Investment Management Limited."
+    },
+    {
+        "symbol": "MDTL",
+        "name": "Media Times Limited"
+    },
+    {
+        "symbol": "MDTM",
+        "name": "Mehr Dastgir Textile Mills Limited"
+    },
+    {
+        "symbol": "MEBL",
+        "name": "Meezan Bank Limited"
+    },
+    {
+        "symbol": "MEHT",
+        "name": "Mehmood Textile Mills Limited"
+    },
+    {
+        "symbol": "MERIT",
+        "name": "Merit Packaging Limited"
+    },
+    {
+        "symbol": "MERITR1",
+        "name": ""
+    },
+    {
+        "symbol": "META",
+        "name": "MetaTech Trading Limited"
+    },
+    {
+        "symbol": "MFFL",
+        "name": "Mitchells Fruit Farms Limited"
+    },
+    {
+        "symbol": "MFL",
+        "name": "Matco Foods Limited"
+    },
+    {
+        "symbol": "MFTM",
+        "name": "Mohammad Farooq Textile Mills Limited"
+    },
+    {
+        "symbol": "MIIETF",
+        "name": "Mahaana Islamic Index ETF"
+    },
+    {
+        "symbol": "MIRKS",
+        "name": "Mirpurkhas Sugar Mills Limited"
+    },
+    {
+        "symbol": "MLCF",
+        "name": "Maple Leaf Cement Factory Limited"
+    },
+    {
+        "symbol": "MLCFR1",
+        "name": "Maple Leaf (R)"
+    },
+    {
+        "symbol": "MODAM",
+        "name": "Modaraba Al-Mali"
+    },
+    {
+        "symbol": "MODAMR1",
+        "name": "MODARABA AL-MALI (R)"
+    },
+    {
+        "symbol": "MOHE",
+        "name": "Mohib Exports Limited"
+    },
+    {
+        "symbol": "MOIL",
+        "name": "Morafco Industries Limited"
+    },
+    {
+        "symbol": "MOON",
+        "name": "Moonlite (Pak) Limited"
+    },
+    {
+        "symbol": "MQTM",
+        "name": "Maqbool Textile Mills Limited"
+    },
+    {
+        "symbol": "MRNS",
+        "name": "Mehran Sugar Mills Limited"
+    },
+    {
+        "symbol": "MSCL",
+        "name": "Metropolitan Steel Corporation Limited"
+    },
+    {
+        "symbol": "MSOT",
+        "name": "Masood Textile Mills Limited"
+    },
+    {
+        "symbol": "MSOTPS",
+        "name": "Masood Textile (Pref)"
+    },
+    {
+        "symbol": "MTIL",
+        "name": "Mian Textile Industries Limited"
+    },
+    {
+        "symbol": "MTL",
+        "name": "Millat Tractors Limited"
+    },
+    {
+        "symbol": "MUBT",
+        "name": "Mubarak Textile Mills Limited"
+    },
+    {
+        "symbol": "MUGHAL",
+        "name": "Mughal Iron & Steel Industries Limited"
+    },
+    {
+        "symbol": "MUGHALR1",
+        "name": "Mughal Iron (R)"
+    },
+    {
+        "symbol": "MUKT",
+        "name": "Mukhtar Textile Mills Limited"
+    },
+    {
+        "symbol": "MUREB",
+        "name": "Murree Brewery Company Limited"
+    },
+    {
+        "symbol": "MWMP",
+        "name": "Mandviwala Mauser Plastic Industries"
+    },
+    {
+        "symbol": "MZNPETF",
+        "name": "Meezan Pakistan ETF"
+    },
+    {
+        "symbol": "MZSM",
+        "name": "Mirza Sugar Mills Limited"
+    },
+    {
+        "symbol": "NAFL",
+        "name": "National Fibres Limited"
+    },
+    {
+        "symbol": "NAGC",
+        "name": "Nagina Cotton Mills Limited"
+    },
+    {
+        "symbol": "NATF",
+        "name": "National Foods Limited"
+    },
+    {
+        "symbol": "NATM",
+        "name": "Nadeem Textile Mills Limited"
+    },
+    {
+        "symbol": "NBP",
+        "name": "National Bank of Pakistan"
+    },
+    {
+        "symbol": "NBPGETF",
+        "name": "NBP Pakistan  Growth ETF"
+    },
+    {
+        "symbol": "NCL",
+        "name": "Nishat Chunian Limited"
+    },
+    {
+        "symbol": "NCML",
+        "name": "Nazir Cotton Mills Limited"
+    },
+    {
+        "symbol": "NCPL",
+        "name": "Nishat Chunian Power Limited"
+    },
+    {
+        "symbol": "NESTLE",
+        "name": "Nestle Pakistan Limited"
+    },
+    {
+        "symbol": "NETSOL",
+        "name": "NetSol Technologies Limited"
+    },
+    {
+        "symbol": "NEXT",
+        "name": "Next Capital Limited"
+    },
+    {
+        "symbol": "NIB",
+        "name": "NIB Bank Limited"
+    },
+    {
+        "symbol": "NICL",
+        "name": "Nimir Industrial Chemicals Limited"
+    },
+    {
+        "symbol": "NINA",
+        "name": "Nina Industries Limited"
+    },
+    {
+        "symbol": "NITGETF",
+        "name": "NIT Pakistan Gateway ETF"
+    },
+    {
+        "symbol": "NMFL",
+        "name": "Nirala MSR Foods Limited"
+    },
+    {
+        "symbol": "NML",
+        "name": "Nishat Mills Limited"
+    },
+    {
+        "symbol": "NONS",
+        "name": "Noon Sugar Mills Limited"
+    },
+    {
+        "symbol": "NORS",
+        "name": "Noor Silk Mills Limited"
+    },
+    {
+        "symbol": "NPL",
+        "name": "Nishat Power Limited"
+    },
+    {
+        "symbol": "NPSM",
+        "name": "N. P. Spinning Mills Limited"
+    },
+    {
+        "symbol": "NRL",
+        "name": "National Refinery Limited"
+    },
+    {
+        "symbol": "NRSL",
+        "name": "Nimir Resins Limited"
+    },
+    {
+        "symbol": "NSRM",
+        "name": "The National Silk & Rayon Mills Limited"
+    },
+    {
+        "symbol": "OBOY",
+        "name": "Oilboy Energy Limited"
+    },
+    {
+        "symbol": "OBOYR1",
+        "name": "Oilboy Energy(R)"
+    },
+    {
+        "symbol": "OCTOPUS",
+        "name": "Octopus Digital Limited"
+    },
+    {
+        "symbol": "OGDC",
+        "name": "Oil & Gas Development Company Limited"
+    },
+    {
+        "symbol": "OLPL",
+        "name": "OLP Financial Services Pakistan Limited"
+    },
+    {
+        "symbol": "OLPM",
+        "name": "OLP Modaraba"
+    },
+    {
+        "symbol": "OLSM",
+        "name": "Olympia Spinning and Weaving Mills Limited"
+    },
+    {
+        "symbol": "OML",
+        "name": "Olympia Mills Limited"
+    },
+    {
+        "symbol": "ORIXM",
+        "name": "Orix Modaraba"
+    },
+    {
+        "symbol": "ORM",
+        "name": "Orient Rental Mod"
+    },
+    {
+        "symbol": "OTSU",
+        "name": "Otsuka Pakistan Limited"
+    },
+    {
+        "symbol": "PABC",
+        "name": "Pakistan Aluminium Beverage Cans Limited"
+    },
+    {
+        "symbol": "PACE",
+        "name": "Pace (Pakistan) Limited"
+    },
+    {
+        "symbol": "PAEL",
+        "name": "Pak Elektron Limited"
+    },
+    {
+        "symbol": "PAKCEM",
+        "name": "Pakcem Limited"
+    },
+    {
+        "symbol": "PAKD",
+        "name": "Pak Datacom Limited"
+    },
+    {
+        "symbol": "PAKL",
+        "name": "Pak Leather Crafts Limited"
+    },
+    {
+        "symbol": "PAKMI",
+        "name": "First Pak Modaraba"
+    },
+    {
+        "symbol": "PAKOXY",
+        "name": "Pakistan Oxygen Limited"
+    },
+    {
+        "symbol": "PAKRI",
+        "name": "Pakistan Reinsurance Company Limited"
+    },
+    {
+        "symbol": "PAKT",
+        "name": "Pakistan Tobacco Company Limited"
+    },
+    {
+        "symbol": "PASL",
+        "name": "Pervez Ahmed Consultancy Services Ltd."
+    },
+    {
+        "symbol": "PASM",
+        "name": "Paramount Spinning Mills Limited"
+    },
+    {
+        "symbol": "PCAL",
+        "name": "Pakistan Cables Limited"
+    },
+    {
+        "symbol": "PCML",
+        "name": "Punjab Cotton Mill"
+    },
+    {
+        "symbol": "PDGH",
+        "name": "Prudential Discourt & Guarantee House Lt"
+    },
+    {
+        "symbol": "PECO",
+        "name": "Pakistan Engineering Company Limited"
+    },
+    {
+        "symbol": "PELPS",
+        "name": "Pak Elektron (Pref)"
+    },
+    {
+        "symbol": "PGCL",
+        "name": "Pakistan Gum & Chemicals Limited"
+    },
+    {
+        "symbol": "PGF",
+        "name": "PICIC Growth Fund"
+    },
+    {
+        "symbol": "PGIC",
+        "name": "Pakistan Guarantee Insurance Company Limited"
+    },
+    {
+        "symbol": "PGLC",
+        "name": "Pak-Gulf Leasing Company Limited"
+    },
+    {
+        "symbol": "PHDL",
+        "name": "Pakistan Hotels Developers Limited"
+    },
+    {
+        "symbol": "PIAA",
+        "name": "Pakistan International Airlines Corp"
+    },
+    {
+        "symbol": "PIAB",
+        "name": "Pakistan International Airlines Corporat"
+    },
+    {
+        "symbol": "PIAHCLA",
+        "name": "PIA Holding Company Limited"
+    },
+    {
+        "symbol": "PIAHCLB",
+        "name": "PIA Holding Company LimitedB"
+    },
+    {
+        "symbol": "PIBTL",
+        "name": "Pakistan International Bulk Terminal"
+    },
+    {
+        "symbol": "PICL",
+        "name": "Pakistan Industrial & Commercial Leasing"
+    },
+    {
+        "symbol": "PICT",
+        "name": "Pakistan International Container"
+    },
+    {
+        "symbol": "PIF",
+        "name": "PICIC Investment Fund"
+    },
+    {
+        "symbol": "PIL",
+        "name": "PICIC Insurance Limited"
+    },
+    {
+        "symbol": "PIM",
+        "name": "Popular Islamic Modaraba"
+    },
+    {
+        "symbol": "PINL",
+        "name": "Premier Insurance Limited"
+    },
+    {
+        "symbol": "PIOC",
+        "name": "Pioneer Cement Limited"
+    },
+    {
+        "symbol": "PKGI",
+        "name": "The Pakistan General Insurance Co. Ltd."
+    },
+    {
+        "symbol": "PKGP",
+        "name": "Pakgen Power Limited"
+    },
+    {
+        "symbol": "PKGS",
+        "name": "Packages Limited"
+    },
+    {
+        "symbol": "PMI",
+        "name": "First Prudential Modaraba"
+    },
+    {
+        "symbol": "PMPK",
+        "name": "Philip Morris (Pakistan) Limited"
+    },
+    {
+        "symbol": "PMRS",
+        "name": "The Premier Sugar Mills"
+    },
+    {
+        "symbol": "PNGRS",
+        "name": "Pangrio Sugar Mills Limited"
+    },
+    {
+        "symbol": "PNSC",
+        "name": "Pakistan National Shipping Corporation"
+    },
+    {
+        "symbol": "POL",
+        "name": "Pakistan Oilfields Limited"
+    },
+    {
+        "symbol": "POML",
+        "name": "Punjab Oil Mills Limited"
+    },
+    {
+        "symbol": "POWER",
+        "name": "Power Cement Limited"
+    },
+    {
+        "symbol": "POWERPS",
+        "name": "Power Cement (Pref)"
+    },
+    {
+        "symbol": "POWERR1",
+        "name": "Power Cement (R)"
+    },
+    {
+        "symbol": "PPL",
+        "name": "Pakistan Petroleum Limited"
+    },
+    {
+        "symbol": "PPP",
+        "name": "Pakistan Paper Products Limited"
+    },
+    {
+        "symbol": "PPVC",
+        "name": "Pakistan PVC Limited"
+    },
+    {
+        "symbol": "PREMA",
+        "name": "At-Tahur Limited"
+    },
+    {
+        "symbol": "PRET",
+        "name": "Premium Textile Mills Limited"
+    },
+    {
+        "symbol": "PRIB",
+        "name": "Prudential Investment Bank Limited"
+    },
+    {
+        "symbol": "PRIC",
+        "name": "Progressive Insurance Company Limited"
+    },
+    {
+        "symbol": "PRL",
+        "name": "Pakistan Refinery Limited"
+    },
+    {
+        "symbol": "PRLR1",
+        "name": "Pak Refinery (R)"
+    },
+    {
+        "symbol": "PRWM",
+        "name": "Prosperity Weaving Mills Limited"
+    },
+    {
+        "symbol": "PSEL",
+        "name": "Pakistan Services Limited"
+    },
+    {
+        "symbol": "PSMC",
+        "name": "Pak Suzuki Motor Company Limited"
+    },
+    {
+        "symbol": "PSO",
+        "name": "Pakistan State Oil Company Limited"
+    },
+    {
+        "symbol": "PSX",
+        "name": "Pakistan Stock Exchange Limited"
+    },
+    {
+        "symbol": "PSYL",
+        "name": "Pakistan Synthetics Limited"
+    },
+    {
+        "symbol": "PTC",
+        "name": "Pakistan Telecommunication Company Ltd"
+    },
+    {
+        "symbol": "PTL",
+        "name": "Panther Tyres Ltd."
+    },
+    {
+        "symbol": "PUDF",
+        "name": "Prudential Stocks Fund Limited"
+    },
+    {
+        "symbol": "QUET",
+        "name": "Quetta Textile Mills Limited"
+    },
+    {
+        "symbol": "QUICE",
+        "name": "Quice Food Industries Limited"
+    },
+    {
+        "symbol": "QUSW",
+        "name": "Quality Steel Works Limited"
+    },
+    {
+        "symbol": "RAVT",
+        "name": "Ravi Textile Mills Limited"
+    },
+    {
+        "symbol": "RCML",
+        "name": "Reliance Cotton Spinning Mills Limited"
+    },
+    {
+        "symbol": "REDCO",
+        "name": "Redco Textiles Limited"
+    },
+    {
+        "symbol": "REGAL",
+        "name": "Regal Ceramics Limited"
+    },
+    {
+        "symbol": "REWM",
+        "name": "Reliance Weaving Mills Limited"
+    },
+    {
+        "symbol": "RICL",
+        "name": "Reliance Insurance Company Limited"
+    },
+    {
+        "symbol": "RMPL",
+        "name": "Rafhan Maize Products Company Limited"
+    },
+    {
+        "symbol": "RPL",
+        "name": "Roshan Packages Limited"
+    },
+    {
+        "symbol": "RUBY",
+        "name": "Ruby Textile Mills Limited"
+    },
+    {
+        "symbol": "RUPL",
+        "name": "Rupali Polyester Limited"
+    },
+    {
+        "symbol": "SAIF",
+        "name": "Saif Textile Mills Limited"
+    },
+    {
+        "symbol": "SALT",
+        "name": "Salfi Textile Mills Limited"
+    },
+    {
+        "symbol": "SANE",
+        "name": "Salman Noman Enterprises Limited"
+    },
+    {
+        "symbol": "SANSM",
+        "name": "Sanghar Sugar Mills Limited"
+    },
+    {
+        "symbol": "SAPL",
+        "name": "Sanofi-Aventis Pakistan Limited"
+    },
+    {
+        "symbol": "SAPT",
+        "name": "Sapphire Textile Mills Limited"
+    },
+    {
+        "symbol": "SARC",
+        "name": "Sardar Chemical Industries Limited"
+    },
+    {
+        "symbol": "SASML",
+        "name": "Sindh Abadgars Sugar Mills Limited"
+    },
+    {
+        "symbol": "SAZEW",
+        "name": "Sazgar Engineering Works Limited"
+    },
+    {
+        "symbol": "SBL",
+        "name": "Samba Bank Limited"
+    },
+    {
+        "symbol": "SCBPL",
+        "name": "Standard Chartered Bank (Pak) Ltd"
+    },
+    {
+        "symbol": "SCHT",
+        "name": "Schon Textiles Limited"
+    },
+    {
+        "symbol": "SCL",
+        "name": "Shield Corporation Limited"
+    },
+    {
+        "symbol": "SDIL",
+        "name": "Saleem Denim Industries Limited"
+    },
+    {
+        "symbol": "SDOT",
+        "name": "Sadoon Textile Industries Limited"
+    },
+    {
+        "symbol": "SEARL",
+        "name": "The Searle Company Limited"
+    },
+    {
+        "symbol": "SEARLR1",
+        "name": "Searl Company(R)"
+    },
+    {
+        "symbol": "SEL",
+        "name": "Sitara Energy Limited"
+    },
+    {
+        "symbol": "SEPCO",
+        "name": "Southern Electric Power Company Limited"
+    },
+    {
+        "symbol": "SEPL",
+        "name": "Security Papers Limited"
+    },
+    {
+        "symbol": "SERF",
+        "name": "Service Fabrics Limited"
+    },
+    {
+        "symbol": "SERT",
+        "name": "Service Industries Textiles Limited"
+    },
+    {
+        "symbol": "SFAT",
+        "name": "Safa Textiles Limited"
+    },
+    {
+        "symbol": "SFL",
+        "name": "Sapphire Fibres Limited"
+    },
+    {
+        "symbol": "SFLL",
+        "name": "SFL Limited"
+    },
+    {
+        "symbol": "SGABL",
+        "name": "SG.Allied Businesses Limited"
+    },
+    {
+        "symbol": "SGF",
+        "name": "Service GlobalFootwear Limited"
+    },
+    {
+        "symbol": "SGFL",
+        "name": "S.G.Fiber Limited"
+    },
+    {
+        "symbol": "SGPL",
+        "name": "S.G. Power Limited"
+    },
+    {
+        "symbol": "SHCI",
+        "name": "Shaffi Chemical Industries Limited"
+    },
+    {
+        "symbol": "SHCM",
+        "name": "Shadman Cotton Mills Limited"
+    },
+    {
+        "symbol": "SHDT",
+        "name": "Shadab Textile Mills Limited"
+    },
+    {
+        "symbol": "SHEL",
+        "name": "Shell Pakistan Limited"
+    },
+    {
+        "symbol": "SHEZ",
+        "name": "Shezan International Limited"
+    },
+    {
+        "symbol": "SHFA",
+        "name": "Shifa International Hospitals Limited"
+    },
+    {
+        "symbol": "SHJS",
+        "name": "Shahtaj Sugar Mills Limited"
+    },
+    {
+        "symbol": "SHNI",
+        "name": "Shaheen Insurance Company Limited"
+    },
+    {
+        "symbol": "SHSML",
+        "name": "Shahmurad Sugar Mills Limited"
+    },
+    {
+        "symbol": "SIBL",
+        "name": "Security Investment Bank Limited"
+    },
+    {
+        "symbol": "SICL",
+        "name": "Standard Insurance Company Limited"
+    },
+    {
+        "symbol": "SIEM",
+        "name": "Siemens (Pakistan) Engineering"
+    },
+    {
+        "symbol": "SILK",
+        "name": "Silkbank Limited"
+    },
+    {
+        "symbol": "SINDM",
+        "name": "Sindh Modaraba"
+    },
+    {
+        "symbol": "SING",
+        "name": "Singer Pakistan "
+    },
+    {
+        "symbol": "SITC",
+        "name": "Sitara Chemical Industries Limited"
+    },
+    {
+        "symbol": "SJTM",
+        "name": "Sajjad Textile Mills Limited"
+    },
+    {
+        "symbol": "SKRS",
+        "name": "Sakrand Sugar Mills Limited"
+    },
+    {
+        "symbol": "SLCL",
+        "name": "Security Leasing Corporation Limited"
+    },
+    {
+        "symbol": "SLCPA",
+        "name": "Security Leasing Corp.9.10%(Pref)"
+    },
+    {
+        "symbol": "SLGL",
+        "name": "Secure Logistics Group Limited"
+    },
+    {
+        "symbol": "SLL",
+        "name": "SME Leasing Limited"
+    },
+    {
+        "symbol": "SLSO",
+        "name": "Saleem Sugar Mills Limited"
+    },
+    {
+        "symbol": "SLSOPP",
+        "name": ""
+    },
+    {
+        "symbol": "SLSOPVI",
+        "name": ""
+    },
+    {
+        "symbol": "SLYT",
+        "name": "Sally Textile Mills Limited"
+    },
+    {
+        "symbol": "SMBL",
+        "name": "Summit Bank Limited"
+    },
+    {
+        "symbol": "SMBLCPSA",
+        "name": "Summit Bank"
+    },
+    {
+        "symbol": "SMBLCPSB",
+        "name": "Summit Bank B"
+    },
+    {
+        "symbol": "SMCPL",
+        "name": "Safe Mix Concrete Limited"
+    },
+    {
+        "symbol": "SML",
+        "name": "Shakarganj Limited"
+    },
+    {
+        "symbol": "SMLR1",
+        "name": ""
+    },
+    {
+        "symbol": "SMTM",
+        "name": "Samin Textiles Limited"
+    },
+    {
+        "symbol": "SNAI",
+        "name": "Sana Industries Limited"
+    },
+    {
+        "symbol": "SNBL",
+        "name": "Soneri Bank Limited"
+    },
+    {
+        "symbol": "SNGP",
+        "name": "Sui Northern Gas Pipelines Limited"
+    },
+    {
+        "symbol": "SPCL",
+        "name": "Saudi Pak Consultancy Company Limited"
+    },
+    {
+        "symbol": "SPEL",
+        "name": "Synthetic Products Enterprises Limited"
+    },
+    {
+        "symbol": "SPL",
+        "name": "Sitara Peroxide Limited"
+    },
+    {
+        "symbol": "SPLC",
+        "name": "Saudi Pak Leasing Company Limited"
+    },
+    {
+        "symbol": "SPLCTFC3",
+        "name": ""
+    },
+    {
+        "symbol": "SPWL",
+        "name": "Saif Power Limited"
+    },
+    {
+        "symbol": "SRSM",
+        "name": "Sargodha Spinning Mills Limited"
+    },
+    {
+        "symbol": "SRVI",
+        "name": "Service Industries Limited"
+    },
+    {
+        "symbol": "SSGC",
+        "name": "Sui Southern Gas Company Limited"
+    },
+    {
+        "symbol": "SSIC",
+        "name": "Silver Star Insurance Company Limited"
+    },
+    {
+        "symbol": "SSML",
+        "name": "Saritow Spinning Mills Limited"
+    },
+    {
+        "symbol": "SSOM",
+        "name": "S.S.Oil Mills Limited"
+    },
+    {
+        "symbol": "STCL",
+        "name": "Shabbir Tiles & Ceramics Limited"
+    },
+    {
+        "symbol": "STJT",
+        "name": "Shahtaj Textile Limited"
+    },
+    {
+        "symbol": "STL",
+        "name": "Supernet Technologies Limited"
+    },
+    {
+        "symbol": "STML",
+        "name": "Shams Textile Mills Limited"
+    },
+    {
+        "symbol": "STPL",
+        "name": "Siddiqsons Tin Plate Limited"
+    },
+    {
+        "symbol": "STYLERS",
+        "name": "Stylers International Limited"
+    },
+    {
+        "symbol": "SUCM",
+        "name": "Sunshine Cotton Mills Limited"
+    },
+    {
+        "symbol": "SUHJ",
+        "name": "Suhail Jute Mills Limited"
+    },
+    {
+        "symbol": "SURAJ",
+        "name": "Suraj Ghee Industries Limited"
+    },
+    {
+        "symbol": "SURC",
+        "name": "Suraj Cotton Mills Limited"
+    },
+    {
+        "symbol": "SUTM",
+        "name": "Sunrays Textile Mills Limited"
+    },
+    {
+        "symbol": "SYM",
+        "name": "Symmetry Group Limited"
+    },
+    {
+        "symbol": "SYS",
+        "name": "Systems Limited"
+    },
+    {
+        "symbol": "SZTM",
+        "name": "Shahzad Textile Mills Limited"
+    },
+    {
+        "symbol": "TAJT",
+        "name": "Taj Textile Mills Limited"
+    },
+    {
+        "symbol": "TATM",
+        "name": "Tata Textile Mills Limited"
+    },
+    {
+        "symbol": "TBL",
+        "name": "Treet Battery Limited."
+    },
+    {
+        "symbol": "TCLTC",
+        "name": "Treet Corporation (Ptc)"
+    },
+    {
+        "symbol": "TCORP",
+        "name": "Tariq Corporation Limited"
+    },
+    {
+        "symbol": "TCORPCPS",
+        "name": "Tariq Corporation Limited(Pref)"
+    },
+    {
+        "symbol": "TCORPR1",
+        "name": "Tariq Corporation (Pvt) Ltd (R)"
+    },
+    {
+        "symbol": "TDIL",
+        "name": "TPL Direct Insurance Limited"
+    },
+    {
+        "symbol": "TELE",
+        "name": "Telecard Limited"
+    },
+    {
+        "symbol": "TGL",
+        "name": "Tariq Glass Industries Limited"
+    },
+    {
+        "symbol": "THALL",
+        "name": "Thal Limited"
+    },
+    {
+        "symbol": "THAS",
+        "name": "Taha Spinning Mills Limited"
+    },
+    {
+        "symbol": "THCCL",
+        "name": "Thatta Cement Company Limited"
+    },
+    {
+        "symbol": "TICL",
+        "name": "The Thal Industries Corporation Limited"
+    },
+    {
+        "symbol": "TOMCL",
+        "name": "The Organic Meat Company Limited"
+    },
+    {
+        "symbol": "TOMCLR",
+        "name": "The Organice Meat Company Limited(R)"
+    },
+    {
+        "symbol": "TOWL",
+        "name": "Towellers Limited"
+    },
+    {
+        "symbol": "TPL",
+        "name": "TPL Corp Limited"
+    },
+    {
+        "symbol": "TPLI",
+        "name": "TPL Insurance Limited"
+    },
+    {
+        "symbol": "TPLL",
+        "name": "TPL Life Insurance Limited"
+    },
+    {
+        "symbol": "TPLP",
+        "name": "TPL Properties Limited"
+    },
+    {
+        "symbol": "TPLRF1",
+        "name": "TPL REIT Fund I"
+    },
+    {
+        "symbol": "TPLT",
+        "name": "TPL Trakker Limited"
+    },
+    {
+        "symbol": "TREET",
+        "name": "Treet Corporation Limited"
+    },
+    {
+        "symbol": "TREI",
+        "name": "Transmission Engineering Industries Limited"
+    },
+    {
+        "symbol": "TRG",
+        "name": "TRG Pakistan Limited"
+    },
+    {
+        "symbol": "TRIBL",
+        "name": "Trust Investment Bank Limited"
+    },
+    {
+        "symbol": "TRIPF",
+        "name": "Tri-Pack Films Limited"
+    },
+    {
+        "symbol": "TRPOL",
+        "name": "Tri-Star Polyester Limited"
+    },
+    {
+        "symbol": "TRSM",
+        "name": "Trust Modaraba"
+    },
+    {
+        "symbol": "TSBL",
+        "name": "Trust Securities & Brokerage Limited"
+    },
+    {
+        "symbol": "TSMF",
+        "name": "Tri-Star Mutual Fund Limited"
+    },
+    {
+        "symbol": "TSML",
+        "name": "Tandlianwala Sugar Mills Limited"
+    },
+    {
+        "symbol": "TSPL",
+        "name": "Tri-Star Power Limited"
+    },
+    {
+        "symbol": "UBDL",
+        "name": "United Brands Limited"
+    },
+    {
+        "symbol": "UBL",
+        "name": "United Bank Limited"
+    },
+    {
+        "symbol": "UBLGSFO",
+        "name": ""
+    },
+    {
+        "symbol": "UBLPETF",
+        "name": "UBLPakistan Enterprise ETF"
+    },
+    {
+        "symbol": "UCAPM",
+        "name": "Unicap Modaraba"
+    },
+    {
+        "symbol": "UDLI",
+        "name": "UDL International Limited"
+    },
+    {
+        "symbol": "UDPL",
+        "name": "United Distributors Pakistan Limited"
+    },
+    {
+        "symbol": "UNIC",
+        "name": "The United Insurance Company"
+    },
+    {
+        "symbol": "UNITY",
+        "name": "Unity Foods Limited"
+    },
+    {
+        "symbol": "UNITYR1",
+        "name": "Unity Foods(R)"
+    },
+    {
+        "symbol": "UPFL",
+        "name": "Unilever Pakistan Foods Limited"
+    },
+    {
+        "symbol": "USMT",
+        "name": "Usman Textile Mills Limited"
+    },
+    {
+        "symbol": "UVIC",
+        "name": "The Universal Insurance Company Limited"
+    },
+    {
+        "symbol": "WAHN",
+        "name": "Wah Noble Chemicals Limited"
+    },
+    {
+        "symbol": "WAVES",
+        "name": "Waves Corporation Limited"
+    },
+    {
+        "symbol": "WAVESAPP",
+        "name": "Waves Home Appliances Limited"
+    },
+    {
+        "symbol": "WAVESR1",
+        "name": "Waves Singer Pakistan Limited (R)"
+    },
+    {
+        "symbol": "WHALE",
+        "name": "Waves Home Appliances Limited"
+    },
+    {
+        "symbol": "WTL",
+        "name": "Worldcall Telecom Limited"
+    },
+    {
+        "symbol": "WYETH",
+        "name": "Wyeth Pakistan Limited"
+    },
+    {
+        "symbol": "YOUW",
+        "name": "Yousaf Weaving Mills Limited"
+    },
+    {
+        "symbol": "ZAHID",
+        "name": "Zahidjee Textile Mills Limited"
+    },
+    {
+        "symbol": "ZELP",
+        "name": "Zeal Pak Cement Factory Limited"
+    },
+    {
+        "symbol": "ZHCM",
+        "name": "Zahur Cotton Mills Limited"
+    },
+    {
+        "symbol": "ZIL",
+        "name": "ZIL Limited"
+    },
+    {
+        "symbol": "ZTL",
+        "name": "Zephyr Textiles Limited"
+    }
+]
