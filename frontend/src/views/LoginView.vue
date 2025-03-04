@@ -43,7 +43,7 @@ import Card from 'primevue/card';
 import InputText from 'primevue/inputtext';
 import Password from 'primevue/password';
 import Button from 'primevue/button';
-import axios from '../utils/axios';
+import axios from 'axios';
 
 export default {
   components: {
@@ -77,7 +77,7 @@ export default {
         console.log('apiUrl', apiUrl)
         try {
           // You can uncomment this when you have a real API endpoint
-          const response = await axios.post('/login/json', {
+          const response = await axios.post(`${apiUrl}/login/json`, {
             email: this.email,
             password: this.password
           });
@@ -85,6 +85,8 @@ export default {
           console.log('login response', response)
 
           // Store user data in localStorage
+          localStorage.setItem('access_token', response.data.access_token);
+          localStorage.setItem('token_type', response.data.token_type);
           localStorage.setItem('user', JSON.stringify(response.data.user));
 
           // Redirect to home

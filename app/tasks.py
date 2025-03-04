@@ -115,6 +115,18 @@ def check_alerts():
                     alert.is_box_break_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
+                elif alert.percentage_tp and alert.change_percentage >= alert.percentage_tp:
+                    send_email("Take Profit Alert for percentage", f"The stock {alert.ticker} has hit the take profit level. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
+                    alert.percentage_tp = None
+                    alert.is_percentage_tp_hit = True
+                    alert.total_alerts_sent = alert.total_alerts_sent + 1
+                    db.commit()
+                elif alert.percentage_sl and alert.change_percentage <= alert.percentage_sl:
+                    send_email("Stop Loss Alert for percentage", f"The stock {alert.ticker} has hit the stop loss level. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
+                    alert.percentage_sl = None
+                    alert.is_percentage_sl_hit = True
+                    alert.total_alerts_sent = alert.total_alerts_sent + 1
+                    db.commit()
                 # Add more conditions for tp2, tp3, and box_break
     except Exception as e:
         db.rollback()

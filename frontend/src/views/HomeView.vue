@@ -35,8 +35,10 @@
             <Column field="tp1" header="TP1 Price"></Column>
             <Column field="tp2" header="TP2 Price"></Column>
             <Column field="tp3" header="TP3 Price"></Column>
+            <Column field="percentage_tp" header="TP %"></Column>
             <Column field="box_break" header="Box Break"></Column>
             <Column field="sl" header="SL"></Column>
+            <Column field="percentage_sl" header="SL %"></Column>
             <Column field="date_added" header="Created At">
               <template #body="slotProps">
                 {{ new Date(slotProps.data.date_added).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) }}
@@ -82,8 +84,10 @@
         <InputNumber v-model="alert.tp1" placeholder="TP1" class="flex-1" />
         <InputNumber v-model="alert.tp2" placeholder="TP2" class="flex-1" />
         <InputNumber v-model="alert.tp3" placeholder="TP3" class="flex-1" />
+        <InputNumber v-model="alert.percentage_tp" placeholder="TP %" class="flex-1" />
         <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" />
         <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" />
+        <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
         <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
       </div>
       <div class="w-full flex justify-center mt-3">
@@ -121,12 +125,20 @@
           <InputNumber v-model="selectedAlert.tp3" placeholder="TP3" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
+          <label for="percentage_tp">TP %</label>
+          <InputNumber v-model="selectedAlert.percentage_tp" placeholder="TP %" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
           <label for="box_break">Box Break</label>
           <InputNumber v-model="selectedAlert.box_break" placeholder="Box Break" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="sl">SL</label>
           <InputNumber v-model="selectedAlert.sl" placeholder="SL" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="percentage_sl">SL %</label>
+          <InputNumber v-model="selectedAlert.percentage_sl" placeholder="SL %" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
@@ -227,8 +239,8 @@ export default {
       }
     },
     validateAlert(alert) {
-      if (alert.ticker === "" || !alert.buy_price || !alert.shares) {
-        this.$toast.add({ severity: 'error', summary: 'Error Message', detail: 'Please fill at least the ticker, shares and the buy price input fields', life: 3000 });
+      if (alert.ticker === "") {
+        this.$toast.add({ severity: 'error', summary: 'Error Message', detail: 'Please fill at least the ticker input field', life: 3000 });
         return false;
       }
       return true;

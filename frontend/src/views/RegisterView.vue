@@ -1,86 +1,3 @@
-<script setup>
-import { ref, computed } from 'vue';
-import { useRouter } from 'vue-router';
-import Card from 'primevue/card';
-import InputText from 'primevue/inputtext';
-import Password from 'primevue/password';
-import Button from 'primevue/button';
-import axios from 'axios';
-
-const name = ref('');
-const email = ref('');
-const password = ref('');
-const confirmPassword = ref('');
-const phone = ref('');
-const errorMessage = ref('');
-const isLoading = ref(false);
-const router = useRouter();
-
-const passwordsMatch = computed(() => 
-  !password.value || !confirmPassword.value || password.value === confirmPassword.value
-);
-
-const register = async () => {
-  try {
-    isLoading.value = true;
-    errorMessage.value = '';
-    
-    // Validate form
-    if (!name.value || !email.value || !password.value || !confirmPassword.value) {
-      errorMessage.value = 'Please fill in all required fields';
-      return;
-    }
-    
-    if (password.value !== confirmPassword.value) {
-      errorMessage.value = 'Passwords do not match';
-      return;
-    }
-    
-    if (password.value.length < 6) {
-      errorMessage.value = 'Password must be at least 6 characters long';
-      return;
-    }
-    
-    // In a real application, you would make an API call here
-    // For now, we'll simulate registration and store in localStorage
-    const apiUrl = import.meta.env.VITE_API_URL;
-    
-    try {
-      // You can uncomment this when you have a real API endpoint
-      // const response = await axios.post(`${apiUrl}/api/auth/register`, {
-      //   name: name.value,
-      //   email: email.value,
-      //   password: password.value,
-      //   phone: phone.value || null
-      // });
-      
-      // For now, we'll simulate a successful registration
-      const user = {
-        name: name.value,
-        email: email.value,
-        phone: phone.value || null,
-        token: 'simulated-jwt-token'
-      };
-      
-      // Store user data in localStorage
-      localStorage.setItem('user', JSON.stringify(user));
-      
-      // Redirect to home
-      router.push('/');
-    } catch (error) {
-      console.error('Registration error:', error);
-      errorMessage.value = error.response?.data?.message || 'Registration failed. Please try again.';
-    }
-  } finally {
-    isLoading.value = false;
-  }
-};
-
-const goToLogin = () => {
-  router.push('/login');
-};
-</script>
-
 <template>
   <div class="register-container">
     <Card class="register-card">
@@ -171,6 +88,89 @@ const goToLogin = () => {
     </Card>
   </div>
 </template>
+
+<script>
+import { useRouter } from 'vue-router';
+import Card from 'primevue/card';
+import InputText from 'primevue/inputtext';
+import Password from 'primevue/password';
+import Button from 'primevue/button';
+import axios from 'axios';
+
+export default {
+  name: 'RegisterView',
+  components: {
+    Card,
+    InputText,
+    Password,
+    Button
+  },
+  data() {
+    return {
+      name: '',
+      email: '',
+      password: '',
+      confirmPassword: '',
+      phone: '',
+      errorMessage: '',
+      isLoading: false
+    };
+  },
+  computed: {
+    passwordsMatch() {
+      return !this.password || !this.confirmPassword || this.password === this.confirmPassword;
+    }
+  },
+  methods: {
+    async register() {
+      try {
+        this.isLoading = true;
+        this.errorMessage = '';
+        
+        // Validate form
+        if (!this.name || !this.email || !this.password || !this.confirmPassword) {
+          this.errorMessage = 'Please fill in all required fields';
+          return;
+        }
+        
+        if (this.password !== this.confirmPassword) {
+          this.errorMessage = 'Passwords do not match';
+          return;
+        }
+        
+        if (this.password.length < 6) {
+          this.errorMessage = 'Password must be at least 6 characters long';
+          return;
+        }
+        
+        // In a real application, you would make an API call here
+        // For now, we'll simulate registration and store in localStorage
+        const apiUrl = import.meta.env.VITE_API_URL;
+
+        
+        try {
+          const response = await axios.post(`${apiUrl}/register`, {
+            name: this.name,
+            email: this.email,
+            password: this.password,
+            phone: this.phone || null
+          });
+          // Redirect to home
+          this.$router.push('/login');
+        } catch (error) {
+          console.error('Registration error:', error);
+          this.errorMessage = error.response?.data?.message || 'Registration failed. Please try again.';
+        }
+      } finally {
+        this.isLoading = false;
+      }
+    },
+    goToLogin() {
+      this.$router.push('/login');
+    }
+  }
+};
+</script>
 
 <style scoped>
 .register-container {

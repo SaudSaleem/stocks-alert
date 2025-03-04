@@ -53,3 +53,7 @@ def delete_alert(db: Session, alert_id: int):
         db.rollback()
         print(f"An error occurred: {e}")
         raise
+
+# get all users
+def _get_all_users(db: Session):
+    return db.query(models.User).all()
