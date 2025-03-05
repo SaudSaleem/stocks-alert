@@ -89,6 +89,7 @@
         <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" />
         <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
         <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
+        <InputNumber v-model="alert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
       </div>
       <div class="w-full flex justify-center mt-3">
         <Button @click="createAlert" label="Create Alert" />
@@ -139,6 +140,10 @@
         <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_sl">SL %</label>
           <InputNumber v-model="selectedAlert.percentage_sl" placeholder="SL %" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="trailing_stop_percentage">Trailing Stop %</label>
+          <InputNumber v-model="selectedAlert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
@@ -195,7 +200,10 @@ export default {
         tp3: null,
         box_break: null,
         sl: null,
-        shares: null
+        shares: null,
+        percentage_tp: null,
+        percentage_sl: null,
+        trailing_stop_percentage: null
       }
     };
   },
@@ -261,7 +269,10 @@ export default {
           tp3: null,
           box_break: null,
           sl: null,
-          shares: 0
+          shares: 0,
+          percentage_tp: null,
+          percentage_sl: null,
+          trailing_stop_percentage: null
         };
         this.fetchAlerts();
         this.$toast.add({ severity: 'success', summary: 'Success Message', detail: 'Alert created successfully', life: 3000 });

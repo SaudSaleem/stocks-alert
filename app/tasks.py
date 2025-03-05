@@ -77,53 +77,74 @@ def check_alerts():
                 print('current price of', alert.ticker, 'is: ', current_price)
                 if current_price is None:
                     continue
+                
+                # Update highest price for trailing stop if needed
+                if alert.trailing_stop_percentage and (alert.highest_price is None or current_price > alert.highest_price):
+                    alert.highest_price = current_price
+                    db.commit()
+                
                 # Check alert conditions
-                print('calculate_percentage_change', calculate_percentage_change(current_price, alert.buy_price))
                 alert.change_percentage = calculate_percentage_change(current_price, alert.buy_price)
-                print('percentage change of', alert.ticker, 'is: ', alert.change_percentage)
                 alert.current_price = current_price
-                print('current price of', alert.ticker, ' after update is: ', alert.current_price)
                 db.commit()
-                print('alert after commit', alert.change_percentage)
-                if alert.sl and current_price <= alert.sl:
+                
+                # Check trailing stop condition
+                if (alert.is_trailing_stop_hit == False and 
+                    alert.trailing_stop_percentage and 
+                    alert.highest_price and 
+                    current_price < alert.highest_price * (1 - alert.trailing_stop_percentage / 100)):
+                    
+                    drop_percentage = round(((alert.highest_price - current_price) / alert.highest_price) * 100, 2)
+                    send_email(
+                        "Trailing Stop Alert", 
+                        f"Trailing Stop hit. The stock {alert.ticker} has dropped {drop_percentage}% from its highest price of {alert.highest_price}. Current price: {current_price}", 
+                        user.email, 
+                        MAIL_FROM, 
+                        MAIL_PASSWORD
+                    )
+                    alert.is_trailing_stop_hit = True
+                    alert.total_alerts_sent = alert.total_alerts_sent + 1
+                    db.commit()
+                
+                # Existing alert conditions
+                elif alert.is_sl_hit == False and alert.sl and current_price <= alert.sl:
                     send_email("Stop Loss Alert", f"The stock {alert.ticker} has hit the stop loss price. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.sl = None
                     alert.is_sl_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.tp1 and current_price >= alert.tp1:
-                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 1. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.tp1 = None
+                elif alert.is_tp1_hit == False and alert.tp1 and current_price >= alert.tp1:
+                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 1. Stop loss price is set to buy price {alert.buy_price}. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
+                    alert.sl = alert.buy_price
+                    alert.is_sl_hit = False
                     alert.is_tp1_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.tp2 and current_price >= alert.tp2:
-                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 2. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.tp2 = None
+                elif alert.is_tp2_hit == False and alert.tp2 and current_price >= alert.tp2:
+                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 2. Stop loss price is set to take profit level 1 {alert.tp1}. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
+                    alert.sl = alert.tp1
+                    alert.is_sl_hit = False
                     alert.is_tp2_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.tp3 and current_price >= alert.tp3:
-                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 3. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.tp3 = None
+                elif alert.is_tp3_hit == False and alert.tp3 and current_price >= alert.tp3:
+                    send_email("Take Profit Alert", f"The stock {alert.ticker} has hit the take profit level 3. Stop loss price is set to take profit level 2 {alert.tp2}. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
+                    alert.sl = alert.tp2
+                    alert.is_sl_hit = False
                     alert.is_tp3_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.box_break and current_price >= alert.box_break:
+                elif alert.is_box_break_hit == False and alert.box_break and current_price >= alert.box_break:
                     send_email("Box Break Alert", f"The stock {alert.ticker} has hit the box break price. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.box_break = None
                     alert.is_box_break_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.percentage_tp and alert.change_percentage >= alert.percentage_tp:
+                elif alert.is_percentage_tp_hit == False and alert.percentage_tp and alert.change_percentage >= alert.percentage_tp:
                     send_email("Take Profit Alert for percentage", f"The stock {alert.ticker} has hit the take profit level. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.percentage_tp = None
                     alert.is_percentage_tp_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
-                elif alert.percentage_sl and alert.change_percentage <= alert.percentage_sl:
+                elif alert.is_percentage_sl_hit == False and alert.percentage_sl and alert.change_percentage <= alert.percentage_sl:
                     send_email("Stop Loss Alert for percentage", f"The stock {alert.ticker} has hit the stop loss level. Current price: {current_price}", user.email, MAIL_FROM, MAIL_PASSWORD)
-                    alert.percentage_sl = None
                     alert.is_percentage_sl_hit = True
                     alert.total_alerts_sent = alert.total_alerts_sent + 1
                     db.commit()
