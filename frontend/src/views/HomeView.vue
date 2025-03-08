@@ -7,8 +7,8 @@
     <Card v-if="user" class="welcome-card mt-8">
       <template #content>
         <div class="alerts-section">
-          <Button @click="fetchAlerts">Refresh Alerts</Button>
-          <DataTable :value="alerts" stripedRows paginator :rows="5" tableStyle="min-width: 120rem">
+          <Button @click="fetchAlerts" class="mb-4">Refresh Alerts</Button>
+          <DataTable :value="alerts" stripedRows paginator :rows="5" tableStyle="min-width: 140rem">
             <Column field="ticker" header="Ticker" sortable></Column>
             <Column field="buy_price" header="Buy Price" sortable></Column>
             <Column field="current_price" header="Current Price" sortable></Column>
@@ -29,6 +29,9 @@
                   <span v-if="slotProps.data.is_tp2_hit" class="status-badge tp-hit">TP2 Hit</span>
                   <span v-if="slotProps.data.is_tp3_hit" class="status-badge tp-hit">TP3 Hit</span>
                   <span v-if="slotProps.data.is_box_break_hit" class="status-badge box-break">Box Break</span>
+                  <span v-if="slotProps.data.is_percentage_sl_hit" class="status-badge sl-hit">Percentage SL Hit</span>
+                  <span v-if="slotProps.data.is_percentage_tp_hit" class="status-badge tp-hit">Percentage TP Hit</span>
+                  <span v-if="slotProps.data.is_trailing_stop_hit" class="status-badge tp-hit">Trailing Stop Hit</span>
                 </div>
               </template>
             </Column>
@@ -70,6 +73,8 @@
         <p><strong>Email:</strong> {{ user?.email }}</p>
         <p v-if="user?.name"><strong>Name:</strong> {{ user?.name }}</p>
         <p v-if="user?.phone"><strong>Phone:</strong> {{ user?.phone }}</p>
+        <p><strong>Total Investment:</strong> {{ user?.total_investment }}</p>
+        <p><strong>Current Value:</strong> {{ user?.current_value }}</p>
       </div>
       <div class="actions">
         <Button label="Logout" @click="logout" />
@@ -77,19 +82,52 @@
     </Drawer>
     <Dialog v-model:visible="showCreateAlertDialog" :header="`Create Alert`" :modal="true" style="width: 50vw;">
       <div class="create-alert-form flex flex-wrap gap-2">
-        <Select v-model="alert.ticker" filter clearIcon :options="tickers" optionLabel="symbol" optionValue="symbol"
-          placeholder="Select Ticker" class="flex-1">
-        </Select>
-        <InputNumber v-model="alert.buy_price" placeholder="Buy Price" class="flex-1" />
-        <InputNumber v-model="alert.tp1" placeholder="TP1" class="flex-1" />
-        <InputNumber v-model="alert.tp2" placeholder="TP2" class="flex-1" />
-        <InputNumber v-model="alert.tp3" placeholder="TP3" class="flex-1" />
-        <InputNumber v-model="alert.percentage_tp" placeholder="TP %" class="flex-1" />
-        <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" />
-        <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" />
-        <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
-        <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
-        <InputNumber v-model="alert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="ticker">Ticker</label>
+          <Select v-model="alert.ticker" filter clearIcon :options="tickers" optionLabel="symbol" optionValue="symbol"
+            placeholder="Select Ticker" class="flex-1">
+          </Select>
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="buy_price">Buy Price</label>
+          <InputNumber v-model="alert.buy_price" placeholder="Buy Price" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="tp1">TP1</label>
+          <InputNumber v-model="alert.tp1" placeholder="TP1" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="tp2">TP2</label>
+          <InputNumber v-model="alert.tp2" placeholder="TP2" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="tp3">TP3</label>
+          <InputNumber v-model="alert.tp3" placeholder="TP3" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="sl">SL</label>
+          <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="percentage_tp">TP %</label>
+          <InputNumber v-model="alert.percentage_tp" placeholder="TP %" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="box_break">Box Break</label>
+          <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="percentage_sl">SL %</label>
+          <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="trailing_stop_percentage">Trailing Stop %</label>
+          <InputNumber v-model="alert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="shares">Shares</label>
+          <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
+        </div>
       </div>
       <div class="w-full flex justify-center mt-3">
         <Button @click="createAlert" label="Create Alert" />
@@ -204,7 +242,9 @@ export default {
         percentage_tp: null,
         percentage_sl: null,
         trailing_stop_percentage: null
-      }
+      },
+      pollingInterval: null,
+      pollingDelay: 30000 // 30 seconds
     };
   },
   mounted() {
@@ -214,10 +254,16 @@ export default {
       this.user = JSON.parse(userJson);
       this.fetchAlerts();
       this.fetchTickers();
+      // Start polling for alerts
+      this.startPolling();
     } else {
       // Redirect to login if no user is found
       this.$router.push('/login');
     }
+  },
+  beforeUnmount() {
+    // Clear polling interval when component is destroyed
+    this.stopPolling();
   },
   watch: {
     'alert.ticker': async function (newVal) {
@@ -227,12 +273,32 @@ export default {
     }
   },
   methods: {
+    startPolling() {
+      // Clear any existing interval first
+      this.stopPolling();
+      
+      // Set up new polling interval
+      this.pollingInterval = setInterval(() => {
+        this.fetchAlerts();
+      }, this.pollingDelay);
+    },
+    
+    stopPolling() {
+      if (this.pollingInterval) {
+        clearInterval(this.pollingInterval);
+        this.pollingInterval = null;
+      }
+    },
+    
     async fetchAlerts() {
       try {
         const user_id = this.user.id;
         const response = await axios.get(`/alerts?user_id=${user_id}`);
         this.alerts = response.data;
-        this.$toast.add({ severity: 'success', summary: 'Success', detail: 'Alerts fetched successfully', life: 3000 });
+        // Only show toast when manually refreshing, not during polling
+        if (!this.pollingInterval) {
+          this.$toast.add({ severity: 'success', summary: 'Success', detail: 'Alerts fetched successfully', life: 3000 });
+        }
       } catch (error) {
         console.error('Error fetching alerts:', error);
       }
@@ -289,6 +355,9 @@ export default {
       this.selectedAlert.is_tp2_hit = false;
       this.selectedAlert.is_tp3_hit = false;
       this.selectedAlert.is_box_break_hit = false;
+      this.selectedAlert.is_percentage_sl_hit = false;
+      this.selectedAlert.is_percentage_tp_hit = false;
+      this.selectedAlert.is_trailing_stop_hit = false;
       this.selectedAlert.total_alerts_sent = 0;
       const response = await axios.put(`/alert?user_id=${this.user.id}&alert_id=${this.selectedAlert.id}`, this.selectedAlert);
       this.showUpdateAlertDialog = false;
@@ -311,6 +380,7 @@ export default {
       // Clear user from localStorage
       localStorage.removeItem('user');
       this.user = null;
+      this.stopPolling(); // Stop polling when logging out
       this.$router.push('/login');
     }
   }

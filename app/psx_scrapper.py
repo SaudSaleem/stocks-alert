@@ -127,10 +127,11 @@ def scrape_psx():
 
 
 def scraper():
+    print('scraper')
     global scraper_running
     scraper_running = True
     print(f"Scraping data at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    # scrape_psx()
+    scrape_psx()
     check_alerts()
     # Schedule the next run with a random interval (8 to 15 minutes)
     next_interval = random.randint(8, 15)
