@@ -37,6 +37,8 @@ def test_create_alert():
         "tp3": 590,
         "sl": 560,
         "box_break": 550,
+        "dip_buy": 540,
+        "notes": "This is a test alert",
         "buy_price": 565,
         "shares": 10,
         "percentage_tp": 10,
@@ -58,11 +60,13 @@ def test_update_alert():
         "tp3": 595,
         "sl": 565,
         "box_break": 555,
+        "dip_buy": 545,
         "buy_price": 565,
         "shares": 15,
         "percentage_tp": 15,
         "percentage_sl": 15,
-        "percentage_box_break": 15
+        "percentage_box_break": 15,
+        "notes": "This is a test alert",
     }, headers={"Authorization": f"Bearer {TOKEN}"})
     print("Update Alert:", response.status_code, response.text)
 

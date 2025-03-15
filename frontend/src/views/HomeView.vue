@@ -8,7 +8,7 @@
       <template #content>
         <div class="alerts-section">
           <Button @click="fetchAlerts" class="mb-4">Refresh Alerts</Button>
-          <DataTable :value="alerts" stripedRows paginator :rows="5" tableStyle="min-width: 140rem">
+          <DataTable :value="alerts" stripedRows paginator :rows="5" tableStyle="min-width: 160rem">
             <Column field="ticker" header="Ticker" sortable></Column>
             <Column field="buy_price" header="Buy Price" sortable></Column>
             <Column field="current_price" header="Current Price" sortable></Column>
@@ -29,6 +29,7 @@
                   <span v-if="slotProps.data.is_tp2_hit" class="status-badge tp-hit">TP2 Hit</span>
                   <span v-if="slotProps.data.is_tp3_hit" class="status-badge tp-hit">TP3 Hit</span>
                   <span v-if="slotProps.data.is_box_break_hit" class="status-badge box-break">Box Break</span>
+                  <span v-if="slotProps.data.is_dip_buy_hit" class="status-badge dip-buy">Dip Buy</span>
                   <span v-if="slotProps.data.is_percentage_sl_hit" class="status-badge sl-hit">Percentage SL Hit</span>
                   <span v-if="slotProps.data.is_percentage_tp_hit" class="status-badge tp-hit">Percentage TP Hit</span>
                   <span v-if="slotProps.data.is_trailing_stop_hit" class="status-badge tp-hit">Trailing Stop Hit</span>
@@ -39,9 +40,11 @@
             <Column field="tp2" header="TP2 Price"></Column>
             <Column field="tp3" header="TP3 Price"></Column>
             <Column field="percentage_tp" header="TP %"></Column>
+            <Column field="dip_buy" header="Dip Buy"></Column>
             <Column field="box_break" header="Box Break"></Column>
             <Column field="sl" header="SL"></Column>
             <Column field="percentage_sl" header="SL %"></Column>
+            <Column field="notes" header="Notes"></Column>
             <Column field="date_added" header="Created At">
               <template #body="slotProps">
                 {{ new Date(slotProps.data.date_added).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }) }}
@@ -117,6 +120,10 @@
           <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
+          <label for="dip_buy">Dip Buy</label>
+          <InputNumber v-model="alert.dip_buy" placeholder="Dip Buy" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_sl">SL %</label>
           <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
         </div>
@@ -127,6 +134,10 @@
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
           <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="notes">Notes</label>
+          <InputText v-model="alert.notes" placeholder="Notes" class="flex-1" />
         </div>
       </div>
       <div class="w-full flex justify-center mt-3">
@@ -172,6 +183,10 @@
           <InputNumber v-model="selectedAlert.box_break" placeholder="Box Break" class="flex-1" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
+          <label for="dip_buy">Dip Buy</label>
+          <InputNumber v-model="selectedAlert.dip_buy" placeholder="Dip Buy" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
           <label for="sl">SL</label>
           <InputNumber v-model="selectedAlert.sl" placeholder="SL" class="flex-1" />
         </div>
@@ -186,6 +201,10 @@
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
           <InputNumber v-model="selectedAlert.shares" placeholder="Shares" class="flex-1" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="notes">Notes</label>
+          <InputText v-model="selectedAlert.notes" placeholder="Notes" class="flex-1" />
         </div>
       </div>
       <div class="w-full flex justify-center mt-3">
@@ -206,6 +225,7 @@ import Drawer from 'primevue/drawer';
 import Dialog from 'primevue/dialog';
 import Column from 'primevue/column';
 import Toast from 'primevue/toast';
+import InputText from 'primevue/inputtext';
 import InputNumber from 'primevue/inputnumber';
 export default {
   name: 'HomeView',
@@ -218,7 +238,8 @@ export default {
     Drawer,
     Dialog,
     Toast,
-    InputNumber
+    InputNumber,
+    InputText
   },
   data() {
     return {
@@ -237,10 +258,12 @@ export default {
         tp2: null,
         tp3: null,
         box_break: null,
+        dip_buy: null,
         sl: null,
         shares: null,
         percentage_tp: null,
         percentage_sl: null,
+        notes: '',
         trailing_stop_percentage: null
       },
       pollingInterval: null,
@@ -334,10 +357,12 @@ export default {
           tp2: null,
           tp3: null,
           box_break: null,
+          dip_buy: null,
           sl: null,
           shares: 0,
           percentage_tp: null,
           percentage_sl: null,
+          notes: '',
           trailing_stop_percentage: null
         };
         this.fetchAlerts();
@@ -354,6 +379,7 @@ export default {
       this.selectedAlert.is_tp1_hit = false;
       this.selectedAlert.is_tp2_hit = false;
       this.selectedAlert.is_tp3_hit = false;
+      this.selectedAlert.is_dip_buy_hit = false;
       this.selectedAlert.is_box_break_hit = false;
       this.selectedAlert.is_percentage_sl_hit = false;
       this.selectedAlert.is_percentage_tp_hit = false;

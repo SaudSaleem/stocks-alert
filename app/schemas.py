@@ -22,6 +22,8 @@ class AlertCreate(BaseModel):
     percentage_sl: Optional[float] = None
     box_break: Optional[float] = None
     percentage_box_break: Optional[float] = None
+    dip_buy: Optional[float] = None
+    notes: Optional[str] = None
     buy_price: Optional[float] = None
     shares: Optional[int] = None
     trailing_stop_percentage: Optional[float] = None
@@ -36,6 +38,8 @@ class AlertUpdate(BaseModel):
     percentage_sl: Optional[float] = None
     box_break: Optional[float] = None
     percentage_box_break: Optional[float] = None
+    dip_buy: Optional[float] = None
+    notes: Optional[str] = None
     trailing_stop_percentage: Optional[float] = None
     highest_price: Optional[float] = None
     buy_price: Optional[float] = None
@@ -47,5 +51,6 @@ class AlertUpdate(BaseModel):
     is_box_break_hit: Optional[bool] = False
     is_percentage_sl_hit: Optional[bool] = False
     is_percentage_tp_hit: Optional[bool] = False
-    is_trailing_stop_hit: Optional[bool] = False    
+    is_trailing_stop_hit: Optional[bool] = False
+    is_dip_buy_hit: Optional[bool] = False
     total_alerts_sent: Optional[int] = 0

@@ -13,3 +13,4 @@ bcrypt
 pyjwt
 pytz
 schedule
+alembic
