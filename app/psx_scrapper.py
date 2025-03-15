@@ -86,6 +86,9 @@ def scrape_psx():
 
                 # Extract values
                 ticker = td_elements[0].get_attribute('textContent').strip()
+                if ticker.endswith('XD'):
+                    ticker = ticker[:-2]  # Remove last 2 characters if they are 'XD'
+                
                 ldcp = td_elements[1].get_attribute('textContent').strip()
                 open_price = td_elements[2].get_attribute('textContent').strip()
                 high = td_elements[3].get_attribute('textContent').strip()
