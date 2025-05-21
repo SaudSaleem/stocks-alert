@@ -8,7 +8,7 @@
       <template #content>
         <div class="alerts-section">
           <Button @click="fetchAlerts" class="mb-4">Refresh Alerts</Button>
-          <DataTable :value="alerts" stripedRows paginator :rows="5" tableStyle="min-width: 160rem">
+          <DataTable :value="alerts" stripedRows paginator :rows="10" tableStyle="min-width: 160rem">
             <Column field="ticker" header="Ticker" sortable></Column>
             <Column field="buy_price" header="Buy Price" sortable></Column>
             <Column field="current_price" header="Current Price" sortable></Column>

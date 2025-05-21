@@ -8,6 +8,7 @@ from datetime import date, timedelta
 from dotenv import load_dotenv
 import os
 import json
+import traceback
 load_dotenv()
 
 MAIL_USERNAME = os.getenv('MAIL_USERNAME')
@@ -35,7 +36,7 @@ def fetch_all_tickers():
 def calculate_percentage_change(current_price, buy_price):
     try:
         if(buy_price == None or buy_price == 0):
-            return current_price
+            return None
         return round(((current_price - buy_price) / buy_price) * 100, 2)
     except Exception as e:
         print(f"Error in calculate_percentage_change: {e}")
@@ -87,7 +88,6 @@ def check_alerts():
                 alert.change_percentage = calculate_percentage_change(current_price, alert.buy_price)
                 alert.current_price = current_price
                 db.commit()
-                print('alet sl', alert.sl, current_price, current_price <= alert.sl)
                 # Check trailing stop condition
                 if (alert.is_trailing_stop_hit == False and 
                     alert.trailing_stop_percentage and 
@@ -165,6 +165,7 @@ def check_alerts():
     except Exception as e:
         db.rollback()
         print(f"Error in check_alerts: {e}")
+        traceback.print_exc() 
     finally:
         db.close()
 

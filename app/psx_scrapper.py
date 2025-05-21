@@ -15,14 +15,54 @@ import threading
 from datetime import datetime, timezone
 import os
 import pytz
+import socket
+import subprocess
+
 # Global variable to track scraper status
 scraper_running = False
 
+    # Check internet connectivity
+def internet_connected(host="8.8.8.8", port=53, timeout=3):
+    try:
+        socket.setdefaulttimeout(timeout)
+        socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((host, port))
+        return True
+    except Exception:
+        return False
+
+# Check if MacBook screen is on (macOS only)
+def screen_is_on():
+    try:
+        output = subprocess.check_output(
+            ["pmset", "-g"], text=True
+        )
+        # print("pmset output:")
+        # print(output)
+        # Look for 'displaysleeping' in the output
+        for line in output.splitlines():
+            if "displaysleeping" in line:
+                # If displaysleeping 1, screen is off; if 0, screen is on
+                state = line.strip().split()[-1]
+                # print(f"displaysleeping: {state}")
+                return state == "0"
+        # If not found, assume screen is on
+        return True
+    except Exception as e:
+        print(f"Exception in screen_is_on: {e}")
+        return True
+        
 def is_trading_hours():
     """Returns True if the current time is within 9:20 AM to 4:40 PM on weekdays in Pakistan time"""
+
     # Get current time in Pakistan timezone
     pakistan_tz = pytz.timezone('Asia/Karachi')
     now = datetime.now(pytz.UTC).astimezone(pakistan_tz)
+    print(f"internet_connected:", internet_connected())
+    print(f"screen_is_on:", screen_is_on())
+    if not internet_connected():
+        return False
+    if not screen_is_on():
+        return False
     return now.weekday() < 5 and (9, 20) <= (now.hour, now.minute) <= (16, 40)
 
 def scrape_psx():
