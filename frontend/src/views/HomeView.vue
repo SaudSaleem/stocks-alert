@@ -3,6 +3,7 @@
     <div class="flex flex-row gap-2">
       <Button @click="showDrawer = true" style="width: 200px;">Open Drawer</Button>
       <Button @click="showCreateAlertDialog = true" style="width: 200px;">Create Alert</Button>
+      <Button @click="showCalculateSharesDialog = true" style="width: 200px;">Calculate Shares</Button>
     </div>
     <Card v-if="user" class="welcome-card mt-8">
       <template #content>
@@ -93,47 +94,47 @@
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="buy_price">Buy Price</label>
-          <InputNumber v-model="alert.buy_price" placeholder="Buy Price" class="flex-1" />
+          <InputNumber v-model="alert.buy_price" placeholder="Buy Price" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp1">TP1</label>
-          <InputNumber v-model="alert.tp1" placeholder="TP1" class="flex-1" />
+          <InputNumber v-model="alert.tp1" placeholder="TP1" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp2">TP2</label>
-          <InputNumber v-model="alert.tp2" placeholder="TP2" class="flex-1" />
+          <InputNumber v-model="alert.tp2" placeholder="TP2" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp3">TP3</label>
-          <InputNumber v-model="alert.tp3" placeholder="TP3" class="flex-1" />
+          <InputNumber v-model="alert.tp3" placeholder="TP3" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="sl">SL</label>
-          <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" />
+          <InputNumber v-model="alert.sl" placeholder="SL" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_tp">TP %</label>
-          <InputNumber v-model="alert.percentage_tp" placeholder="TP %" class="flex-1" />
+          <InputNumber v-model="alert.percentage_tp" placeholder="TP %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="box_break">Box Break</label>
-          <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" />
+          <InputNumber v-model="alert.box_break" placeholder="Box Break" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="dip_buy">Dip Buy</label>
-          <InputNumber v-model="alert.dip_buy" placeholder="Dip Buy" class="flex-1" />
+          <InputNumber v-model="alert.dip_buy" placeholder="Dip Buy" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_sl">SL %</label>
-          <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" />
+          <InputNumber v-model="alert.percentage_sl" placeholder="SL %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="trailing_stop_percentage">Trailing Stop %</label>
-          <InputNumber v-model="alert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
+          <InputNumber v-model="alert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
-          <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" />
+          <InputNumber v-model="alert.shares" placeholder="Shares" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="notes">Notes</label>
@@ -160,47 +161,47 @@
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="buy_price">Buy Price</label>
-          <InputNumber v-model="selectedAlert.buy_price" placeholder="Buy Price" class="flex-1" />
+          <InputNumber v-model="selectedAlert.buy_price" placeholder="Buy Price" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp1">TP1</label>
-          <InputNumber v-model="selectedAlert.tp1" placeholder="TP1" class="flex-1" />
+          <InputNumber v-model="selectedAlert.tp1" placeholder="TP1" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp2">TP2</label>
-          <InputNumber v-model="selectedAlert.tp2" placeholder="TP2" class="flex-1" />
+          <InputNumber v-model="selectedAlert.tp2" placeholder="TP2" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="tp3">TP3</label>
-          <InputNumber v-model="selectedAlert.tp3" placeholder="TP3" class="flex-1" />
+          <InputNumber v-model="selectedAlert.tp3" placeholder="TP3" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_tp">TP %</label>
-          <InputNumber v-model="selectedAlert.percentage_tp" placeholder="TP %" class="flex-1" />
+          <InputNumber v-model="selectedAlert.percentage_tp" placeholder="TP %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="box_break">Box Break</label>
-          <InputNumber v-model="selectedAlert.box_break" placeholder="Box Break" class="flex-1" />
+          <InputNumber v-model="selectedAlert.box_break" placeholder="Box Break" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="dip_buy">Dip Buy</label>
-          <InputNumber v-model="selectedAlert.dip_buy" placeholder="Dip Buy" class="flex-1" />
+          <InputNumber v-model="selectedAlert.dip_buy" placeholder="Dip Buy" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="sl">SL</label>
-          <InputNumber v-model="selectedAlert.sl" placeholder="SL" class="flex-1" />
+          <InputNumber v-model="selectedAlert.sl" placeholder="SL" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="percentage_sl">SL %</label>
-          <InputNumber v-model="selectedAlert.percentage_sl" placeholder="SL %" class="flex-1" />
+          <InputNumber v-model="selectedAlert.percentage_sl" placeholder="SL %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="trailing_stop_percentage">Trailing Stop %</label>
-          <InputNumber v-model="selectedAlert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" />
+          <InputNumber v-model="selectedAlert.trailing_stop_percentage" placeholder="Trailing Stop %" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="shares">Shares</label>
-          <InputNumber v-model="selectedAlert.shares" placeholder="Shares" class="flex-1" />
+          <InputNumber v-model="selectedAlert.shares" placeholder="Shares" class="flex-1" :minFractionDigits="2" />
         </div>
         <div class="flex flex-col gap-2 flex-1">
           <label for="notes">Notes</label>
@@ -209,6 +210,27 @@
       </div>
       <div class="w-full flex justify-center mt-3">
         <Button @click="updateAlert" label="Update Alert" />
+      </div>
+    </Dialog>
+    <Dialog v-model:visible="showCalculateSharesDialog" :header="`Calculate Shares`" :modal="true" style="width: 40vw;">
+      <div class="calculate-shares-form flex flex-col flex-wrap gap-2">
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="calc_ticker">Ticker</label>
+          <Select v-model="calcShares.ticker" filter clearIcon :options="tickers" optionLabel="symbol" optionValue="symbol"
+            placeholder="Select Ticker" class="flex-1" @change="onCalcTickerChange" />
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="calc_price">Current Price</label>
+          <InputNumber :model-value="calcShares.current_price"  placeholder="Current Price" class="flex-1" @input="(event) => calculateShares(event.value, 'current_price')" :minFractionDigits="2"/>
+        </div>
+        <div class="flex flex-col gap-2 flex-1">
+          <label for="calc_amount">Amount</label>
+          <InputNumber :model-value="calcShares.amount" mode="currency" currency="PKR" placeholder="Amount to Invest" class="flex-1" @input="(event) => calculateShares(event.value, 'amount')" :minFractionDigits="2" />
+        </div>
+        <div class="flex flex-col items-center gap-2 flex-1 font-bold">
+          <label for="calc_result ">Shares</label>
+          <span class="flex-1">{{ calcShares.result }}</span>
+        </div>
       </div>
     </Dialog>
   </div>
@@ -248,6 +270,7 @@ export default {
       showCreateAlertDialog: false,
       showDeleteAlertDialog: false,
       showUpdateAlertDialog: false,
+      showCalculateSharesDialog: false,
       alerts: [],
       tickers: [],
       selectedAlert: null,
@@ -265,6 +288,12 @@ export default {
         percentage_sl: null,
         notes: '',
         trailing_stop_percentage: null
+      },
+      calcShares: {
+        ticker: '',
+        current_price: 0,
+        amount: null,
+        result: 0
       },
       pollingInterval: null,
       pollingDelay: 30000 // 30 seconds
@@ -408,6 +437,30 @@ export default {
       this.user = null;
       this.stopPolling(); // Stop polling when logging out
       this.$router.push('/login');
+    },
+    async onCalcTickerChange() {
+      if (!this.calcShares.ticker) {
+        this.calcShares.current_price = 0;
+        this.calcShares.result = 0;
+        return;
+      }
+      const response = await this.getSelectedTickerInfo(this.calcShares.ticker);
+      this.calcShares.current_price = Number(response.current);
+      console.log(this.calcShares);
+      // this.calculateShares();
+    },
+    calculateShares(value, type) {
+      if (type === 'current_price') {
+        this.calcShares.current_price = value;
+      } else if (type === 'amount') {
+        this.calcShares.amount = value;
+      }
+      console.log(this.calcShares, value, type);
+      if (this.calcShares.current_price > 0 && this.calcShares.amount > 0) {
+        this.calcShares.result = Number((this.calcShares.amount / this.calcShares.current_price).toFixed(2));
+      } else {
+        this.calcShares.result = 0;
+      }
     }
   }
 }

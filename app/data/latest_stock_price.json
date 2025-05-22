@@ -1,48 +1,129 @@
 [
     {
+        "symbol": "786",
+        "name": "786 Investments Limited",
+        "ldcp": "8.44",
+        "open": "8.39",
+        "high": "8.39",
+        "low": "8.09",
+        "current": "8.44"
+    },
+    {
+        "symbol": "AABS",
+        "name": "Al-Abbas Sugar Mills Limited",
+        "ldcp": "784.92",
+        "open": "782.99",
+        "high": "790.00",
+        "low": "725.00",
+        "current": "789.98"
+    },
+    {
+        "symbol": "AATM",
+        "name": "Ali Asghar Textile Mills Limited",
+        "ldcp": "40.71",
+        "open": "42.50",
+        "high": "42.50",
+        "low": "40.50",
+        "current": "40.87"
+    },
+    {
+        "symbol": "ABL",
+        "name": "Allied Bank Limited",
+        "ldcp": "128.96",
+        "open": "129.15",
+        "high": "129.90",
+        "low": "127.75",
+        "current": "128.24"
+    },
+    {
+        "symbol": "ABOT",
+        "name": "Abbott Laboratories (Pakistan) Limited",
+        "ldcp": "968.03",
+        "open": "962.00",
+        "high": "980.00",
+        "low": "962.00",
+        "current": "974.06"
+    },
+    {
+        "symbol": "ACIETF",
+        "name": "Alfalah Consumer Index (ETF)",
+        "ldcp": "15.52",
+        "open": "15.76",
+        "high": "15.76",
+        "low": "15.59",
+        "current": "15.59"
+    },
+    {
         "symbol": "ACPL",
         "name": "Attock Cement Pakistan Limited",
         "ldcp": "310.13",
         "open": "317.88",
         "high": "317.88",
-        "low": "312.10",
-        "current": "312.10"
+        "low": "308.00",
+        "current": "309.38"
+    },
+    {
+        "symbol": "ADAMS",
+        "name": "Adam Sugar Mills Limited",
+        "ldcp": "50.75",
+        "open": "51.98",
+        "high": "55.00",
+        "low": "51.40",
+        "current": "54.54"
+    },
+    {
+        "symbol": "ADMM",
+        "name": "Artistic Denim Mills Limited",
+        "ldcp": "41.35",
+        "open": "41.35",
+        "high": "44.70",
+        "low": "40.30",
+        "current": "43.86"
     },
     {
         "symbol": "AGHA",
         "name": "Agha Steel Ind.Ltd",
         "ldcp": "8.36",
         "open": "8.36",
-        "high": "8.42",
-        "low": "8.36",
-        "current": "8.42"
+        "high": "8.50",
+        "low": "8.25",
+        "current": "8.41"
+    },
+    {
+        "symbol": "AGIC",
+        "name": "Askari General Insurance Company Limited",
+        "ldcp": "30.25",
+        "open": "31.95",
+        "high": "31.95",
+        "low": "29.12",
+        "current": "30.78"
     },
     {
         "symbol": "AGIL",
         "name": "Agriauto Industries Limited",
         "ldcp": "107.07",
         "open": "107.07",
-        "high": "107.07",
-        "low": "107.07",
-        "current": "107.07"
+        "high": "110.50",
+        "low": "106.00",
+        "current": "108.01"
     },
     {
         "symbol": "AGL",
         "name": "Agritech Limited",
         "ldcp": "52.60",
         "open": "53.35",
-        "high": "53.35",
-        "low": "53.35",
-        "current": "53.35"
+        "high": "57.86",
+        "low": "52.10",
+        "current": "57.86"
     },
     {
         "symbol": "AGP",
         "name": "AGP Limited",
         "ldcp": "184.74",
         "open": "185.50",
-        "high": "186.00",
+        "high": "192.00",
         "low": "183.00",
-        "current": "185.99"
+        "current": "185.28"
     },
     {
         "symbol": "AGSML",
@@ -50,8 +131,8 @@
         "ldcp": "6.51",
         "open": "6.70",
         "high": "6.70",
-        "low": "6.70",
-        "current": "6.70"
+        "low": "6.13",
+        "current": "6.38"
     },
     {
         "symbol": "AGTL",
@@ -59,8 +140,8 @@
         "ldcp": "456.81",
         "open": "456.81",
         "high": "456.81",
-        "low": "452.02",
-        "current": "452.02"
+        "low": "421.15",
+        "current": "431.99"
     },
     {
         "symbol": "AHCL",
@@ -68,7 +149,7 @@
         "ldcp": "10.70",
         "open": "10.79",
         "high": "10.79",
-        "low": "10.70",
+        "low": "10.60",
         "current": "10.70"
     },
     {
@@ -77,53 +158,89 @@
         "ldcp": "76.93",
         "open": "78.99",
         "high": "78.99",
-        "low": "76.50",
-        "current": "78.00"
+        "low": "74.00",
+        "current": "77.05"
     },
     {
         "symbol": "AICL",
         "name": "Adamjee Insurance Company Limited",
         "ldcp": "46.32",
         "open": "46.00",
-        "high": "46.48",
-        "low": "46.00",
-        "current": "46.48"
+        "high": "47.80",
+        "low": "45.90",
+        "current": "46.99"
     },
     {
         "symbol": "AIRLINK",
         "name": "Air Link Communication Limited",
         "ldcp": "156.09",
         "open": "156.00",
-        "high": "156.00",
-        "low": "156.00",
-        "current": "156.00"
+        "high": "162.00",
+        "low": "155.10",
+        "current": "160.53"
     },
     {
         "symbol": "AKBL",
         "name": "Askari Bank Limited",
         "ldcp": "46.33",
         "open": "46.95",
-        "high": "46.95",
-        "low": "46.40",
-        "current": "46.40"
+        "high": "47.75",
+        "low": "46.10",
+        "current": "47.39"
     },
     {
         "symbol": "AKDHL",
         "name": "AKD Hospitality Limited",
         "ldcp": "160.04",
         "open": "161.99",
-        "high": "161.99",
+        "high": "176.04",
         "low": "161.99",
-        "current": "161.99"
+        "current": "176.04"
+    },
+    {
+        "symbol": "AKDSL",
+        "name": "AKD Securities Limited",
+        "ldcp": "19.55",
+        "open": "19.90",
+        "high": "21.51",
+        "low": "19.51",
+        "current": "21.51"
+    },
+    {
+        "symbol": "AKGL",
+        "name": "Al-Khair Gadoon Limited",
+        "ldcp": "44.50",
+        "open": "40.05",
+        "high": "40.05",
+        "low": "40.05",
+        "current": "44.50"
+    },
+    {
+        "symbol": "ALAC",
+        "name": "Askari Life Assurance Company Limited",
+        "ldcp": "4.77",
+        "open": "4.75",
+        "high": "4.99",
+        "low": "4.75",
+        "current": "4.97"
     },
     {
         "symbol": "ALIFE",
         "name": "Adamjee Life Assurance Company Limited",
         "ldcp": "24.08",
         "open": "23.50",
-        "high": "23.50",
-        "low": "23.50",
-        "current": "23.50"
+        "high": "25.10",
+        "low": "23.25",
+        "current": "25.06"
+    },
+    {
+        "symbol": "ALNRS",
+        "name": "Al-Noor Sugar Mills Limited",
+        "ldcp": "78.75",
+        "open": "75.57",
+        "high": "78.74",
+        "low": "75.00",
+        "current": "78.75"
     },
     {
         "symbol": "ALTN",
@@ -131,26 +248,35 @@
         "ldcp": "11.72",
         "open": "11.71",
         "high": "11.80",
-        "low": "11.71",
-        "current": "11.80"
+        "low": "11.68",
+        "current": "11.70"
+    },
+    {
+        "symbol": "AMBL",
+        "name": "Apna Microfinance Bank Limited",
+        "ldcp": "7.79",
+        "open": "8.79",
+        "high": "8.79",
+        "low": "8.79",
+        "current": "8.79"
     },
     {
         "symbol": "AMTEXNC",
         "name": "Amtex Limited",
         "ldcp": "2.65",
-        "open": "0.00",
-        "high": "0.00",
-        "low": "0.00",
-        "current": "2.65"
+        "open": "2.73",
+        "high": "2.74",
+        "low": "2.53",
+        "current": "2.71"
     },
     {
         "symbol": "ANL",
         "name": "Azgard Nine Limited",
         "ldcp": "8.04",
         "open": "8.30",
-        "high": "8.30",
-        "low": "8.30",
-        "current": "8.30"
+        "high": "8.41",
+        "low": "8.10",
+        "current": "8.27"
     },
     {
         "symbol": "ANTM",
@@ -166,9 +292,9 @@
         "name": "Attock Petroleum Limited",
         "ldcp": "450.98",
         "open": "450.99",
-        "high": "450.99",
-        "low": "450.99",
-        "current": "450.99"
+        "high": "452.75",
+        "low": "450.10",
+        "current": "451.30"
     },
     {
         "symbol": "ARCTM",
@@ -176,8 +302,26 @@
         "ldcp": "31.40",
         "open": "32.90",
         "high": "33.00",
-        "low": "32.90",
-        "current": "33.00"
+        "low": "29.00",
+        "current": "30.70"
+    },
+    {
+        "symbol": "ARPAK",
+        "name": "Arpak International Investments Ltd.",
+        "ldcp": "61.60",
+        "open": "57.00",
+        "high": "57.00",
+        "low": "57.00",
+        "current": "61.60"
+    },
+    {
+        "symbol": "ARPL",
+        "name": "Archroma Pakistan Limited",
+        "ldcp": "410.15",
+        "open": "416.00",
+        "high": "416.50",
+        "low": "410.95",
+        "current": "415.48"
     },
     {
         "symbol": "ARUJNC",
@@ -185,8 +329,8 @@
         "ldcp": "7.81",
         "open": "8.28",
         "high": "8.28",
-        "low": "8.28",
-        "current": "8.28"
+        "low": "7.90",
+        "current": "8.11"
     },
     {
         "symbol": "ASCNC",
@@ -194,8 +338,17 @@
         "ldcp": "8.12",
         "open": "8.15",
         "high": "8.25",
-        "low": "8.15",
-        "current": "8.23"
+        "low": "8.01",
+        "current": "8.11"
+    },
+    {
+        "symbol": "ASHT",
+        "name": "Ashfaq Textile Mills Limited",
+        "ldcp": "11.14",
+        "open": "11.99",
+        "high": "12.25",
+        "low": "11.99",
+        "current": "12.23"
     },
     {
         "symbol": "ASL",
@@ -203,8 +356,8 @@
         "ldcp": "11.11",
         "open": "11.23",
         "high": "11.23",
-        "low": "11.23",
-        "current": "11.23"
+        "low": "10.80",
+        "current": "10.97"
     },
     {
         "symbol": "ASTL",
@@ -212,53 +365,80 @@
         "ldcp": "25.65",
         "open": "26.30",
         "high": "26.44",
-        "low": "25.50",
-        "current": "25.70"
+        "low": "25.00",
+        "current": "25.31"
+    },
+    {
+        "symbol": "ASTMNC",
+        "name": "Asim Textile Mills Limited",
+        "ldcp": "13.00",
+        "open": "13.10",
+        "high": "14.24",
+        "low": "13.01",
+        "current": "13.78"
     },
     {
         "symbol": "ATBA",
         "name": "Atlas Battery Limited",
         "ldcp": "271.81",
         "open": "272.00",
-        "high": "272.00",
-        "low": "272.00",
-        "current": "272.00"
+        "high": "274.99",
+        "low": "270.51",
+        "current": "273.84"
+    },
+    {
+        "symbol": "ATIL",
+        "name": "Atlas Insurance Limited",
+        "ldcp": "58.43",
+        "open": "58.99",
+        "high": "58.99",
+        "low": "58.48",
+        "current": "58.97"
+    },
+    {
+        "symbol": "ATLH",
+        "name": "Atlas Honda Limited",
+        "ldcp": "1,153.84",
+        "open": "1,160.00",
+        "high": "1,160.00",
+        "low": "1,149.07",
+        "current": "1,152.01"
     },
     {
         "symbol": "ATRL",
         "name": "Attock Refinery Limited",
         "ldcp": "608.95",
         "open": "612.01",
-        "high": "616.50",
+        "high": "654.00",
         "low": "612.01",
-        "current": "615.00"
+        "current": "637.33"
     },
     {
         "symbol": "AVN",
         "name": "Avanceon Limited",
         "ldcp": "49.35",
         "open": "49.06",
-        "high": "49.70",
+        "high": "50.50",
         "low": "49.06",
-        "current": "49.70"
+        "current": "50.09"
     },
     {
         "symbol": "BAFL",
         "name": "Bank Alfalah Limited",
         "ldcp": "73.23",
         "open": "73.75",
-        "high": "73.75",
+        "high": "74.90",
         "low": "73.01",
-        "current": "73.10"
+        "current": "74.46"
     },
     {
         "symbol": "BAHL",
         "name": "Bank AL Habib Limited",
         "ldcp": "138.74",
         "open": "138.00",
-        "high": "138.00",
+        "high": "143.11",
         "low": "138.00",
-        "current": "138.00"
+        "current": "142.70"
     },
     {
         "symbol": "BAPLNC",
@@ -266,53 +446,80 @@
         "ldcp": "49.61",
         "open": "50.49",
         "high": "50.49",
-        "low": "50.48",
-        "current": "50.48"
+        "low": "45.00",
+        "current": "45.83"
+    },
+    {
+        "symbol": "BATA",
+        "name": "Bata Pakistan Limited",
+        "ldcp": "1,541.14",
+        "open": "1,549.98",
+        "high": "1,550.00",
+        "low": "1,526.01",
+        "current": "1,548.00"
     },
     {
         "symbol": "BBFL",
         "name": "Big Bird Foods Limited",
         "ldcp": "50.09",
         "open": "50.10",
-        "high": "50.35",
-        "low": "50.10",
-        "current": "50.35"
+        "high": "51.50",
+        "low": "49.80",
+        "current": "50.12"
     },
     {
         "symbol": "BCL",
         "name": "Bolan Castings Limited",
         "ldcp": "92.07",
         "open": "92.07",
-        "high": "92.07",
-        "low": "92.07",
-        "current": "92.07"
+        "high": "93.69",
+        "low": "92.00",
+        "current": "92.81"
     },
     {
         "symbol": "BECO",
         "name": "Beco Steel Limited",
         "ldcp": "9.38",
         "open": "9.35",
-        "high": "9.35",
+        "high": "9.39",
         "low": "9.03",
-        "current": "9.25"
+        "current": "9.33"
+    },
+    {
+        "symbol": "BELANC",
+        "name": "Bela Automotives Limited",
+        "ldcp": "129.98",
+        "open": "130.86",
+        "high": "134.00",
+        "low": "129.98",
+        "current": "130.35"
     },
     {
         "symbol": "BERG",
         "name": "Berger Paints Pakistan Limited",
         "ldcp": "99.65",
         "open": "99.03",
-        "high": "101.00",
+        "high": "103.58",
         "low": "99.03",
-        "current": "101.00"
+        "current": "100.78"
     },
     {
         "symbol": "BFBIO",
         "name": "BF Biosciences Limited",
         "ldcp": "174.00",
         "open": "176.00",
-        "high": "178.00",
+        "high": "180.00",
         "low": "174.00",
-        "current": "175.00"
+        "current": "176.10"
+    },
+    {
+        "symbol": "BFMOD",
+        "name": "B.F. Modaraba",
+        "ldcp": "8.29",
+        "open": "8.38",
+        "high": "8.38",
+        "low": "7.82",
+        "current": "7.88"
     },
     {
         "symbol": "BGL",
@@ -320,251 +527,458 @@
         "ldcp": "10.48",
         "open": "10.60",
         "high": "10.60",
-        "low": "10.50",
-        "current": "10.60"
+        "low": "10.20",
+        "current": "10.32"
+    },
+    {
+        "symbol": "BHAT",
+        "name": "Bhanero Textile Mills Limited",
+        "ldcp": "737.42",
+        "open": "750.01",
+        "high": "750.01",
+        "low": "665.00",
+        "current": "704.59"
     },
     {
         "symbol": "BIFO",
         "name": "Biafo Industries Limited",
         "ldcp": "183.81",
         "open": "180.05",
-        "high": "180.05",
-        "low": "180.05",
-        "current": "180.05"
+        "high": "184.90",
+        "low": "180.00",
+        "current": "181.40"
     },
     {
         "symbol": "BILFNC",
         "name": "Bilal Fibres Limited",
         "ldcp": "19.26",
         "open": "19.79",
-        "high": "20.65",
-        "low": "19.75",
-        "current": "20.47"
+        "high": "20.80",
+        "low": "19.00",
+        "current": "19.62"
     },
     {
         "symbol": "BIPL",
         "name": "BankIslami Pakistan Limited",
         "ldcp": "20.22",
         "open": "20.23",
-        "high": "20.23",
-        "low": "20.23",
-        "current": "20.23"
+        "high": "20.25",
+        "low": "20.01",
+        "current": "20.14"
     },
     {
         "symbol": "BML",
         "name": "Bank Makramah Limited",
         "ldcp": "3.37",
         "open": "3.45",
-        "high": "3.45",
-        "low": "3.45",
-        "current": "3.45"
+        "high": "3.50",
+        "low": "3.39",
+        "current": "3.43"
     },
     {
         "symbol": "BNL",
         "name": "Bunnys Limited",
         "ldcp": "41.01",
         "open": "42.35",
-        "high": "43.91",
-        "low": "42.25",
-        "current": "43.90"
+        "high": "44.44",
+        "low": "37.11",
+        "current": "37.79"
     },
     {
         "symbol": "BNWM",
         "name": "Bannu Woollen Mills Limited",
         "ldcp": "34.78",
         "open": "35.79",
-        "high": "35.95",
-        "low": "34.92",
-        "current": "35.49"
+        "high": "37.90",
+        "low": "33.50",
+        "current": "36.26"
     },
     {
         "symbol": "BOK",
         "name": "The Bank of Khyber",
         "ldcp": "14.70",
         "open": "14.25",
-        "high": "14.25",
+        "high": "15.39",
         "low": "14.25",
-        "current": "14.25"
+        "current": "15.12"
     },
     {
         "symbol": "BOP",
         "name": "The Bank of Punjab",
         "ldcp": "9.84",
         "open": "9.85",
-        "high": "9.89",
-        "low": "9.85",
-        "current": "9.89"
+        "high": "10.16",
+        "low": "9.80",
+        "current": "10.08"
+    },
+    {
+        "symbol": "BPL",
+        "name": "Burshane LPG (Pakistan) Limited",
+        "ldcp": "30.47",
+        "open": "31.25",
+        "high": "31.25",
+        "low": "30.25",
+        "current": "30.26"
+    },
+    {
+        "symbol": "BRRG",
+        "name": "B.R.R Guardian Limited",
+        "ldcp": "22.62",
+        "open": "23.60",
+        "high": "23.60",
+        "low": "22.50",
+        "current": "23.00"
+    },
+    {
+        "symbol": "BTL",
+        "name": "Blessed Textiles Limited",
+        "ldcp": "268.81",
+        "open": "268.20",
+        "high": "279.99",
+        "low": "260.00",
+        "current": "266.99"
+    },
+    {
+        "symbol": "BUXL",
+        "name": "Buxly Paints Limited",
+        "ldcp": "112.50",
+        "open": "115.90",
+        "high": "123.75",
+        "low": "115.90",
+        "current": "123.75"
+    },
+    {
+        "symbol": "BWCL",
+        "name": "Bestway Cement Limited",
+        "ldcp": "402.69",
+        "open": "405.00",
+        "high": "405.97",
+        "low": "403.00",
+        "current": "403.91"
+    },
+    {
+        "symbol": "BWHL",
+        "name": "Baluchistan Wheels Limited",
+        "ldcp": "133.07",
+        "open": "134.50",
+        "high": "135.90",
+        "low": "133.10",
+        "current": "133.87"
+    },
+    {
+        "symbol": "CASH",
+        "name": "Calcorp Limited",
+        "ldcp": "46.00",
+        "open": "50.10",
+        "high": "50.60",
+        "low": "43.00",
+        "current": "50.49"
+    },
+    {
+        "symbol": "CCM",
+        "name": "Crescent Cotton Mills Limited",
+        "ldcp": "48.20",
+        "open": "48.20",
+        "high": "49.00",
+        "low": "48.20",
+        "current": "48.32"
     },
     {
         "symbol": "CENI",
         "name": "Century Insurance Company Limited",
         "ldcp": "38.51",
         "open": "37.00",
-        "high": "37.00",
+        "high": "39.50",
         "low": "37.00",
-        "current": "37.00"
+        "current": "39.39"
     },
     {
         "symbol": "CEPB",
         "name": "Century Paper & Board Mills Limited",
         "ldcp": "26.08",
         "open": "26.30",
-        "high": "26.30",
-        "low": "26.20",
-        "current": "26.29"
+        "high": "26.40",
+        "low": "25.51",
+        "current": "25.75"
+    },
+    {
+        "symbol": "CFL",
+        "name": "Crescent Fibres Limited",
+        "ldcp": "50.25",
+        "open": "50.00",
+        "high": "50.00",
+        "low": "50.00",
+        "current": "50.25"
+    },
+    {
+        "symbol": "CHAS",
+        "name": "Chashma Sugar Mills Limited",
+        "ldcp": "65.00",
+        "open": "67.98",
+        "high": "67.98",
+        "low": "64.25",
+        "current": "66.98"
     },
     {
         "symbol": "CHBL",
         "name": "Chenab Limited",
         "ldcp": "5.75",
-        "open": "0.00",
-        "high": "0.00",
-        "low": "0.00",
-        "current": "5.75"
+        "open": "5.70",
+        "high": "5.96",
+        "low": "5.60",
+        "current": "5.92"
     },
     {
         "symbol": "CHCC",
         "name": "Cherat Cement Company Limited",
         "ldcp": "264.82",
         "open": "265.00",
-        "high": "266.00",
-        "low": "265.00",
-        "current": "265.10"
+        "high": "270.50",
+        "low": "264.10",
+        "current": "268.81"
+    },
+    {
+        "symbol": "CJPLNC",
+        "name": "Crescent Jute Products Limited",
+        "ldcp": "3.13",
+        "open": "3.20",
+        "high": "3.33",
+        "low": "3.01",
+        "current": "3.24"
     },
     {
         "symbol": "CLCPS",
         "name": "Chenab Limited (Pref)",
         "ldcp": "2.65",
         "open": "2.41",
-        "high": "2.41",
+        "high": "2.70",
         "low": "2.41",
-        "current": "2.41"
+        "current": "2.69"
     },
     {
         "symbol": "CLOV",
         "name": "Clover Pakistan Limited",
         "ldcp": "37.44",
         "open": "37.50",
-        "high": "37.77",
-        "low": "37.50",
-        "current": "37.77"
+        "high": "37.99",
+        "low": "37.25",
+        "current": "37.79"
     },
     {
         "symbol": "CLVL",
         "name": "Cordoba Logistics & Ventures Limited",
         "ldcp": "15.65",
         "open": "15.70",
-        "high": "15.70",
-        "low": "15.70",
-        "current": "15.70"
+        "high": "16.24",
+        "low": "15.03",
+        "current": "15.86"
     },
     {
         "symbol": "CNERGY",
         "name": "Cnergyico PK  Limited",
         "ldcp": "7.72",
         "open": "7.70",
-        "high": "7.82",
+        "high": "8.02",
         "low": "7.70",
-        "current": "7.81"
+        "current": "7.94"
+    },
+    {
+        "symbol": "COLG",
+        "name": "Colgate-Palmolive (Pakistan) Limited",
+        "ldcp": "1,343.90",
+        "open": "1,353.88",
+        "high": "1,354.00",
+        "low": "1,340.00",
+        "current": "1,341.82"
     },
     {
         "symbol": "CPHL",
         "name": "Citi Pharma Ltd.",
         "ldcp": "84.78",
         "open": "84.16",
-        "high": "84.99",
+        "high": "87.50",
         "low": "84.16",
-        "current": "84.95"
+        "current": "85.66"
     },
     {
         "symbol": "CPPL",
         "name": "Cherat Packaging Limited",
         "ldcp": "105.52",
         "open": "105.53",
-        "high": "108.00",
-        "low": "105.53",
-        "current": "108.00"
+        "high": "108.20",
+        "low": "105.30",
+        "current": "106.16"
+    },
+    {
+        "symbol": "CRTM",
+        "name": "The Crescent Textile Mills Limited",
+        "ldcp": "13.53",
+        "open": "13.71",
+        "high": "14.88",
+        "low": "13.57",
+        "current": "14.88"
+    },
+    {
+        "symbol": "CSAP",
+        "name": "Crescent Steel & Allied Products Limited",
+        "ldcp": "120.71",
+        "open": "120.80",
+        "high": "122.49",
+        "low": "120.10",
+        "current": "120.60"
     },
     {
         "symbol": "CSIL",
         "name": "Crescent Star Insurance Limited",
         "ldcp": "3.26",
         "open": "3.35",
-        "high": "3.35",
-        "low": "3.31",
-        "current": "3.31"
+        "high": "3.60",
+        "low": "3.07",
+        "current": "3.14"
     },
     {
         "symbol": "CTM",
         "name": "Colony Textile Mills Limited",
         "ldcp": "3.47",
         "open": "3.41",
-        "high": "3.50",
+        "high": "4.07",
         "low": "3.41",
-        "current": "3.45"
+        "current": "3.99"
+    },
+    {
+        "symbol": "CWSMNC",
+        "name": "Chakwal Spinning Mills Limited",
+        "ldcp": "44.63",
+        "open": "45.55",
+        "high": "46.75",
+        "low": "44.86",
+        "current": "45.67"
+    },
+    {
+        "symbol": "CYAN",
+        "name": "Cyan Limited",
+        "ldcp": "29.88",
+        "open": "29.95",
+        "high": "30.47",
+        "low": "29.51",
+        "current": "30.17"
     },
     {
         "symbol": "DAAG",
         "name": "Data Agro Limited",
         "ldcp": "88.91",
         "open": "87.00",
-        "high": "87.00",
-        "low": "87.00",
-        "current": "87.00"
+        "high": "88.45",
+        "low": "82.29",
+        "current": "84.09"
+    },
+    {
+        "symbol": "DADX",
+        "name": "Dadex Eternit Limited",
+        "ldcp": "65.06",
+        "open": "63.50",
+        "high": "66.50",
+        "low": "63.50",
+        "current": "66.20"
+    },
+    {
+        "symbol": "DBCINC",
+        "name": "Dadabhoy Cement Industries Limited",
+        "ldcp": "4.72",
+        "open": "4.60",
+        "high": "4.85",
+        "low": "4.57",
+        "current": "4.83"
     },
     {
         "symbol": "DCL",
         "name": "Dewan Cement Limited",
         "ldcp": "10.53",
         "open": "10.45",
-        "high": "10.59",
-        "low": "10.45",
-        "current": "10.59"
+        "high": "10.65",
+        "low": "10.35",
+        "current": "10.56"
     },
     {
         "symbol": "DCR",
         "name": "Dolmen City REIT",
         "ldcp": "26.34",
         "open": "26.45",
-        "high": "26.52",
-        "low": "26.45",
+        "high": "26.70",
+        "low": "26.40",
         "current": "26.50"
+    },
+    {
+        "symbol": "DEL",
+        "name": "Dawood Equities Limited",
+        "ldcp": "9.00",
+        "open": "9.00",
+        "high": "9.21",
+        "low": "9.00",
+        "current": "9.02"
     },
     {
         "symbol": "DFML",
         "name": "Dewan Farooque Motors Limited",
         "ldcp": "34.69",
         "open": "34.70",
-        "high": "34.78",
-        "low": "34.70",
-        "current": "34.78"
+        "high": "37.25",
+        "low": "34.16",
+        "current": "36.24"
     },
     {
         "symbol": "DFSM",
         "name": "Dewan Farooque Spinning Mills Limited",
         "ldcp": "3.00",
         "open": "3.03",
-        "high": "3.03",
+        "high": "3.15",
         "low": "2.95",
-        "current": "2.95"
+        "current": "3.11"
     },
     {
         "symbol": "DGKC",
         "name": "D.G. Khan Cement Company Limited",
         "ldcp": "148.06",
         "open": "148.99",
-        "high": "148.99",
+        "high": "152.65",
         "low": "147.50",
-        "current": "147.50"
+        "current": "151.86"
     },
     {
         "symbol": "DHPL",
         "name": "DH Partners Limited",
         "ldcp": "36.94",
         "open": "36.80",
-        "high": "36.80",
-        "low": "36.70",
-        "current": "36.70"
+        "high": "37.38",
+        "low": "36.25",
+        "current": "37.00"
+    },
+    {
+        "symbol": "DIIL",
+        "name": "Diamond Industries Limited",
+        "ldcp": "23.16",
+        "open": "23.20",
+        "high": "25.25",
+        "low": "22.90",
+        "current": "23.15"
+    },
+    {
+        "symbol": "DINT",
+        "name": "Din Textile Mills Limited",
+        "ldcp": "45.00",
+        "open": "44.00",
+        "high": "44.00",
+        "low": "44.00",
+        "current": "45.00"
+    },
+    {
+        "symbol": "DLL",
+        "name": "Dawood Lawrencepur Limited",
+        "ldcp": "234.99",
+        "open": "239.99",
+        "high": "239.99",
+        "low": "237.00",
+        "current": "237.01"
     },
     {
         "symbol": "DMTMNC",
@@ -572,26 +986,35 @@
         "ldcp": "12.57",
         "open": "13.55",
         "high": "13.82",
-        "low": "13.55",
-        "current": "13.82"
+        "low": "11.35",
+        "current": "12.14"
+    },
+    {
+        "symbol": "DNCC",
+        "name": "Dandot Cement Company Limited",
+        "ldcp": "14.08",
+        "open": "14.00",
+        "high": "14.05",
+        "low": "13.70",
+        "current": "14.08"
     },
     {
         "symbol": "DOL",
         "name": "Descon Oxychem Limited",
         "ldcp": "30.02",
         "open": "30.25",
-        "high": "30.25",
+        "high": "31.60",
         "low": "30.06",
-        "current": "30.20"
+        "current": "30.62"
     },
     {
         "symbol": "DSIL",
         "name": "D.S. Industries Limited",
         "ldcp": "4.68",
         "open": "4.73",
-        "high": "4.85",
-        "low": "4.73",
-        "current": "4.85"
+        "high": "5.05",
+        "low": "4.70",
+        "current": "4.78"
     },
     {
         "symbol": "DSLNC",
@@ -599,8 +1022,17 @@
         "ldcp": "9.60",
         "open": "9.75",
         "high": "9.75",
-        "low": "9.60",
-        "current": "9.60"
+        "low": "8.95",
+        "current": "9.06"
+    },
+    {
+        "symbol": "DWAENC",
+        "name": "Dewan Automotive Engineering Limited",
+        "ldcp": "27.89",
+        "open": "28.94",
+        "high": "28.94",
+        "low": "27.05",
+        "current": "28.00"
     },
     {
         "symbol": "DWSMNC",
@@ -608,8 +1040,35 @@
         "ldcp": "5.69",
         "open": "5.80",
         "high": "5.85",
-        "low": "5.80",
-        "current": "5.85"
+        "low": "5.63",
+        "current": "5.69"
+    },
+    {
+        "symbol": "DWTMNC",
+        "name": "Dewan Textile Mills Limited",
+        "ldcp": "6.18",
+        "open": "6.49",
+        "high": "6.50",
+        "low": "6.01",
+        "current": "6.21"
+    },
+    {
+        "symbol": "DYNO",
+        "name": "Dynea Pakistan Limited",
+        "ldcp": "224.95",
+        "open": "225.00",
+        "high": "225.01",
+        "low": "224.05",
+        "current": "224.99"
+    },
+    {
+        "symbol": "ECOP",
+        "name": "Ecopack Limited",
+        "ldcp": "36.51",
+        "open": "37.14",
+        "high": "40.16",
+        "low": "36.05",
+        "current": "40.00"
     },
     {
         "symbol": "EFERT",
@@ -617,8 +1076,8 @@
         "ldcp": "182.35",
         "open": "182.75",
         "high": "182.75",
-        "low": "182.35",
-        "current": "182.45"
+        "low": "180.60",
+        "current": "181.69"
     },
     {
         "symbol": "EFUG",
@@ -626,17 +1085,53 @@
         "ldcp": "119.01",
         "open": "123.93",
         "high": "123.93",
-        "low": "123.93",
-        "current": "123.93"
+        "low": "119.28",
+        "current": "119.28"
+    },
+    {
+        "symbol": "EFUL",
+        "name": "EFU Life Assurance Limited",
+        "ldcp": "143.48",
+        "open": "143.98",
+        "high": "148.00",
+        "low": "143.50",
+        "current": "147.82"
+    },
+    {
+        "symbol": "ELCM",
+        "name": "Elahi Cotton Mills Limited",
+        "ldcp": "124.75",
+        "open": "125.00",
+        "high": "137.23",
+        "low": "125.00",
+        "current": "132.80"
+    },
+    {
+        "symbol": "ELSM",
+        "name": "Ellcot Spinning Mills Limited",
+        "ldcp": "102.00",
+        "open": "104.99",
+        "high": "106.99",
+        "low": "102.00",
+        "current": "103.83"
+    },
+    {
+        "symbol": "EMCO",
+        "name": "Emco Industries Limited",
+        "ldcp": "41.47",
+        "open": "38.01",
+        "high": "38.01",
+        "low": "38.01",
+        "current": "41.47"
     },
     {
         "symbol": "ENGROH",
         "name": "Engro Holdings Limited",
         "ldcp": "181.77",
         "open": "182.00",
-        "high": "182.73",
-        "low": "182.00",
-        "current": "182.00"
+        "high": "184.30",
+        "low": "180.90",
+        "current": "182.62"
     },
     {
         "symbol": "EPCL",
@@ -644,53 +1139,98 @@
         "ldcp": "33.51",
         "open": "33.97",
         "high": "33.97",
-        "low": "33.90",
-        "current": "33.90"
+        "low": "33.10",
+        "current": "33.42"
     },
     {
         "symbol": "EPCLPS",
         "name": "Engro Poly(Pref)",
         "ldcp": "12.00",
         "open": "12.00",
-        "high": "12.00",
+        "high": "12.15",
         "low": "12.00",
-        "current": "12.00"
+        "current": "12.15"
+    },
+    {
+        "symbol": "EPQL",
+        "name": "Engro Powergen Qadirpur Limited",
+        "ldcp": "27.50",
+        "open": "27.69",
+        "high": "27.80",
+        "low": "27.40",
+        "current": "27.51"
+    },
+    {
+        "symbol": "ESBL",
+        "name": "Escorts Investment Bank Limited",
+        "ldcp": "5.90",
+        "open": "6.45",
+        "high": "6.45",
+        "low": "6.45",
+        "current": "5.90"
     },
     {
         "symbol": "EXIDE",
         "name": "Exide Pakistan Limited",
         "ldcp": "812.67",
         "open": "813.00",
-        "high": "813.00",
-        "low": "813.00",
-        "current": "813.00"
+        "high": "824.30",
+        "low": "806.00",
+        "current": "821.56"
     },
     {
         "symbol": "FABL",
         "name": "Faysal Bank Limited",
         "ldcp": "47.87",
         "open": "48.00",
-        "high": "48.00",
+        "high": "48.70",
         "low": "48.00",
-        "current": "48.00"
+        "current": "48.48"
+    },
+    {
+        "symbol": "FANM",
+        "name": "First Al-Noor Modaraba",
+        "ldcp": "3.00",
+        "open": "3.00",
+        "high": "3.00",
+        "low": "3.00",
+        "current": "3.00"
+    },
+    {
+        "symbol": "FASM",
+        "name": "Faisal Spinning Mills Limited",
+        "ldcp": "315.00",
+        "open": "289.21",
+        "high": "298.30",
+        "low": "284.01",
+        "current": "315.00"
     },
     {
         "symbol": "FATIMA",
         "name": "Fatima Fertilizer Company Limited",
         "ldcp": "86.50",
         "open": "86.50",
-        "high": "86.50",
-        "low": "86.50",
-        "current": "86.50"
+        "high": "88.25",
+        "low": "86.18",
+        "current": "87.93"
     },
     {
         "symbol": "FCCL",
         "name": "Fauji Cement Company Limited",
         "ldcp": "46.99",
         "open": "47.00",
-        "high": "47.28",
-        "low": "47.00",
-        "current": "47.25"
+        "high": "47.51",
+        "low": "46.45",
+        "current": "46.96"
+    },
+    {
+        "symbol": "FCELNC",
+        "name": "First Capital Equities Limited",
+        "ldcp": "3.84",
+        "open": "3.10",
+        "high": "4.84",
+        "low": "3.10",
+        "current": "3.90"
     },
     {
         "symbol": "FCEPL",
@@ -698,44 +1238,89 @@
         "ldcp": "101.09",
         "open": "102.01",
         "high": "103.00",
-        "low": "101.90",
-        "current": "102.55"
+        "low": "100.05",
+        "current": "101.70"
+    },
+    {
+        "symbol": "FCIBL",
+        "name": "First Credit and Investment Bank Limited",
+        "ldcp": "7.60",
+        "open": "8.17",
+        "high": "8.17",
+        "low": "8.17",
+        "current": "7.60"
     },
     {
         "symbol": "FCL",
         "name": "Fast Cables Limited",
         "ldcp": "23.35",
         "open": "23.35",
-        "high": "23.35",
+        "high": "23.85",
         "low": "23.15",
-        "current": "23.15"
+        "current": "23.51"
     },
     {
         "symbol": "FCSC",
         "name": "First Capital Securities Corporation",
         "ldcp": "1.38",
         "open": "1.43",
-        "high": "1.43",
-        "low": "1.43",
-        "current": "1.43"
+        "high": "1.53",
+        "low": "1.39",
+        "current": "1.46"
+    },
+    {
+        "symbol": "FDPL",
+        "name": "First Dawood Properties Limited",
+        "ldcp": "2.23",
+        "open": "2.30",
+        "high": "2.39",
+        "low": "2.15",
+        "current": "2.35"
+    },
+    {
+        "symbol": "FECM",
+        "name": "First Elite Capital Modaraba",
+        "ldcp": "17.78",
+        "open": "17.78",
+        "high": "17.78",
+        "low": "16.12",
+        "current": "16.12"
+    },
+    {
+        "symbol": "FECTC",
+        "name": "Fecto Cement Limited",
+        "ldcp": "72.10",
+        "open": "72.99",
+        "high": "73.42",
+        "low": "72.02",
+        "current": "72.70"
+    },
+    {
+        "symbol": "FEM",
+        "name": "First Equity Modaraba",
+        "ldcp": "3.00",
+        "open": "2.91",
+        "high": "2.93",
+        "low": "2.91",
+        "current": "2.91"
     },
     {
         "symbol": "FEROZ",
         "name": "Ferozsons Laboratories Limited",
         "ldcp": "296.04",
         "open": "296.94",
-        "high": "296.94",
-        "low": "296.12",
-        "current": "296.12"
+        "high": "317.50",
+        "low": "296.00",
+        "current": "310.43"
     },
     {
         "symbol": "FFC",
         "name": "Fauji Fertilizer Company Limited",
         "ldcp": "362.40",
         "open": "364.20",
-        "high": "364.20",
+        "high": "367.00",
         "low": "361.51",
-        "current": "362.54"
+        "current": "362.51"
     },
     {
         "symbol": "FFL",
@@ -743,44 +1328,98 @@
         "ldcp": "15.81",
         "open": "15.92",
         "high": "15.98",
-        "low": "15.90",
-        "current": "15.92"
+        "low": "15.62",
+        "current": "15.66"
+    },
+    {
+        "symbol": "FFLM",
+        "name": "First Fidelity Leasing Modaraba",
+        "ldcp": "1.99",
+        "open": "2.00",
+        "high": "2.00",
+        "low": "2.00",
+        "current": "1.99"
+    },
+    {
+        "symbol": "FHAM",
+        "name": "First Habib Modaraba",
+        "ldcp": "21.63",
+        "open": "21.98",
+        "high": "21.98",
+        "low": "21.64",
+        "current": "21.63"
     },
     {
         "symbol": "FLYNG",
         "name": "Flying Cement Company Limited",
         "ldcp": "51.90",
         "open": "54.90",
-        "high": "55.74",
-        "low": "54.00",
-        "current": "55.10"
+        "high": "55.97",
+        "low": "52.26",
+        "current": "52.71"
+    },
+    {
+        "symbol": "FML",
+        "name": "Feroze1888 Mills Limited",
+        "ldcp": "60.00",
+        "open": "61.80",
+        "high": "61.80",
+        "low": "59.31",
+        "current": "61.69"
     },
     {
         "symbol": "FNEL",
         "name": "First National Equities Limited",
         "ldcp": "3.07",
         "open": "3.13",
-        "high": "3.13",
-        "low": "3.13",
-        "current": "3.13"
+        "high": "3.14",
+        "low": "3.05",
+        "current": "3.10"
+    },
+    {
+        "symbol": "FPJM",
+        "name": "First Punjab Modaraba",
+        "ldcp": "2.88",
+        "open": "2.89",
+        "high": "2.89",
+        "low": "2.76",
+        "current": "2.82"
+    },
+    {
+        "symbol": "FPRM",
+        "name": "First Paramount Modaraba",
+        "ldcp": "7.98",
+        "open": "8.78",
+        "high": "8.78",
+        "low": "7.25",
+        "current": "8.19"
     },
     {
         "symbol": "FRCL",
         "name": "Frontier Ceramics Limited",
         "ldcp": "32.25",
         "open": "32.31",
-        "high": "32.31",
-        "low": "32.31",
-        "current": "32.31"
+        "high": "35.48",
+        "low": "30.65",
+        "current": "35.18"
+    },
+    {
+        "symbol": "FRSM",
+        "name": "Faran Sugar Mills Limited",
+        "ldcp": "44.00",
+        "open": "45.49",
+        "high": "45.49",
+        "low": "42.75",
+        "current": "42.78"
     },
     {
         "symbol": "FTMM",
         "name": "First Treet Manufacturing Modaraba",
         "ldcp": "4.11",
         "open": "4.11",
-        "high": "4.11",
-        "low": "4.11",
-        "current": "4.11"
+        "high": "4.27",
+        "low": "4.03",
+        "current": "4.22"
     },
     {
         "symbol": "FTSM",
@@ -788,8 +1427,8 @@
         "ldcp": "13.20",
         "open": "13.49",
         "high": "13.49",
-        "low": "13.49",
-        "current": "13.49"
+        "low": "13.00",
+        "current": "13.42"
     },
     {
         "symbol": "FZCM",
@@ -805,54 +1444,90 @@
         "name": "Gadoon Textile Mills Limited",
         "ldcp": "324.20",
         "open": "327.00",
-        "high": "328.00",
-        "low": "327.00",
-        "current": "328.00"
+        "high": "349.00",
+        "low": "321.50",
+        "current": "339.74"
     },
     {
         "symbol": "GAL",
         "name": "Ghandhara Automobiles Limited",
         "ldcp": "444.49",
         "open": "441.02",
-        "high": "442.10",
-        "low": "440.00",
-        "current": "440.00"
+        "high": "446.00",
+        "low": "434.10",
+        "current": "442.87"
     },
     {
         "symbol": "GAMONNC",
         "name": "Gammon Pakistan Limited",
         "ldcp": "27.25",
         "open": "27.50",
-        "high": "28.35",
+        "high": "29.98",
         "low": "27.50",
-        "current": "28.00"
+        "current": "29.90"
+    },
+    {
+        "symbol": "GATI",
+        "name": "Gatron (Industries) Limited",
+        "ldcp": "112.59",
+        "open": "112.51",
+        "high": "123.85",
+        "low": "112.51",
+        "current": "123.85"
     },
     {
         "symbol": "GATM",
         "name": "Gul Ahmed Textile Mills Limited",
         "ldcp": "23.97",
         "open": "23.97",
-        "high": "24.21",
+        "high": "25.40",
         "low": "23.90",
-        "current": "24.21"
+        "current": "24.67"
+    },
+    {
+        "symbol": "GCIL",
+        "name": "Ghani Chemical Industries Limited",
+        "ldcp": "18.92",
+        "open": "18.93",
+        "high": "20.57",
+        "low": "18.66",
+        "current": "20.37"
+    },
+    {
+        "symbol": "GFIL",
+        "name": "Ghazi Fabrics International Limited",
+        "ldcp": "10.08",
+        "open": "10.08",
+        "high": "10.47",
+        "low": "9.64",
+        "current": "10.06"
     },
     {
         "symbol": "GGGL",
         "name": "Ghani Global Glass Limited",
         "ldcp": "9.05",
         "open": "9.10",
-        "high": "9.10",
-        "low": "9.05",
-        "current": "9.06"
+        "high": "9.48",
+        "low": "8.90",
+        "current": "9.40"
     },
     {
         "symbol": "GGL",
         "name": "Ghani Global Holdings Limited",
         "ldcp": "14.18",
         "open": "14.33",
-        "high": "14.33",
-        "low": "14.29",
-        "current": "14.29"
+        "high": "15.60",
+        "low": "14.12",
+        "current": "15.59"
+    },
+    {
+        "symbol": "GHGL",
+        "name": "Ghani Glass Limited",
+        "ldcp": "32.25",
+        "open": "32.68",
+        "high": "33.10",
+        "low": "31.80",
+        "current": "32.42"
     },
     {
         "symbol": "GHNI",
@@ -860,17 +1535,17 @@
         "ldcp": "668.29",
         "open": "674.90",
         "high": "674.90",
-        "low": "666.15",
-        "current": "672.98"
+        "low": "655.00",
+        "current": "667.19"
     },
     {
         "symbol": "GLAXO",
         "name": "GlaxoSmithKline Pakistan Limited",
         "ldcp": "374.67",
         "open": "375.60",
-        "high": "376.00",
+        "high": "384.00",
         "low": "375.60",
-        "current": "376.00"
+        "current": "381.93"
     },
     {
         "symbol": "GLPL",
@@ -878,8 +1553,62 @@
         "ldcp": "304.96",
         "open": "305.00",
         "high": "320.00",
-        "low": "305.00",
-        "current": "320.00"
+        "low": "300.00",
+        "current": "311.36"
+    },
+    {
+        "symbol": "GOC",
+        "name": "GOC (Pak) Limited.",
+        "ldcp": "61.18",
+        "open": "61.50",
+        "high": "67.30",
+        "low": "57.05",
+        "current": "67.02"
+    },
+    {
+        "symbol": "GRR",
+        "name": "Globe Residency REIT",
+        "ldcp": "16.26",
+        "open": "16.26",
+        "high": "16.45",
+        "low": "16.20",
+        "current": "16.40"
+    },
+    {
+        "symbol": "GSPMNC",
+        "name": "Gulshan Spinning Mills Limited",
+        "ldcp": "3.40",
+        "open": "3.54",
+        "high": "3.54",
+        "low": "3.32",
+        "current": "3.54"
+    },
+    {
+        "symbol": "GTYR",
+        "name": "Ghandhara Tyre & Rubber Company Limited",
+        "ldcp": "38.12",
+        "open": "38.12",
+        "high": "38.75",
+        "low": "37.70",
+        "current": "38.58"
+    },
+    {
+        "symbol": "GUSMNC",
+        "name": "Gulistan Spinning Mills Limited",
+        "ldcp": "8.25",
+        "open": "8.75",
+        "high": "8.75",
+        "low": "8.21",
+        "current": "8.50"
+    },
+    {
+        "symbol": "GVGL",
+        "name": "Ghani Value Glass Limited",
+        "ldcp": "49.19",
+        "open": "48.01",
+        "high": "50.24",
+        "low": "48.01",
+        "current": "49.55"
     },
     {
         "symbol": "GWLC",
@@ -887,8 +1616,17 @@
         "ldcp": "45.22",
         "open": "45.15",
         "high": "45.20",
-        "low": "44.60",
-        "current": "44.70"
+        "low": "43.40",
+        "current": "43.75"
+    },
+    {
+        "symbol": "HABSM",
+        "name": "Habib Sugar Mills Limited",
+        "ldcp": "70.61",
+        "open": "70.19",
+        "high": "71.86",
+        "low": "70.19",
+        "current": "71.85"
     },
     {
         "symbol": "HAEL",
@@ -905,8 +1643,8 @@
         "ldcp": "729.70",
         "open": "737.00",
         "high": "737.00",
-        "low": "725.01",
-        "current": "725.01"
+        "low": "725.00",
+        "current": "729.60"
     },
     {
         "symbol": "HASCOLNC",
@@ -914,107 +1652,242 @@
         "ldcp": "9.85",
         "open": "9.99",
         "high": "9.99",
-        "low": "9.81",
-        "current": "9.95"
+        "low": "9.80",
+        "current": "9.90"
     },
     {
         "symbol": "HBL",
         "name": "Habib Bank Limited",
         "ldcp": "154.81",
         "open": "155.00",
-        "high": "155.70",
-        "low": "155.00",
-        "current": "155.70"
+        "high": "157.75",
+        "low": "152.17",
+        "current": "156.91"
+    },
+    {
+        "symbol": "HBLTETF",
+        "name": "HBL Total Treasury (ETF)",
+        "ldcp": "117.80",
+        "open": "117.95",
+        "high": "117.95",
+        "low": "117.85",
+        "current": "117.95"
     },
     {
         "symbol": "HCAR",
         "name": "Honda Atlas Cars (Pakistan) Limited",
         "ldcp": "293.17",
         "open": "296.00",
-        "high": "296.00",
-        "low": "291.03",
-        "current": "294.01"
+        "high": "297.50",
+        "low": "291.00",
+        "current": "292.59"
+    },
+    {
+        "symbol": "HGFA",
+        "name": "HBL Growth Fund",
+        "ldcp": "9.58",
+        "open": "9.59",
+        "high": "9.98",
+        "low": "9.59",
+        "current": "9.78"
+    },
+    {
+        "symbol": "HICL",
+        "name": "Habib Insurance Company Limited",
+        "ldcp": "7.70",
+        "open": "7.98",
+        "high": "7.98",
+        "low": "7.46",
+        "current": "7.60"
+    },
+    {
+        "symbol": "HIFA",
+        "name": "HBL Investment Fund",
+        "ldcp": "3.43",
+        "open": "3.50",
+        "high": "3.52",
+        "low": "3.42",
+        "current": "3.50"
+    },
+    {
+        "symbol": "HINO",
+        "name": "Hinopak Motors Limited",
+        "ldcp": "387.19",
+        "open": "387.20",
+        "high": "387.20",
+        "low": "378.00",
+        "current": "381.31"
     },
     {
         "symbol": "HINOON",
         "name": "Highnoon Laboratories Limited",
         "ldcp": "911.09",
         "open": "906.75",
-        "high": "906.75",
-        "low": "906.75",
-        "current": "906.75"
+        "high": "920.50",
+        "low": "906.71",
+        "current": "915.05"
     },
     {
         "symbol": "HIRATNC",
         "name": "Hira Textile Mills Limited",
         "ldcp": "3.05",
         "open": "3.14",
-        "high": "3.14",
-        "low": "3.14",
-        "current": "3.14"
+        "high": "3.25",
+        "low": "3.03",
+        "current": "3.17"
+    },
+    {
+        "symbol": "HMB",
+        "name": "Habib Metropolitan Bank Limited",
+        "ldcp": "90.80",
+        "open": "91.96",
+        "high": "91.97",
+        "low": "89.00",
+        "current": "89.29"
     },
     {
         "symbol": "HPL",
         "name": "Hoechst Pakistan Limited",
         "ldcp": "3,150.14",
         "open": "3,226.11",
-        "high": "3,226.11",
-        "low": "3,226.11",
-        "current": "3,226.11"
+        "high": "3,425.00",
+        "low": "3,180.00",
+        "current": "3,185.50"
+    },
+    {
+        "symbol": "HRPL",
+        "name": "Habib Rice Product Limited.",
+        "ldcp": "30.02",
+        "open": "31.10",
+        "high": "31.99",
+        "low": "31.10",
+        "current": "31.11"
     },
     {
         "symbol": "HTL",
         "name": "Hi-Tech Lubricants Limited",
         "ldcp": "40.41",
         "open": "40.50",
-        "high": "40.50",
-        "low": "40.23",
-        "current": "40.23"
+        "high": "40.80",
+        "low": "40.00",
+        "current": "40.06"
     },
     {
         "symbol": "HUBC",
         "name": "The Hub Power Company Limited",
         "ldcp": "140.62",
         "open": "141.50",
-        "high": "141.80",
+        "high": "142.15",
         "low": "140.50",
-        "current": "141.50"
+        "current": "141.41"
     },
     {
         "symbol": "HUMNL",
         "name": "Hum Network Limited",
         "ldcp": "12.34",
         "open": "12.30",
-        "high": "12.30",
-        "low": "12.30",
-        "current": "12.30"
+        "high": "12.48",
+        "low": "12.17",
+        "current": "12.28"
+    },
+    {
+        "symbol": "HWQSNC",
+        "name": "Haseeb Waqas Sugar Mills Limited",
+        "ldcp": "9.40",
+        "open": "9.75",
+        "high": "9.75",
+        "low": "9.00",
+        "current": "9.43"
+    },
+    {
+        "symbol": "IBFL",
+        "name": "Ibrahim Fibres Limited",
+        "ldcp": "326.14",
+        "open": "337.99",
+        "high": "340.00",
+        "low": "337.99",
+        "current": "326.14"
     },
     {
         "symbol": "IBLHL",
         "name": "IBL HealthCare Limited",
         "ldcp": "43.71",
         "open": "44.99",
-        "high": "45.20",
-        "low": "44.55",
-        "current": "44.79"
+        "high": "47.35",
+        "low": "43.52",
+        "current": "44.54"
+    },
+    {
+        "symbol": "ICCI",
+        "name": "ICC Industries Limited",
+        "ldcp": "10.00",
+        "open": "10.39",
+        "high": "10.39",
+        "low": "9.38",
+        "current": "10.31"
+    },
+    {
+        "symbol": "ICIBL",
+        "name": "Invest Capital Investment Bank Limited",
+        "ldcp": "1.37",
+        "open": "1.40",
+        "high": "1.60",
+        "low": "1.40",
+        "current": "1.55"
+    },
+    {
+        "symbol": "ICL",
+        "name": "Ittehad Chemicals Limted",
+        "ldcp": "72.55",
+        "open": "73.00",
+        "high": "76.00",
+        "low": "71.65",
+        "current": "74.10"
     },
     {
         "symbol": "IDRT",
         "name": "Idrees Textile Mills Limited",
         "ldcp": "16.99",
         "open": "17.70",
-        "high": "17.70",
-        "low": "17.70",
-        "current": "17.70"
+        "high": "17.95",
+        "low": "16.30",
+        "current": "17.00"
+    },
+    {
+        "symbol": "IDSM",
+        "name": "Ideal Spinning Mills Limited",
+        "ldcp": "12.24",
+        "open": "13.39",
+        "high": "13.46",
+        "low": "13.39",
+        "current": "13.46"
     },
     {
         "symbol": "IDYM",
         "name": "Indus Dyeing & Manufacturing Co. Limited",
         "ldcp": "137.04",
         "open": "136.50",
-        "high": "136.50",
+        "high": "150.00",
         "low": "136.50",
-        "current": "136.50"
+        "current": "147.46"
+    },
+    {
+        "symbol": "IGIHL",
+        "name": "IGI Holdings Limited",
+        "ldcp": "162.16",
+        "open": "161.94",
+        "high": "162.00",
+        "low": "159.00",
+        "current": "160.75"
+    },
+    {
+        "symbol": "IGIL",
+        "name": "IGI Life Insurance Limited",
+        "ldcp": "15.67",
+        "open": "16.49",
+        "high": "17.24",
+        "low": "15.72",
+        "current": "17.24"
     },
     {
         "symbol": "ILP",
@@ -1022,35 +1895,80 @@
         "ldcp": "60.04",
         "open": "60.44",
         "high": "60.44",
-        "low": "59.95",
-        "current": "60.38"
+        "low": "59.25",
+        "current": "59.87"
     },
     {
         "symbol": "IMAGE",
         "name": "Image Pakistan Limited",
         "ldcp": "23.09",
         "open": "23.25",
-        "high": "23.25",
-        "low": "23.13",
-        "current": "23.13"
+        "high": "23.40",
+        "low": "22.83",
+        "current": "23.17"
+    },
+    {
+        "symbol": "IML",
+        "name": "Imperial  Limited",
+        "ldcp": "16.47",
+        "open": "17.40",
+        "high": "17.40",
+        "low": "15.90",
+        "current": "15.90"
     },
     {
         "symbol": "IMS",
         "name": "Intermarket Securities Limited",
         "ldcp": "47.82",
         "open": "48.01",
-        "high": "48.01",
-        "low": "48.01",
-        "current": "48.01"
+        "high": "51.00",
+        "low": "44.15",
+        "current": "44.59"
+    },
+    {
+        "symbol": "INDU",
+        "name": "Indus Motor Company Limited",
+        "ldcp": "1,924.70",
+        "open": "1,933.00",
+        "high": "1,933.00",
+        "low": "1,915.00",
+        "current": "1,923.59"
     },
     {
         "symbol": "INIL",
         "name": "International Industries Limited",
         "ldcp": "159.99",
         "open": "156.50",
-        "high": "157.01",
+        "high": "159.99",
         "low": "156.50",
-        "current": "157.00"
+        "current": "158.52"
+    },
+    {
+        "symbol": "INKL",
+        "name": "International Knitwear Limited",
+        "ldcp": "14.41",
+        "open": "14.20",
+        "high": "14.74",
+        "low": "14.20",
+        "current": "14.59"
+    },
+    {
+        "symbol": "IPAK",
+        "name": "International Packaging Films Limited",
+        "ldcp": "20.85",
+        "open": "20.80",
+        "high": "20.99",
+        "low": "20.80",
+        "current": "20.90"
+    },
+    {
+        "symbol": "ISIL",
+        "name": "Ismail Industries Limited",
+        "ldcp": "1,730.23",
+        "open": "1,721.51",
+        "high": "1,730.00",
+        "low": "1,720.00",
+        "current": "1,730.00"
     },
     {
         "symbol": "ISL",
@@ -1058,35 +1976,170 @@
         "ldcp": "85.05",
         "open": "86.00",
         "high": "86.00",
-        "low": "85.08",
-        "current": "85.10"
+        "low": "83.55",
+        "current": "83.90"
+    },
+    {
+        "symbol": "ITTEFAQ",
+        "name": "Ittefaq Iron Industries Limited",
+        "ldcp": "7.74",
+        "open": "7.85",
+        "high": "7.85",
+        "low": "7.52",
+        "current": "7.56"
+    },
+    {
+        "symbol": "JATMNC",
+        "name": "J.A. Textile Mills Limited",
+        "ldcp": "22.65",
+        "open": "22.65",
+        "high": "22.99",
+        "low": "20.52",
+        "current": "22.03"
+    },
+    {
+        "symbol": "JDMT",
+        "name": "Janana De Malucho Textile Mills Limited",
+        "ldcp": "52.32",
+        "open": "52.32",
+        "high": "53.70",
+        "low": "51.50",
+        "current": "53.53"
+    },
+    {
+        "symbol": "JDWS",
+        "name": "JDW Sugar Mills Limited",
+        "ldcp": "934.28",
+        "open": "944.44",
+        "high": "944.44",
+        "low": "915.02",
+        "current": "916.77"
     },
     {
         "symbol": "JGICL",
         "name": "Jubilee General Insurance Limited",
         "ldcp": "50.04",
         "open": "50.01",
-        "high": "50.01",
-        "low": "50.01",
-        "current": "50.01"
+        "high": "51.35",
+        "low": "49.21",
+        "current": "50.86"
+    },
+    {
+        "symbol": "JKSM",
+        "name": "J.K. Spinning Mills Limited",
+        "ldcp": "54.97",
+        "open": "60.45",
+        "high": "60.47",
+        "low": "60.45",
+        "current": "54.97"
+    },
+    {
+        "symbol": "JLICL",
+        "name": "Jubilee Life Insurance Company Limited",
+        "ldcp": "138.89",
+        "open": "136.00",
+        "high": "138.00",
+        "low": "131.21",
+        "current": "137.47"
+    },
+    {
+        "symbol": "JSBL",
+        "name": "JS Bank Limited",
+        "ldcp": "8.29",
+        "open": "8.20",
+        "high": "8.59",
+        "low": "8.17",
+        "current": "8.50"
+    },
+    {
+        "symbol": "JSCL",
+        "name": "Jahangir Siddiqui & Co. Ltd.",
+        "ldcp": "16.32",
+        "open": "16.32",
+        "high": "17.48",
+        "low": "16.14",
+        "current": "17.08"
+    },
+    {
+        "symbol": "JSCLPSA",
+        "name": "Jahangir Sidd(Pref)",
+        "ldcp": "8.57",
+        "open": "9.09",
+        "high": "9.10",
+        "low": "9.08",
+        "current": "9.09"
+    },
+    {
+        "symbol": "JSGBETF",
+        "name": "JS Global Banking Sector(ETF)",
+        "ldcp": "22.09",
+        "open": "22.17",
+        "high": "23.44",
+        "low": "22.17",
+        "current": "23.44"
+    },
+    {
+        "symbol": "JSGCL",
+        "name": "JS Global Capital Limited",
+        "ldcp": "104.91",
+        "open": "114.00",
+        "high": "114.00",
+        "low": "110.00",
+        "current": "104.91"
     },
     {
         "symbol": "JSIL",
         "name": "JS Investments Limited",
         "ldcp": "21.90",
         "open": "22.45",
-        "high": "22.45",
+        "high": "22.51",
         "low": "22.45",
-        "current": "22.45"
+        "current": "22.50"
+    },
+    {
+        "symbol": "JSMFETF",
+        "name": "JS Momentum Factor Exchange Traded Fund",
+        "ldcp": "11.36",
+        "open": "11.39",
+        "high": "11.50",
+        "low": "11.35",
+        "current": "11.49"
+    },
+    {
+        "symbol": "JSML",
+        "name": "Jauharabad Sugar Mills Limited",
+        "ldcp": "41.44",
+        "open": "40.50",
+        "high": "41.40",
+        "low": "39.50",
+        "current": "40.22"
+    },
+    {
+        "symbol": "JUBSNC",
+        "name": "Jubilee Spinning & Weaving Mills Ltd.",
+        "ldcp": "8.35",
+        "open": "8.78",
+        "high": "9.35",
+        "low": "8.20",
+        "current": "9.35"
+    },
+    {
+        "symbol": "JVDC",
+        "name": "Javedan Corporation Limited",
+        "ldcp": "61.76",
+        "open": "60.91",
+        "high": "62.91",
+        "low": "60.91",
+        "current": "61.85"
     },
     {
         "symbol": "KAPCO",
         "name": "Kot Addu Power Company Limited",
         "ldcp": "31.56",
         "open": "31.98",
-        "high": "31.98",
+        "high": "32.10",
         "low": "31.76",
-        "current": "31.86"
+        "current": "32.06"
     },
     {
         "symbol": "KCL",
@@ -1095,16 +2148,25 @@
         "open": "48.00",
         "high": "48.00",
         "low": "47.52",
-        "current": "47.52"
+        "current": "49.90"
     },
     {
         "symbol": "KEL",
         "name": "K-Electric Limited",
         "ldcp": "4.39",
         "open": "4.44",
-        "high": "4.44",
+        "high": "4.83",
         "low": "4.38",
-        "current": "4.40"
+        "current": "4.75"
+    },
+    {
+        "symbol": "KHTC",
+        "name": "Khyber Tobacco Company Limited",
+        "ldcp": "354.33",
+        "open": "357.00",
+        "high": "382.10",
+        "low": "357.00",
+        "current": "366.86"
     },
     {
         "symbol": "KHYT",
@@ -1116,13 +2178,22 @@
         "current": "1,575.28"
     },
     {
+        "symbol": "KML",
+        "name": "Kohinoor Mills Limited",
+        "ldcp": "30.03",
+        "open": "33.00",
+        "high": "33.00",
+        "low": "31.35",
+        "current": "32.00"
+    },
+    {
         "symbol": "KOHC",
         "name": "Kohat Cement Company Limited",
         "ldcp": "381.83",
         "open": "383.00",
         "high": "383.00",
-        "low": "383.00",
-        "current": "383.00"
+        "low": "378.00",
+        "current": "379.88"
     },
     {
         "symbol": "KOHE",
@@ -1130,8 +2201,17 @@
         "ldcp": "16.91",
         "open": "17.25",
         "high": "17.25",
-        "low": "17.24",
-        "current": "17.25"
+        "low": "16.70",
+        "current": "17.10"
+    },
+    {
+        "symbol": "KOHP",
+        "name": "Kohinoor Power Company Limited",
+        "ldcp": "5.97",
+        "open": "6.00",
+        "high": "6.15",
+        "low": "5.80",
+        "current": "6.03"
     },
     {
         "symbol": "KOHTM",
@@ -1143,31 +2223,76 @@
         "current": "41.10"
     },
     {
+        "symbol": "KOIL",
+        "name": "Kohinoor Industries Limited",
+        "ldcp": "10.19",
+        "open": "9.80",
+        "high": "10.50",
+        "low": "9.80",
+        "current": "10.42"
+    },
+    {
         "symbol": "KOSM",
         "name": "Kohinoor Spinning Mills Limited",
         "ldcp": "5.39",
         "open": "5.45",
-        "high": "5.45",
+        "high": "5.83",
         "low": "5.41",
-        "current": "5.45"
+        "current": "5.75"
     },
     {
         "symbol": "KSBP",
         "name": "KSB Pumps Company Limited",
         "ldcp": "165.22",
         "open": "168.25",
-        "high": "168.25",
+        "high": "175.00",
         "low": "166.01",
-        "current": "167.99"
+        "current": "173.22"
+    },
+    {
+        "symbol": "KSTMNC",
+        "name": "Khalid Siraj Textile Mills Limited",
+        "ldcp": "7.50",
+        "open": "7.65",
+        "high": "8.50",
+        "low": "7.65",
+        "current": "8.50"
+    },
+    {
+        "symbol": "KTML",
+        "name": "Kohinoor Textile Mills Limited",
+        "ldcp": "159.37",
+        "open": "164.97",
+        "high": "168.90",
+        "low": "160.01",
+        "current": "165.71"
+    },
+    {
+        "symbol": "LCI",
+        "name": "Lucky Core Industries Limited",
+        "ldcp": "1,553.06",
+        "open": "1,551.00",
+        "high": "1,560.00",
+        "low": "1,535.00",
+        "current": "1,549.91"
+    },
+    {
+        "symbol": "LEUL",
+        "name": "Leather Up Limited",
+        "ldcp": "27.17",
+        "open": "29.75",
+        "high": "29.75",
+        "low": "27.50",
+        "current": "27.17"
     },
     {
         "symbol": "LIVEN",
         "name": "Liven Pharma Limited",
         "ldcp": "62.85",
         "open": "62.80",
-        "high": "62.80",
-        "low": "62.80",
-        "current": "62.80"
+        "high": "62.99",
+        "low": "61.01",
+        "current": "62.25"
     },
     {
         "symbol": "LOADS",
@@ -1175,15 +2300,15 @@
         "ldcp": "14.48",
         "open": "14.70",
         "high": "14.80",
-        "low": "14.60",
-        "current": "14.60"
+        "low": "14.47",
+        "current": "14.61"
     },
     {
         "symbol": "LOTCHEM",
         "name": "Lotte Chemical Pakistan Limited",
         "ldcp": "20.93",
         "open": "20.63",
-        "high": "20.90",
+        "high": "21.09",
         "low": "20.63",
         "current": "20.90"
     },
@@ -1193,17 +2318,26 @@
         "ldcp": "107.88",
         "open": "112.45",
         "high": "112.45",
-        "low": "112.45",
-        "current": "112.45"
+        "low": "103.15",
+        "current": "107.97"
     },
     {
         "symbol": "LPL",
         "name": "Lalpir Power Limited",
         "ldcp": "23.23",
-        "open": "0.00",
-        "high": "0.00",
-        "low": "0.00",
-        "current": "23.23"
+        "open": "23.49",
+        "high": "24.00",
+        "low": "23.13",
+        "current": "24.00"
+    },
+    {
+        "symbol": "LSECL",
+        "name": "LSE Capital Limited.",
+        "ldcp": "5.36",
+        "open": "5.50",
+        "high": "5.75",
+        "low": "5.50",
+        "current": "5.68"
     },
     {
         "symbol": "LSEFSL",
@@ -1211,44 +2345,53 @@
         "ldcp": "30.05",
         "open": "31.97",
         "high": "31.97",
-        "low": "31.97",
-        "current": "31.97"
+        "low": "27.06",
+        "current": "29.52"
     },
     {
         "symbol": "LSEVL",
         "name": "LSE Ventures Limited",
         "ldcp": "11.24",
         "open": "11.25",
-        "high": "11.25",
+        "high": "12.15",
         "low": "11.25",
-        "current": "11.25"
+        "current": "11.57"
     },
     {
         "symbol": "LUCK",
         "name": "Lucky Cement Limited",
         "ldcp": "337.17",
         "open": "336.99",
-        "high": "337.99",
-        "low": "335.56",
-        "current": "336.25"
+        "high": "338.09",
+        "low": "333.60",
+        "current": "335.39"
     },
     {
         "symbol": "MACFL",
         "name": "MACPAC Films Limited",
         "ldcp": "15.33",
         "open": "15.38",
-        "high": "15.58",
-        "low": "15.38",
-        "current": "15.58"
+        "high": "15.72",
+        "low": "15.30",
+        "current": "15.55"
+    },
+    {
+        "symbol": "MACTER",
+        "name": "Macter International Limited",
+        "ldcp": "362.63",
+        "open": "367.60",
+        "high": "370.00",
+        "low": "360.01",
+        "current": "366.05"
     },
     {
         "symbol": "MARI",
         "name": "Mari Energies Limited",
         "ldcp": "617.51",
         "open": "619.98",
-        "high": "619.98",
-        "low": "619.00",
-        "current": "619.88"
+        "high": "625.97",
+        "low": "618.11",
+        "current": "620.65"
     },
     {
         "symbol": "MCB",
@@ -1256,8 +2399,17 @@
         "ldcp": "281.06",
         "open": "283.90",
         "high": "283.90",
-        "low": "281.02",
-        "current": "281.02"
+        "low": "278.99",
+        "current": "280.05"
+    },
+    {
+        "symbol": "MCBIM",
+        "name": "MCB Investment Management Limited.",
+        "ldcp": "112.90",
+        "open": "115.00",
+        "high": "119.00",
+        "low": "114.99",
+        "current": "115.76"
     },
     {
         "symbol": "MDTL",
@@ -1265,53 +2417,116 @@
         "ldcp": "1.84",
         "open": "1.91",
         "high": "1.91",
-        "low": "1.91",
-        "current": "1.91"
+        "low": "1.70",
+        "current": "1.84"
     },
     {
         "symbol": "MEBL",
         "name": "Meezan Bank Limited",
         "ldcp": "287.46",
         "open": "288.90",
-        "high": "288.90",
+        "high": "292.49",
         "low": "287.69",
-        "current": "287.69"
+        "current": "288.89"
     },
     {
         "symbol": "MEHT",
         "name": "Mehmood Textile Mills Limited",
         "ldcp": "309.96",
         "open": "310.86",
-        "high": "310.86",
-        "low": "310.86",
-        "current": "310.86"
+        "high": "320.00",
+        "low": "305.00",
+        "current": "308.41"
     },
     {
         "symbol": "MERIT",
         "name": "Merit Packaging Limited",
         "ldcp": "9.70",
         "open": "9.31",
-        "high": "9.31",
+        "high": "9.94",
         "low": "9.30",
-        "current": "9.30"
+        "current": "9.91"
     },
     {
         "symbol": "MFFL",
         "name": "Mitchells Fruit Farms Limited",
         "ldcp": "196.44",
         "open": "195.00",
-        "high": "196.50",
+        "high": "199.00",
         "low": "192.00",
-        "current": "196.50"
+        "current": "197.77"
+    },
+    {
+        "symbol": "MFL",
+        "name": "Matco Foods Limited",
+        "ldcp": "37.02",
+        "open": "37.11",
+        "high": "37.50",
+        "low": "37.01",
+        "current": "37.03"
+    },
+    {
+        "symbol": "MIIETF",
+        "name": "Mahaana Islamic Index ETF",
+        "ldcp": "15.28",
+        "open": "15.35",
+        "high": "15.37",
+        "low": "15.28",
+        "current": "15.34"
+    },
+    {
+        "symbol": "MIRKS",
+        "name": "Mirpurkhas Sugar Mills Limited",
+        "ldcp": "28.00",
+        "open": "28.50",
+        "high": "28.50",
+        "low": "27.00",
+        "current": "27.70"
     },
     {
         "symbol": "MLCF",
         "name": "Maple Leaf Cement Factory Limited",
         "ldcp": "74.88",
         "open": "75.01",
-        "high": "75.60",
-        "low": "75.00",
-        "current": "75.00"
+        "high": "77.00",
+        "low": "74.55",
+        "current": "76.31"
+    },
+    {
+        "symbol": "MQTM",
+        "name": "Maqbool Textile Mills Limited",
+        "ldcp": "39.48",
+        "open": "35.53",
+        "high": "40.00",
+        "low": "35.53",
+        "current": "39.48"
+    },
+    {
+        "symbol": "MRNS",
+        "name": "Mehran Sugar Mills Limited",
+        "ldcp": "47.00",
+        "open": "47.00",
+        "high": "50.00",
+        "low": "47.00",
+        "current": "48.20"
+    },
+    {
+        "symbol": "MSCL",
+        "name": "Metropolitan Steel Corporation Limited",
+        "ldcp": "10.00",
+        "open": "9.90",
+        "high": "10.24",
+        "low": "9.70",
+        "current": "9.72"
+    },
+    {
+        "symbol": "MSOT",
+        "name": "Masood Textile Mills Limited",
+        "ldcp": "50.63",
+        "open": "55.00",
+        "high": "55.00",
+        "low": "49.50",
+        "current": "50.63"
     },
     {
         "symbol": "MTL",
@@ -1319,80 +2534,125 @@
         "ldcp": "577.32",
         "open": "579.90",
         "high": "582.00",
-        "low": "579.90",
-        "current": "581.99"
+        "low": "578.36",
+        "current": "579.66"
     },
     {
         "symbol": "MUGHAL",
         "name": "Mughal Iron & Steel Industries Limited",
         "ldcp": "74.69",
         "open": "74.69",
-        "high": "74.69",
-        "low": "74.69",
-        "current": "74.69"
+        "high": "75.00",
+        "low": "72.70",
+        "current": "73.39"
+    },
+    {
+        "symbol": "MUREB",
+        "name": "Murree Brewery Company Limited",
+        "ldcp": "835.65",
+        "open": "828.00",
+        "high": "834.95",
+        "low": "828.00",
+        "current": "833.51"
     },
     {
         "symbol": "MWMP",
         "name": "Mandviwala Mauser Plastic Industries",
         "ldcp": "17.99",
         "open": "17.99",
-        "high": "17.99",
-        "low": "17.99",
-        "current": "17.99"
+        "high": "18.00",
+        "low": "17.03",
+        "current": "17.64"
+    },
+    {
+        "symbol": "MZNPETF",
+        "name": "Meezan Pakistan ETF",
+        "ldcp": "17.51",
+        "open": "17.53",
+        "high": "17.75",
+        "low": "17.53",
+        "current": "17.69"
+    },
+    {
+        "symbol": "NAGC",
+        "name": "Nagina Cotton Mills Limited",
+        "ldcp": "52.81",
+        "open": "52.00",
+        "high": "52.00",
+        "low": "52.00",
+        "current": "52.81"
     },
     {
         "symbol": "NATF",
         "name": "National Foods Limited",
         "ldcp": "244.41",
         "open": "240.10",
-        "high": "240.10",
-        "low": "240.10",
-        "current": "240.10"
+        "high": "243.00",
+        "low": "238.00",
+        "current": "240.11"
     },
     {
         "symbol": "NBP",
         "name": "National Bank of Pakistan",
         "ldcp": "87.58",
         "open": "88.88",
-        "high": "88.88",
-        "low": "87.50",
-        "current": "88.50"
+        "high": "96.34",
+        "low": "87.05",
+        "current": "96.34"
+    },
+    {
+        "symbol": "NBPGETF",
+        "name": "NBP Pakistan  Growth ETF",
+        "ldcp": "23.75",
+        "open": "23.91",
+        "high": "23.91",
+        "low": "23.75",
+        "current": "23.80"
     },
     {
         "symbol": "NCL",
         "name": "Nishat Chunian Limited",
         "ldcp": "37.40",
         "open": "37.07",
-        "high": "37.07",
+        "high": "37.65",
         "low": "37.07",
-        "current": "37.07"
+        "current": "37.22"
+    },
+    {
+        "symbol": "NCMLNC",
+        "name": "Nazir Cotton Mills Limited",
+        "ldcp": "12.95",
+        "open": "13.50",
+        "high": "14.19",
+        "low": "12.69",
+        "current": "12.76"
     },
     {
         "symbol": "NCPL",
         "name": "Nishat Chunian Power Limited",
         "ldcp": "23.85",
         "open": "24.13",
-        "high": "24.13",
-        "low": "24.13",
-        "current": "24.13"
+        "high": "24.25",
+        "low": "23.85",
+        "current": "24.01"
     },
     {
         "symbol": "NESTLE",
         "name": "Nestle Pakistan Limited",
         "ldcp": "7,050.10",
         "open": "6,975.98",
-        "high": "6,975.98",
+        "high": "7,119.44",
         "low": "6,975.98",
-        "current": "6,975.98"
+        "current": "7,070.05"
     },
     {
         "symbol": "NETSOL",
         "name": "NetSol Technologies Limited",
         "ldcp": "139.03",
         "open": "139.04",
-        "high": "140.00",
-        "low": "139.04",
-        "current": "140.00"
+        "high": "142.45",
+        "low": "138.50",
+        "current": "141.02"
     },
     {
         "symbol": "NEXT",
@@ -1401,7 +2661,7 @@
         "open": "8.48",
         "high": "8.48",
         "low": "7.32",
-        "current": "8.25"
+        "current": "7.80"
     },
     {
         "symbol": "NICL",
@@ -1409,107 +2669,170 @@
         "ldcp": "152.89",
         "open": "160.11",
         "high": "160.11",
-        "low": "160.11",
-        "current": "160.11"
+        "low": "152.00",
+        "current": "152.04"
+    },
+    {
+        "symbol": "NITGETF",
+        "name": "NIT Pakistan Gateway ETF",
+        "ldcp": "27.15",
+        "open": "27.07",
+        "high": "27.07",
+        "low": "27.04",
+        "current": "27.04"
     },
     {
         "symbol": "NML",
         "name": "Nishat Mills Limited",
         "ldcp": "113.02",
         "open": "114.00",
-        "high": "114.00",
-        "low": "113.50",
-        "current": "113.50"
+        "high": "114.35",
+        "low": "112.21",
+        "current": "113.91"
     },
     {
         "symbol": "NONS",
         "name": "Noon Sugar Mills Limited",
         "ldcp": "85.56",
         "open": "79.00",
-        "high": "79.00",
+        "high": "82.00",
         "low": "79.00",
-        "current": "79.00"
+        "current": "85.56"
+    },
+    {
+        "symbol": "NPL",
+        "name": "Nishat Power Limited",
+        "ldcp": "36.05",
+        "open": "36.10",
+        "high": "36.41",
+        "low": "36.10",
+        "current": "36.30"
     },
     {
         "symbol": "NRL",
         "name": "National Refinery Limited",
         "ldcp": "230.55",
         "open": "236.49",
-        "high": "237.00",
+        "high": "253.61",
         "low": "234.11",
-        "current": "235.05"
+        "current": "253.61"
     },
     {
         "symbol": "NRSL",
         "name": "Nimir Resins Limited",
         "ldcp": "38.11",
         "open": "38.38",
-        "high": "38.65",
-        "low": "38.20",
-        "current": "38.20"
+        "high": "39.48",
+        "low": "36.66",
+        "current": "36.94"
+    },
+    {
+        "symbol": "NSRM",
+        "name": "The National Silk & Rayon Mills Limited",
+        "ldcp": "50.04",
+        "open": "49.95",
+        "high": "50.04",
+        "low": "46.10",
+        "current": "46.24"
+    },
+    {
+        "symbol": "OBOY",
+        "name": "Oilboy Energy Limited",
+        "ldcp": "9.11",
+        "open": "9.37",
+        "high": "9.37",
+        "low": "8.95",
+        "current": "9.00"
     },
     {
         "symbol": "OCTOPUS",
         "name": "Octopus Digital Limited",
         "ldcp": "52.84",
         "open": "53.00",
-        "high": "53.00",
-        "low": "52.84",
-        "current": "52.84"
+        "high": "54.50",
+        "low": "51.93",
+        "current": "52.98"
     },
     {
         "symbol": "OGDC",
         "name": "Oil & Gas Development Company Limited",
         "ldcp": "209.70",
         "open": "210.30",
-        "high": "210.50",
-        "low": "210.15",
-        "current": "210.50"
+        "high": "214.50",
+        "low": "209.50",
+        "current": "213.74"
+    },
+    {
+        "symbol": "OLPL",
+        "name": "OLP Financial Services Pakistan Limited",
+        "ldcp": "38.01",
+        "open": "38.29",
+        "high": "38.29",
+        "low": "37.76",
+        "current": "37.99"
+    },
+    {
+        "symbol": "OLPM",
+        "name": "OLP Modaraba",
+        "ldcp": "16.55",
+        "open": "16.08",
+        "high": "16.30",
+        "low": "16.08",
+        "current": "16.30"
     },
     {
         "symbol": "OML",
         "name": "Olympia Mills Limited",
         "ldcp": "51.22",
         "open": "49.00",
-        "high": "49.00",
-        "low": "49.00",
-        "current": "49.00"
+        "high": "51.00",
+        "low": "47.00",
+        "current": "47.03"
+    },
+    {
+        "symbol": "ORM",
+        "name": "Orient Rental Mod",
+        "ldcp": "9.67",
+        "open": "9.00",
+        "high": "9.00",
+        "low": "8.90",
+        "current": "9.67"
     },
     {
         "symbol": "OTSU",
         "name": "Otsuka Pakistan Limited",
         "ldcp": "305.24",
         "open": "310.00",
-        "high": "328.00",
+        "high": "335.76",
         "low": "310.00",
-        "current": "328.00"
+        "current": "334.19"
     },
     {
         "symbol": "PABC",
         "name": "Pakistan Aluminium Beverage Cans Limited",
         "ldcp": "116.44",
         "open": "118.98",
-        "high": "119.00",
-        "low": "118.01",
-        "current": "118.01"
+        "high": "120.00",
+        "low": "116.56",
+        "current": "117.04"
     },
     {
         "symbol": "PACE",
         "name": "Pace (Pakistan) Limited",
         "ldcp": "5.25",
         "open": "5.39",
-        "high": "5.39",
-        "low": "5.39",
-        "current": "5.39"
+        "high": "5.43",
+        "low": "5.00",
+        "current": "5.37"
     },
     {
         "symbol": "PAEL",
         "name": "Pak Elektron Limited",
         "ldcp": "44.52",
         "open": "44.74",
-        "high": "44.74",
-        "low": "44.52",
-        "current": "44.52"
+        "high": "45.05",
+        "low": "44.20",
+        "current": "44.95"
     },
     {
         "symbol": "PAKD",
@@ -1526,15 +2849,15 @@
         "ldcp": "26.80",
         "open": "29.40",
         "high": "29.40",
-        "low": "29.40",
-        "current": "29.40"
+        "low": "28.89",
+        "current": "26.80"
     },
     {
         "symbol": "PAKOXY",
         "name": "Pakistan Oxygen Limited",
         "ldcp": "147.03",
         "open": "148.00",
-        "high": "148.00",
+        "high": "152.40",
         "low": "148.00",
         "current": "148.00"
     },
@@ -1543,18 +2866,36 @@
         "name": "Pakistan Reinsurance Company Limited",
         "ldcp": "12.33",
         "open": "12.15",
-        "high": "12.15",
+        "high": "13.24",
         "low": "12.15",
-        "current": "12.15"
+        "current": "13.11"
+    },
+    {
+        "symbol": "PAKT",
+        "name": "Pakistan Tobacco Company Limited",
+        "ldcp": "1,199.00",
+        "open": "1,200.00",
+        "high": "1,200.00",
+        "low": "1,190.00",
+        "current": "1,192.92"
     },
     {
         "symbol": "PASLNC",
         "name": "Pervez Ahmed Consultancy Services Ltd.",
         "ldcp": "1.07",
         "open": "1.11",
-        "high": "1.25",
+        "high": "1.40",
         "low": "1.11",
-        "current": "1.21"
+        "current": "1.26"
+    },
+    {
+        "symbol": "PASMNC",
+        "name": "Paramount Spinning Mills Limited",
+        "ldcp": "3.30",
+        "open": "3.77",
+        "high": "3.80",
+        "low": "3.60",
+        "current": "3.79"
     },
     {
         "symbol": "PCAL",
@@ -1562,17 +2903,35 @@
         "ldcp": "149.46",
         "open": "159.00",
         "high": "159.00",
-        "low": "159.00",
-        "current": "159.00"
+        "low": "146.00",
+        "current": "149.34"
+    },
+    {
+        "symbol": "PECONC",
+        "name": "Pakistan Engineering Company Limited",
+        "ldcp": "735.20",
+        "open": "696.01",
+        "high": "729.99",
+        "low": "695.33",
+        "current": "735.20"
+    },
+    {
+        "symbol": "PGLC",
+        "name": "Pak-Gulf Leasing Company Limited",
+        "ldcp": "20.63",
+        "open": "20.63",
+        "high": "21.25",
+        "low": "20.02",
+        "current": "21.24"
     },
     {
         "symbol": "PIAHCLA",
         "name": "PIA Holding Company Limited",
         "ldcp": "17.93",
         "open": "18.19",
-        "high": "18.20",
-        "low": "18.00",
-        "current": "18.10"
+        "high": "18.34",
+        "low": "17.60",
+        "current": "18.05"
     },
     {
         "symbol": "PIAHCLB",
@@ -1588,90 +2947,144 @@
         "name": "Pakistan International Bulk Terminal",
         "ldcp": "8.82",
         "open": "8.82",
-        "high": "8.84",
-        "low": "8.82",
-        "current": "8.84"
+        "high": "9.05",
+        "low": "8.80",
+        "current": "8.95"
+    },
+    {
+        "symbol": "PICT",
+        "name": "Pakistan International Container",
+        "ldcp": "38.37",
+        "open": "38.50",
+        "high": "39.71",
+        "low": "38.50",
+        "current": "39.20"
     },
     {
         "symbol": "PILNC",
         "name": "PICIC Insurance Limited",
         "ldcp": "3.26",
         "open": "3.38",
-        "high": "3.38",
-        "low": "3.38",
-        "current": "3.38"
+        "high": "3.65",
+        "low": "3.25",
+        "current": "3.43"
+    },
+    {
+        "symbol": "PINL",
+        "name": "Premier Insurance Limited",
+        "ldcp": "5.32",
+        "open": "5.57",
+        "high": "5.57",
+        "low": "5.57",
+        "current": "5.32"
     },
     {
         "symbol": "PIOC",
         "name": "Pioneer Cement Limited",
         "ldcp": "219.75",
         "open": "219.75",
-        "high": "219.75",
-        "low": "219.50",
-        "current": "219.50"
+        "high": "220.00",
+        "low": "217.00",
+        "current": "219.65"
+    },
+    {
+        "symbol": "PKGI",
+        "name": "The Pakistan General Insurance Co. Ltd.",
+        "ldcp": "10.25",
+        "open": "11.28",
+        "high": "11.28",
+        "low": "11.28",
+        "current": "11.28"
+    },
+    {
+        "symbol": "PKGP",
+        "name": "Pakgen Power Limited",
+        "ldcp": "119.96",
+        "open": "115.00",
+        "high": "124.50",
+        "low": "115.00",
+        "current": "119.96"
     },
     {
         "symbol": "PKGS",
         "name": "Packages Limited",
         "ldcp": "519.30",
         "open": "515.00",
-        "high": "515.00",
+        "high": "520.92",
         "low": "515.00",
-        "current": "515.00"
+        "current": "516.02"
     },
     {
         "symbol": "PMI",
         "name": "First Prudential Modaraba",
         "ldcp": "1.94",
-        "open": "0.00",
-        "high": "0.00",
-        "low": "0.00",
-        "current": "1.94"
+        "open": "1.99",
+        "high": "1.99",
+        "low": "1.95",
+        "current": "1.96"
+    },
+    {
+        "symbol": "PMPK",
+        "name": "Philip Morris (Pakistan) Limited",
+        "ldcp": "1,148.65",
+        "open": "1,133.99",
+        "high": "1,165.00",
+        "low": "1,110.00",
+        "current": "1,151.87"
     },
     {
         "symbol": "PNSC",
         "name": "Pakistan National Shipping Corporation",
         "ldcp": "311.37",
         "open": "311.37",
-        "high": "311.37",
-        "low": "311.37",
-        "current": "311.37"
+        "high": "333.99",
+        "low": "305.00",
+        "current": "325.17"
     },
     {
         "symbol": "POL",
         "name": "Pakistan Oilfields Limited",
         "ldcp": "534.70",
         "open": "533.62",
-        "high": "534.50",
+        "high": "538.70",
         "low": "532.11",
-        "current": "534.50"
+        "current": "536.86"
     },
     {
         "symbol": "POML",
         "name": "Punjab Oil Mills Limited",
         "ldcp": "248.25",
         "open": "251.00",
-        "high": "254.00",
+        "high": "273.08",
         "low": "249.00",
-        "current": "250.90"
+        "current": "273.08"
     },
     {
         "symbol": "POWER",
         "name": "Power Cement Limited",
         "ldcp": "14.59",
         "open": "14.51",
-        "high": "14.65",
-        "low": "14.51",
-        "current": "14.53"
+        "high": "14.99",
+        "low": "14.30",
+        "current": "14.54"
+    },
+    {
+        "symbol": "POWERPS",
+        "name": "Power Cement (Pref)",
+        "ldcp": "16.10",
+        "open": "17.71",
+        "high": "17.71",
+        "low": "17.71",
+        "current": "17.53"
     },
     {
         "symbol": "PPL",
         "name": "Pakistan Petroleum Limited",
         "ldcp": "173.05",
         "open": "173.80",
-        "high": "173.80",
-        "low": "173.25",
-        "current": "173.60"
+        "high": "175.98",
+        "low": "172.25",
+        "current": "175.29"
     },
     {
         "symbol": "PPP",
@@ -1679,8 +3092,8 @@
         "ldcp": "144.25",
         "open": "142.00",
         "high": "142.00",
-        "low": "141.00",
-        "current": "141.00"
+        "low": "138.50",
+        "current": "139.83"
     },
     {
         "symbol": "PPVCNC",
@@ -1689,61 +3102,88 @@
         "open": "7.32",
         "high": "8.65",
         "low": "7.31",
-        "current": "8.65"
+        "current": "7.32"
     },
     {
         "symbol": "PREMA",
         "name": "At-Tahur Limited",
         "ldcp": "49.69",
         "open": "48.90",
-        "high": "49.93",
-        "low": "48.75",
-        "current": "49.80"
+        "high": "50.50",
+        "low": "47.50",
+        "current": "48.70"
     },
     {
         "symbol": "PRL",
         "name": "Pakistan Refinery Limited",
         "ldcp": "32.15",
         "open": "32.65",
-        "high": "32.75",
+        "high": "34.38",
         "low": "32.45",
-        "current": "32.53"
+        "current": "34.03"
+    },
+    {
+        "symbol": "PRWM",
+        "name": "Prosperity Weaving Mills Limited",
+        "ldcp": "39.00",
+        "open": "37.10",
+        "high": "37.10",
+        "low": "37.10",
+        "current": "37.10"
+    },
+    {
+        "symbol": "PSEL",
+        "name": "Pakistan Services Limited",
+        "ldcp": "932.00",
+        "open": "950.00",
+        "high": "954.90",
+        "low": "903.86",
+        "current": "948.87"
     },
     {
         "symbol": "PSO",
         "name": "Pakistan State Oil Company Limited",
         "ldcp": "379.43",
         "open": "378.06",
-        "high": "380.45",
+        "high": "386.70",
         "low": "378.06",
-        "current": "379.87"
+        "current": "383.50"
     },
     {
         "symbol": "PSX",
         "name": "Pakistan Stock Exchange Limited",
         "ldcp": "26.32",
         "open": "26.32",
-        "high": "26.32",
-        "low": "26.32",
-        "current": "26.32"
+        "high": "27.20",
+        "low": "26.11",
+        "current": "27.05"
     },
     {
         "symbol": "PSYL",
         "name": "Pakistan Synthetics Limited",
         "ldcp": "60.03",
         "open": "59.60",
-        "high": "59.60",
-        "low": "59.60",
-        "current": "59.60"
+        "high": "63.00",
+        "low": "56.50",
+        "current": "58.83"
     },
     {
         "symbol": "PTC",
         "name": "Pakistan Telecommunication Company Ltd",
         "ldcp": "22.00",
         "open": "22.00",
-        "high": "22.10",
+        "high": "23.48",
         "low": "22.00",
-        "current": "22.10"
+        "current": "23.17"
+    },
+    {
+        "symbol": "PTL",
+        "name": "Panther Tyres Ltd.",
+        "ldcp": "38.98",
+        "open": "38.94",
+        "high": "40.85",
+        "low": "38.70",
+        "current": "40.03"
     },
     {
         "symbol": "QUETNC",
@@ -1751,26 +3191,53 @@
         "ldcp": "14.42",
         "open": "15.30",
         "high": "15.30",
-        "low": "15.30",
-        "current": "15.30"
+        "low": "13.50",
+        "current": "14.75"
     },
     {
         "symbol": "QUICE",
         "name": "Quice Food Industries Limited",
         "ldcp": "7.30",
         "open": "7.40",
-        "high": "7.49",
-        "low": "7.40",
-        "current": "7.49"
+        "high": "7.83",
+        "low": "7.35",
+        "current": "7.67"
+    },
+    {
+        "symbol": "RCML",
+        "name": "Reliance Cotton Spinning Mills Limited",
+        "ldcp": "399.67",
+        "open": "437.00",
+        "high": "439.64",
+        "low": "437.00",
+        "current": "439.64"
+    },
+    {
+        "symbol": "REDCO",
+        "name": "Redco Textiles Limited",
+        "ldcp": "25.00",
+        "open": "25.45",
+        "high": "25.45",
+        "low": "25.02",
+        "current": "25.00"
+    },
+    {
+        "symbol": "RICLXB",
+        "name": "Reliance Insurance Company Limited",
+        "ldcp": "10.29",
+        "open": "10.70",
+        "high": "10.70",
+        "low": "10.30",
+        "current": "10.31"
     },
     {
         "symbol": "RMPL",
         "name": "Rafhan Maize Products Company Limited",
         "ldcp": "10,241.75",
         "open": "10,510.00",
-        "high": "10,510.00",
-        "low": "10,510.00",
-        "current": "10,510.00"
+        "high": "10,550.00",
+        "low": "10,250.00",
+        "current": "10,462.44"
     },
     {
         "symbol": "RPL",
@@ -1778,17 +3245,35 @@
         "ldcp": "16.30",
         "open": "16.30",
         "high": "16.47",
-        "low": "16.26",
-        "current": "16.26"
+        "low": "15.15",
+        "current": "15.84"
+    },
+    {
+        "symbol": "RUBYNC",
+        "name": "Ruby Textile Mills Limited",
+        "ldcp": "7.90",
+        "open": "7.41",
+        "high": "7.88",
+        "low": "7.41",
+        "current": "7.90"
     },
     {
         "symbol": "RUPL",
         "name": "Rupali Polyester Limited",
         "ldcp": "18.10",
         "open": "17.99",
-        "high": "17.99",
-        "low": "17.75",
-        "current": "17.75"
+        "high": "18.48",
+        "low": "16.75",
+        "current": "17.64"
+    },
+    {
+        "symbol": "SAIF",
+        "name": "Saif Textile Mills Limited",
+        "ldcp": "9.91",
+        "open": "10.00",
+        "high": "10.91",
+        "low": "9.70",
+        "current": "10.91"
     },
     {
         "symbol": "SANSM",
@@ -1797,7 +3282,34 @@
         "open": "59.00",
         "high": "59.00",
         "low": "51.10",
-        "current": "51.10"
+        "current": "56.25"
+    },
+    {
+        "symbol": "SAPT",
+        "name": "Sapphire Textile Mills Limited",
+        "ldcp": "1,100.00",
+        "open": "1,100.00",
+        "high": "1,100.00",
+        "low": "1,100.00",
+        "current": "1,100.00"
+    },
+    {
+        "symbol": "SARC",
+        "name": "Sardar Chemical Industries Limited",
+        "ldcp": "32.30",
+        "open": "32.00",
+        "high": "32.00",
+        "low": "30.12",
+        "current": "30.12"
+    },
+    {
+        "symbol": "SASML",
+        "name": "Sindh Abadgars Sugar Mills Limited",
+        "ldcp": "57.01",
+        "open": "57.02",
+        "high": "57.02",
+        "low": "57.02",
+        "current": "57.02"
     },
     {
         "symbol": "SAZEW",
@@ -1805,26 +3317,53 @@
         "ldcp": "1,285.69",
         "open": "1,285.03",
         "high": "1,294.49",
-        "low": "1,285.03",
-        "current": "1,294.49"
+        "low": "1,268.56",
+        "current": "1,275.03"
+    },
+    {
+        "symbol": "SBL",
+        "name": "Samba Bank Limited",
+        "ldcp": "8.59",
+        "open": "8.99",
+        "high": "8.99",
+        "low": "8.99",
+        "current": "8.59"
+    },
+    {
+        "symbol": "SCBPL",
+        "name": "Standard Chartered Bank (Pak) Ltd",
+        "ldcp": "60.59",
+        "open": "61.00",
+        "high": "61.00",
+        "low": "57.82",
+        "current": "58.04"
+    },
+    {
+        "symbol": "SCL",
+        "name": "Shield Corporation Limited",
+        "ldcp": "265.01",
+        "open": "262.00",
+        "high": "270.00",
+        "low": "250.00",
+        "current": "260.73"
     },
     {
         "symbol": "SEARL",
         "name": "The Searle Company Limited",
         "ldcp": "84.89",
         "open": "85.50",
-        "high": "85.50",
-        "low": "85.00",
-        "current": "85.00"
+        "high": "87.25",
+        "low": "84.99",
+        "current": "85.82"
     },
     {
         "symbol": "SEPL",
         "name": "Security Papers Limited",
         "ldcp": "155.45",
         "open": "154.61",
-        "high": "154.61",
+        "high": "157.00",
         "low": "154.61",
-        "current": "154.61"
+        "current": "155.43"
     },
     {
         "symbol": "SERT",
@@ -1832,8 +3371,44 @@
         "ldcp": "15.12",
         "open": "15.13",
         "high": "15.13",
-        "low": "15.12",
-        "current": "15.13"
+        "low": "14.01",
+        "current": "14.63"
+    },
+    {
+        "symbol": "SFL",
+        "name": "Sapphire Fibres Limited",
+        "ldcp": "1,050.00",
+        "open": "1,099.00",
+        "high": "1,099.00",
+        "low": "1,020.35",
+        "current": "1,023.98"
+    },
+    {
+        "symbol": "SGF",
+        "name": "Service GlobalFootwear Limited",
+        "ldcp": "76.02",
+        "open": "77.02",
+        "high": "77.02",
+        "low": "75.50",
+        "current": "75.73"
+    },
+    {
+        "symbol": "SGPL",
+        "name": "S.G. Power Limited",
+        "ldcp": "7.68",
+        "open": "8.20",
+        "high": "8.20",
+        "low": "7.57",
+        "current": "7.87"
+    },
+    {
+        "symbol": "SHCM",
+        "name": "Shadman Cotton Mills Limited",
+        "ldcp": "31.90",
+        "open": "29.55",
+        "high": "29.55",
+        "low": "29.55",
+        "current": "31.90"
     },
     {
         "symbol": "SHDT",
@@ -1842,16 +3417,115 @@
         "open": "29.16",
         "high": "29.16",
         "low": "29.14",
-        "current": "29.14"
+        "current": "29.16"
+    },
+    {
+        "symbol": "SHEZ",
+        "name": "Shezan International Limited",
+        "ldcp": "180.00",
+        "open": "186.00",
+        "high": "186.00",
+        "low": "180.55",
+        "current": "182.23"
+    },
+    {
+        "symbol": "SHFA",
+        "name": "Shifa International Hospitals Limited",
+        "ldcp": "449.13",
+        "open": "450.00",
+        "high": "455.50",
+        "low": "450.00",
+        "current": "452.59"
+    },
+    {
+        "symbol": "SHNIXB",
+        "name": "Shaheen Insurance Company Limited",
+        "ldcp": "5.16",
+        "open": "5.25",
+        "high": "5.38",
+        "low": "5.20",
+        "current": "5.25"
+    },
+    {
+        "symbol": "SHSML",
+        "name": "Shahmurad Sugar Mills Limited",
+        "ldcp": "364.97",
+        "open": "357.01",
+        "high": "364.00",
+        "low": "357.01",
+        "current": "364.97"
+    },
+    {
+        "symbol": "SIBL",
+        "name": "Security Investment Bank Limited",
+        "ldcp": "8.26",
+        "open": "7.52",
+        "high": "8.00",
+        "low": "7.52",
+        "current": "8.00"
+    },
+    {
+        "symbol": "SIEM",
+        "name": "Siemens (Pakistan) Engineering",
+        "ldcp": "1,509.26",
+        "open": "1,518.98",
+        "high": "1,518.98",
+        "low": "1,518.98",
+        "current": "1,518.98"
+    },
+    {
+        "symbol": "SINDM",
+        "name": "Sindh Modaraba",
+        "ldcp": "10.84",
+        "open": "10.90",
+        "high": "10.95",
+        "low": "10.76",
+        "current": "10.84"
+    },
+    {
+        "symbol": "SITC",
+        "name": "Sitara Chemical Industries Limited",
+        "ldcp": "436.33",
+        "open": "436.33",
+        "high": "436.33",
+        "low": "436.00",
+        "current": "436.33"
+    },
+    {
+        "symbol": "SKRSNC",
+        "name": "Sakrand Sugar Mills Limited",
+        "ldcp": "11.69",
+        "open": "11.79",
+        "high": "12.39",
+        "low": "11.52",
+        "current": "11.66"
     },
     {
         "symbol": "SLGL",
         "name": "Secure Logistics Group Limited",
         "ldcp": "14.91",
         "open": "14.99",
-        "high": "14.99",
-        "low": "14.90",
-        "current": "14.90"
+        "high": "15.45",
+        "low": "14.70",
+        "current": "15.05"
+    },
+    {
+        "symbol": "SLYTNC",
+        "name": "Sally Textile Mills Limited",
+        "ldcp": "8.15",
+        "open": "8.15",
+        "high": "9.15",
+        "low": "8.15",
+        "current": "9.15"
+    },
+    {
+        "symbol": "SMCPL",
+        "name": "Safe Mix Concrete Limited",
+        "ldcp": "16.65",
+        "open": "16.65",
+        "high": "16.93",
+        "low": "16.51",
+        "current": "16.91"
     },
     {
         "symbol": "SMLNC",
@@ -1859,53 +3533,71 @@
         "ldcp": "67.82",
         "open": "70.00",
         "high": "70.00",
-        "low": "70.00",
-        "current": "70.00"
+        "low": "66.03",
+        "current": "68.13"
+    },
+    {
+        "symbol": "SNAI",
+        "name": "Sana Industries Limited",
+        "ldcp": "23.20",
+        "open": "24.50",
+        "high": "24.90",
+        "low": "24.50",
+        "current": "24.54"
     },
     {
         "symbol": "SNBL",
         "name": "Soneri Bank Limited",
         "ldcp": "16.30",
         "open": "16.20",
-        "high": "16.20",
-        "low": "16.20",
-        "current": "16.20"
+        "high": "16.40",
+        "low": "16.15",
+        "current": "16.23"
     },
     {
         "symbol": "SNGP",
         "name": "Sui Northern Gas Pipelines Limited",
         "ldcp": "118.86",
         "open": "119.01",
-        "high": "119.98",
-        "low": "119.01",
-        "current": "119.98"
+        "high": "122.10",
+        "low": "118.50",
+        "current": "120.58"
     },
     {
         "symbol": "SPEL",
         "name": "Synthetic Products Enterprises Limited",
         "ldcp": "39.48",
         "open": "39.51",
-        "high": "39.60",
-        "low": "39.48",
-        "current": "39.48"
+        "high": "43.43",
+        "low": "39.45",
+        "current": "43.43"
     },
     {
         "symbol": "SPLNC",
         "name": "Sitara Peroxide Limited",
         "ldcp": "15.65",
         "open": "15.95",
-        "high": "15.95",
-        "low": "15.95",
-        "current": "15.95"
+        "high": "16.10",
+        "low": "15.31",
+        "current": "15.49"
     },
     {
         "symbol": "SPWL",
         "name": "Saif Power Limited",
         "ldcp": "11.67",
         "open": "11.65",
-        "high": "11.65",
-        "low": "11.65",
-        "current": "11.65"
+        "high": "11.85",
+        "low": "11.55",
+        "current": "11.71"
+    },
+    {
+        "symbol": "SRVI",
+        "name": "Service Industries Limited",
+        "ldcp": "1,120.63",
+        "open": "1,120.00",
+        "high": "1,138.00",
+        "low": "1,120.00",
+        "current": "1,121.15"
     },
     {
         "symbol": "SSGC",
@@ -1913,8 +3605,8 @@
         "ldcp": "35.03",
         "open": "35.47",
         "high": "35.47",
-        "low": "35.00",
-        "current": "35.18"
+        "low": "34.51",
+        "current": "35.13"
     },
     {
         "symbol": "SSMLNC",
@@ -1930,63 +3622,126 @@
         "name": "S.S.Oil Mills Limited",
         "ldcp": "855.02",
         "open": "820.01",
-        "high": "863.75",
+        "high": "875.00",
         "low": "820.01",
-        "current": "858.00"
+        "current": "854.39"
+    },
+    {
+        "symbol": "STCL",
+        "name": "Shabbir Tiles & Ceramics Limited",
+        "ldcp": "13.25",
+        "open": "13.39",
+        "high": "13.60",
+        "low": "12.61",
+        "current": "13.36"
+    },
+    {
+        "symbol": "STJT",
+        "name": "Shahtaj Textile Limited",
+        "ldcp": "78.01",
+        "open": "78.05",
+        "high": "78.05",
+        "low": "78.05",
+        "current": "78.01"
+    },
+    {
+        "symbol": "STL",
+        "name": "Supernet Technologies Limited",
+        "ldcp": "825.00",
+        "open": "820.00",
+        "high": "820.00",
+        "low": "820.00",
+        "current": "825.00"
     },
     {
         "symbol": "STML",
         "name": "Shams Textile Mills Limited",
         "ldcp": "24.01",
         "open": "24.01",
-        "high": "24.01",
+        "high": "24.45",
         "low": "24.01",
         "current": "24.01"
+    },
+    {
+        "symbol": "STPLNC",
+        "name": "Siddiqsons Tin Plate Limited",
+        "ldcp": "5.50",
+        "open": "5.50",
+        "high": "5.67",
+        "low": "5.43",
+        "current": "5.59"
+    },
+    {
+        "symbol": "STYLERS",
+        "name": "Stylers International Limited",
+        "ldcp": "41.00",
+        "open": "40.00",
+        "high": "40.00",
+        "low": "39.50",
+        "current": "39.80"
+    },
+    {
+        "symbol": "SUHJNC",
+        "name": "Suhail Jute Mills Limited",
+        "ldcp": "78.36",
+        "open": "78.36",
+        "high": "78.36",
+        "low": "78.35",
+        "current": "78.36"
+    },
+    {
+        "symbol": "SURC",
+        "name": "Suraj Cotton Mills Limited",
+        "ldcp": "101.00",
+        "open": "102.00",
+        "high": "103.99",
+        "low": "100.00",
+        "current": "103.79"
     },
     {
         "symbol": "SUTM",
         "name": "Sunrays Textile Mills Limited",
         "ldcp": "204.90",
         "open": "204.69",
-        "high": "204.69",
+        "high": "219.85",
         "low": "204.69",
-        "current": "204.69"
+        "current": "212.49"
     },
     {
         "symbol": "SYM",
         "name": "Symmetry Group Limited",
         "ldcp": "14.92",
         "open": "14.92",
-        "high": "15.00",
-        "low": "14.92",
-        "current": "15.00"
+        "high": "15.59",
+        "low": "14.91",
+        "current": "15.21"
     },
     {
         "symbol": "SYS",
         "name": "Systems Limited",
         "ldcp": "531.05",
         "open": "530.33",
-        "high": "532.89",
-        "low": "530.33",
-        "current": "532.89"
+        "high": "535.88",
+        "low": "528.85",
+        "current": "531.01"
     },
     {
         "symbol": "TATM",
         "name": "Tata Textile Mills Limited",
         "ldcp": "43.00",
         "open": "43.00",
-        "high": "43.49",
+        "high": "47.30",
         "low": "43.00",
-        "current": "43.49"
+        "current": "47.00"
     },
     {
         "symbol": "TBL",
         "name": "Treet Battery Limited.",
         "ldcp": "11.49",
         "open": "11.65",
-        "high": "11.65",
-        "low": "11.65",
-        "current": "11.65"
+        "high": "12.24",
+        "low": "11.42",
+        "current": "12.04"
     },
     {
         "symbol": "TCORP",
@@ -1994,26 +3749,62 @@
         "ldcp": "15.53",
         "open": "15.65",
         "high": "16.00",
-        "low": "15.65",
-        "current": "16.00"
+        "low": "14.40",
+        "current": "14.77"
+    },
+    {
+        "symbol": "TCORPCPS",
+        "name": "Tariq Corporation Limited(Pref)",
+        "ldcp": "8.11",
+        "open": "7.12",
+        "high": "7.12",
+        "low": "7.12",
+        "current": "8.11"
     },
     {
         "symbol": "TELE",
         "name": "Telecard Limited",
         "ldcp": "7.37",
         "open": "7.38",
-        "high": "7.38",
-        "low": "7.38",
-        "current": "7.38"
+        "high": "7.66",
+        "low": "7.32",
+        "current": "7.55"
+    },
+    {
+        "symbol": "TGL",
+        "name": "Tariq Glass Industries Limited",
+        "ldcp": "207.79",
+        "open": "207.00",
+        "high": "213.50",
+        "low": "207.00",
+        "current": "212.09"
+    },
+    {
+        "symbol": "THALL",
+        "name": "Thal Limited",
+        "ldcp": "373.75",
+        "open": "372.00",
+        "high": "375.00",
+        "low": "370.16",
+        "current": "374.15"
     },
     {
         "symbol": "THCCL",
         "name": "Thatta Cement Company Limited",
         "ldcp": "183.92",
         "open": "185.00",
-        "high": "185.00",
-        "low": "185.00",
-        "current": "185.00"
+        "high": "185.84",
+        "low": "183.25",
+        "current": "183.57"
+    },
+    {
+        "symbol": "TICL",
+        "name": "The Thal Industries Corporation Limited",
+        "ldcp": "320.58",
+        "open": "311.58",
+        "high": "333.00",
+        "low": "310.00",
+        "current": "320.58"
     },
     {
         "symbol": "TOMCL",
@@ -2021,26 +3812,26 @@
         "ldcp": "32.19",
         "open": "32.25",
         "high": "32.30",
-        "low": "32.06",
-        "current": "32.06"
+        "low": "31.85",
+        "current": "32.11"
     },
     {
         "symbol": "TOWL",
         "name": "Towellers Limited",
         "ldcp": "120.71",
         "open": "120.00",
-        "high": "120.00",
-        "low": "120.00",
-        "current": "120.00"
+        "high": "121.00",
+        "low": "118.50",
+        "current": "120.08"
     },
     {
         "symbol": "TPL",
         "name": "TPL Corp Limited",
         "ldcp": "4.55",
         "open": "4.58",
-        "high": "4.58",
-        "low": "4.58",
-        "current": "4.58"
+        "high": "4.85",
+        "low": "4.45",
+        "current": "4.69"
     },
     {
         "symbol": "TPLI",
@@ -2048,17 +3839,17 @@
         "ldcp": "8.14",
         "open": "8.57",
         "high": "8.57",
-        "low": "8.57",
-        "current": "8.57"
+        "low": "8.00",
+        "current": "8.37"
     },
     {
         "symbol": "TPLP",
         "name": "TPL Properties Limited",
         "ldcp": "9.03",
         "open": "9.10",
-        "high": "9.10",
-        "low": "9.01",
-        "current": "9.01"
+        "high": "9.78",
+        "low": "8.95",
+        "current": "9.57"
     },
     {
         "symbol": "TPLRF1",
@@ -2066,35 +3857,62 @@
         "ldcp": "13.03",
         "open": "13.03",
         "high": "13.03",
-        "low": "13.01",
-        "current": "13.01"
+        "low": "12.66",
+        "current": "12.69"
     },
     {
         "symbol": "TPLT",
         "name": "TPL Trakker Limited",
         "ldcp": "6.00",
         "open": "5.95",
-        "high": "5.95",
+        "high": "6.11",
         "low": "5.95",
-        "current": "5.95"
+        "current": "6.00"
     },
     {
         "symbol": "TREET",
         "name": "Treet Corporation Limited",
         "ldcp": "19.34",
         "open": "19.36",
-        "high": "19.36",
-        "low": "19.36",
-        "current": "19.36"
+        "high": "19.97",
+        "low": "19.30",
+        "current": "19.46"
     },
     {
         "symbol": "TRG",
         "name": "TRG Pakistan Limited",
         "ldcp": "62.15",
         "open": "62.15",
-        "high": "62.49",
+        "high": "63.58",
         "low": "62.15",
-        "current": "62.35"
+        "current": "63.21"
+    },
+    {
+        "symbol": "TRIPF",
+        "name": "Tri-Pack Films Limited",
+        "ldcp": "121.00",
+        "open": "123.00",
+        "high": "123.00",
+        "low": "120.11",
+        "current": "121.50"
+    },
+    {
+        "symbol": "TRSM",
+        "name": "Trust Modaraba",
+        "ldcp": "5.27",
+        "open": "5.33",
+        "high": "5.65",
+        "low": "5.25",
+        "current": "5.45"
+    },
+    {
+        "symbol": "TSBL",
+        "name": "Trust Securities & Brokerage Limited",
+        "ldcp": "11.71",
+        "open": "12.88",
+        "high": "12.88",
+        "low": "12.88",
+        "current": "12.88"
     },
     {
         "symbol": "TSMF",
@@ -2102,26 +3920,71 @@
         "ldcp": "8.39",
         "open": "8.90",
         "high": "8.90",
-        "low": "8.90",
-        "current": "8.90"
+        "low": "8.64",
+        "current": "8.39"
+    },
+    {
+        "symbol": "TSML",
+        "name": "Tandlianwala Sugar Mills Limited",
+        "ldcp": "159.78",
+        "open": "165.00",
+        "high": "170.01",
+        "low": "150.20",
+        "current": "159.78"
+    },
+    {
+        "symbol": "TSPL",
+        "name": "Tri-Star Power Limited",
+        "ldcp": "6.50",
+        "open": "6.67",
+        "high": "6.67",
+        "low": "6.34",
+        "current": "6.57"
+    },
+    {
+        "symbol": "UBDL",
+        "name": "United Brands Limited",
+        "ldcp": "26.37",
+        "open": "26.50",
+        "high": "27.80",
+        "low": "26.00",
+        "current": "26.32"
     },
     {
         "symbol": "UBL",
         "name": "United Bank Limited",
         "ldcp": "509.51",
         "open": "510.01",
-        "high": "513.59",
+        "high": "521.90",
         "low": "510.01",
-        "current": "512.00"
+        "current": "515.74"
+    },
+    {
+        "symbol": "UBLPETF",
+        "name": "UBLPakistan Enterprise ETF",
+        "ldcp": "27.01",
+        "open": "27.25",
+        "high": "27.25",
+        "low": "27.08",
+        "current": "27.15"
     },
     {
         "symbol": "UCAPM",
         "name": "Unicap Modaraba",
         "ldcp": "2.89",
         "open": "2.77",
-        "high": "2.77",
+        "high": "2.90",
         "low": "2.77",
-        "current": "2.77"
+        "current": "2.88"
+    },
+    {
+        "symbol": "UDLI",
+        "name": "UDL International Limited",
+        "ldcp": "8.15",
+        "open": "8.14",
+        "high": "8.15",
+        "low": "8.14",
+        "current": "8.15"
     },
     {
         "symbol": "UDPL",
@@ -2130,25 +3993,61 @@
         "open": "63.00",
         "high": "63.00",
         "low": "61.02",
-        "current": "61.02"
+        "current": "62.62"
+    },
+    {
+        "symbol": "UNIC",
+        "name": "The United Insurance Company",
+        "ldcp": "17.03",
+        "open": "17.15",
+        "high": "17.29",
+        "low": "17.04",
+        "current": "17.21"
     },
     {
         "symbol": "UNITY",
         "name": "Unity Foods Limited",
         "ldcp": "26.82",
         "open": "26.52",
-        "high": "26.70",
+        "high": "27.19",
         "low": "26.52",
-        "current": "26.70"
+        "current": "26.93"
+    },
+    {
+        "symbol": "UPFL",
+        "name": "Unilever Pakistan Foods Limited",
+        "ldcp": "22,793.50",
+        "open": "22,800.00",
+        "high": "22,900.00",
+        "low": "22,800.00",
+        "current": "22,900.00"
+    },
+    {
+        "symbol": "UVIC",
+        "name": "The Universal Insurance Company Limited",
+        "ldcp": "9.18",
+        "open": "9.84",
+        "high": "9.84",
+        "low": "9.10",
+        "current": "9.50"
+    },
+    {
+        "symbol": "WAHN",
+        "name": "Wah Noble Chemicals Limited",
+        "ldcp": "235.00",
+        "open": "234.00",
+        "high": "240.09",
+        "low": "234.00",
+        "current": "240.00"
     },
     {
         "symbol": "WAVES",
         "name": "Waves Corporation Limited",
         "ldcp": "7.70",
         "open": "7.71",
-        "high": "7.77",
-        "low": "7.71",
-        "current": "7.77"
+        "high": "7.78",
+        "low": "7.52",
+        "current": "7.66"
     },
     {
         "symbol": "WAVESAPP",
@@ -2156,25 +4055,52 @@
         "ldcp": "10.05",
         "open": "10.25",
         "high": "10.50",
-        "low": "10.24",
-        "current": "10.44"
+        "low": "10.03",
+        "current": "10.24"
     },
     {
         "symbol": "WTL",
         "name": "Worldcall Telecom Limited",
         "ldcp": "1.24",
         "open": "1.25",
-        "high": "1.26",
+        "high": "1.32",
         "low": "1.25",
-        "current": "1.26"
+        "current": "1.27"
     },
     {
         "symbol": "YOUW",
         "name": "Yousaf Weaving Mills Limited",
         "ldcp": "3.66",
         "open": "3.69",
-        "high": "3.69",
-        "low": "3.69",
-        "current": "3.69"
+        "high": "3.87",
+        "low": "3.63",
+        "current": "3.83"
+    },
+    {
+        "symbol": "ZAHID",
+        "name": "Zahidjee Textile Mills Limited",
+        "ldcp": "25.15",
+        "open": "25.50",
+        "high": "27.65",
+        "low": "25.50",
+        "current": "27.65"
+    },
+    {
+        "symbol": "ZIL",
+        "name": "ZIL Limited",
+        "ldcp": "270.27",
+        "open": "270.30",
+        "high": "279.00",
+        "low": "270.00",
+        "current": "270.02"
+    },
+    {
+        "symbol": "ZTL",
+        "name": "Zephyr Textiles Limited",
+        "ldcp": "11.10",
+        "open": "11.10",
+        "high": "11.25",
+        "low": "11.10",
+        "current": "11.25"
     }
 ]
